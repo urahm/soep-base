@@ -1,0 +1,11 @@
+study,dataset,analysis_unit,period,conceptual_dataset
+soep-base,h2008,h,2008,org/net
+soep-base,h2009,h,2009,org/net
+soep-base,h2010,h,2010,org/net
+soep-base,h2012,h,2012,org/net
+soep-base,l2009,p,2009,org/net
+soep-base,p2008,p,2008,org/net
+soep-base,p2009,p,2009,org/net
+soep-base,p2010,p,2010,org/net
+soep-base,p2012,p,2012,org/net
+soep-base,soep-base-long,,long,gen
