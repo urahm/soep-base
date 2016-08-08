@@ -1,3 +1,11 @@
+---
+name: soep-base
+label: BASE II
+config:
+    variables:
+        label-table: True
+---
+
 # BASE-II
 
 ## Citation
