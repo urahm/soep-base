@@ -1,0 +1,9239 @@
+{
+  "welle": {
+    "study": "soep-base",
+    "name": "welle",
+    "name_cs": "welle",
+    "variable": "welle",
+    "dataset": "h2009",
+    "label": "erhebungsjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2009",
+        "2009",
+        "2009",
+        "2009",
+        "2009",
+        "2009",
+        "1319",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "sample1": {
+    "study": "soep-base",
+    "name": "sample1",
+    "name_cs": "sample1",
+    "variable": "sample1",
+    "dataset": "h2009",
+    "label": "ursprungsstichprobe",
+    "categories": {
+      "frequencies": [
+        161,
+        1158
+      ],
+      "labels": [
+        "Sonderprojekt 2008 Stichprobe L1",
+        "Sonderprojekt 2009 Stichprobe L2"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "17",
+        "18"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1319",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zhhnr": {
+    "study": "soep-base",
+    "name": "zhhnr",
+    "name_cs": "zhhnr",
+    "variable": "zhhnr",
+    "dataset": "h2009",
+    "label": "Aktuelle Haushaltsnummer",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "630000",
+        "635100",
+        "639300",
+        "639200",
+        "643400",
+        "647900",
+        "1319",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "zausku": {
+    "study": "soep-base",
+    "name": "zausku",
+    "name_cs": "zausku",
+    "variable": "zausku",
+    "dataset": "h2009",
+    "label": "Auskunftsperson Nummer (PNR)",
+    "categories": {
+      "frequencies": [
+        1183,
+        127,
+        8,
+        1,
+        0,
+        0
+      ],
+      "labels": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "frueheres stichprobenmitglied",
+        "kein stichprobenmitglied"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "98",
+        "99"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1319",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh01": {
+    "study": "soep-base",
+    "name": "zh01",
+    "name_cs": "zh01",
+    "variable": "zh01",
+    "dataset": "h2009",
+    "label": "heute vor 1 jahr in dieser wohnung gelebt",
+    "categories": {
+      "frequencies": [
+        1221,
+        1,
+        97
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1318",
+        "1"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0201": {
+    "study": "soep-base",
+    "name": "zh0201",
+    "name_cs": "zh0201",
+    "variable": "zh0201",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg kuendigung",
+    "categories": {
+      "frequencies": [
+        5,
+        1314
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "1314"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0202": {
+    "study": "soep-base",
+    "name": "zh0202",
+    "name_cs": "zh0202",
+    "variable": "zh0202",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg erwerb eigenheim",
+    "categories": {
+      "frequencies": [
+        6,
+        1313
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "1313"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0203": {
+    "study": "soep-base",
+    "name": "zh0203",
+    "name_cs": "zh0203",
+    "variable": "zh0203",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg erbschaft",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh0204": {
+    "study": "soep-base",
+    "name": "zh0204",
+    "name_cs": "zh0204",
+    "variable": "zh0204",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg berufliche gruende",
+    "categories": {
+      "frequencies": [
+        12,
+        1307
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12",
+        "1307"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0205": {
+    "study": "soep-base",
+    "name": "zh0205",
+    "name_cs": "zh0205",
+    "variable": "zh0205",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg heirat",
+    "categories": {
+      "frequencies": [
+        1,
+        1318
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1318"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0206": {
+    "study": "soep-base",
+    "name": "zh0206",
+    "name_cs": "zh0206",
+    "variable": "zh0206",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg trennung",
+    "categories": {
+      "frequencies": [
+        7,
+        1312
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "1312"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0207": {
+    "study": "soep-base",
+    "name": "zh0207",
+    "name_cs": "zh0207",
+    "variable": "zh0207",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg auszug elternhaus",
+    "categories": {
+      "frequencies": [
+        9,
+        1310
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "9",
+        "1310"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0208": {
+    "study": "soep-base",
+    "name": "zh0208",
+    "name_cs": "zh0208",
+    "variable": "zh0208",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg sonst. familie",
+    "categories": {
+      "frequencies": [
+        16,
+        1303
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "16",
+        "1303"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0209": {
+    "study": "soep-base",
+    "name": "zh0209",
+    "name_cs": "zh0209",
+    "variable": "zh0209",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg wohnung zu klein",
+    "categories": {
+      "frequencies": [
+        21,
+        1298
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "21",
+        "1298"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0210": {
+    "study": "soep-base",
+    "name": "zh0210",
+    "name_cs": "zh0210",
+    "variable": "zh0210",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg wohnung zu gross",
+    "categories": {
+      "frequencies": [
+        11,
+        1308
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "11",
+        "1308"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0211": {
+    "study": "soep-base",
+    "name": "zh0211",
+    "name_cs": "zh0211",
+    "variable": "zh0211",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg hohe wohnungskosten",
+    "categories": {
+      "frequencies": [
+        19,
+        1300
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "19",
+        "1300"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0212": {
+    "study": "soep-base",
+    "name": "zh0212",
+    "name_cs": "zh0212",
+    "variable": "zh0212",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg schlechte ausstattung",
+    "categories": {
+      "frequencies": [
+        9,
+        1310
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "9",
+        "1310"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0213": {
+    "study": "soep-base",
+    "name": "zh0213",
+    "name_cs": "zh0213",
+    "variable": "zh0213",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg schlechte lage",
+    "categories": {
+      "frequencies": [
+        7,
+        1312
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "1312"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0214": {
+    "study": "soep-base",
+    "name": "zh0214",
+    "name_cs": "zh0214",
+    "variable": "zh0214",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg alten-/behindertenungerecht.",
+    "categories": {
+      "frequencies": [
+        3,
+        1316
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "1316"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0215": {
+    "study": "soep-base",
+    "name": "zh0215",
+    "name_cs": "zh0215",
+    "variable": "zh0215",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg schlechtes umfeld",
+    "categories": {
+      "frequencies": [
+        8,
+        1311
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "8",
+        "1311"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0216": {
+    "study": "soep-base",
+    "name": "zh0216",
+    "name_cs": "zh0216",
+    "variable": "zh0216",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg neuem,besseren wohnumfeld",
+    "categories": {
+      "frequencies": [
+        31,
+        1288
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "31",
+        "1288"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0217": {
+    "study": "soep-base",
+    "name": "zh0217",
+    "name_cs": "zh0217",
+    "variable": "zh0217",
+    "dataset": "h2009",
+    "label": "wohnungswechsel wg sonstige gruende",
+    "categories": {
+      "frequencies": [
+        19,
+        1300
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "19",
+        "1300"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0301": {
+    "study": "soep-base",
+    "name": "zh0301",
+    "name_cs": "zh0301",
+    "variable": "zh0301",
+    "dataset": "h2009",
+    "label": "wohnungsvergleich finanzieller belastung",
+    "categories": {
+      "frequencies": [
+        31,
+        26,
+        1222,
+        40
+      ],
+      "labels": [
+        "verbessert",
+        "etwa gleichwertig",
+        "-2",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "97",
+        "1222"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0302": {
+    "study": "soep-base",
+    "name": "zh0302",
+    "name_cs": "zh0302",
+    "variable": "zh0302",
+    "dataset": "h2009",
+    "label": "wohnungsvergleich groesse",
+    "categories": {
+      "frequencies": [
+        50,
+        24,
+        1222,
+        23
+      ],
+      "labels": [
+        "verbessert",
+        "etwa gleichwertig",
+        "-2",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "97",
+        "1222"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0303": {
+    "study": "soep-base",
+    "name": "zh0303",
+    "name_cs": "zh0303",
+    "variable": "zh0303",
+    "dataset": "h2009",
+    "label": "wohnungsvergleich ausstattung",
+    "categories": {
+      "frequencies": [
+        51,
+        1,
+        36,
+        1222,
+        9
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "-2",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "96",
+        "1223"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0304": {
+    "study": "soep-base",
+    "name": "zh0304",
+    "name_cs": "zh0304",
+    "variable": "zh0304",
+    "dataset": "h2009",
+    "label": "wohnungsvergleich gegend",
+    "categories": {
+      "frequencies": [
+        45,
+        40,
+        1222,
+        12
+      ],
+      "labels": [
+        "verbessert",
+        "etwa gleichwertig",
+        "-2",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "97",
+        "1222"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0305": {
+    "study": "soep-base",
+    "name": "zh0305",
+    "name_cs": "zh0305",
+    "variable": "zh0305",
+    "dataset": "h2009",
+    "label": "wohnungsvergleich umwelt",
+    "categories": {
+      "frequencies": [
+        31,
+        46,
+        1222,
+        20
+      ],
+      "labels": [
+        "verbessert",
+        "etwa gleichwertig",
+        "-2",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "97",
+        "1222"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0306": {
+    "study": "soep-base",
+    "name": "zh0306",
+    "name_cs": "zh0306",
+    "variable": "zh0306",
+    "dataset": "h2009",
+    "label": "wohnungsvergleich verkehrsverbindung",
+    "categories": {
+      "frequencies": [
+        36,
+        1,
+        46,
+        1222,
+        14
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "-2",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "96",
+        "1223"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0307": {
+    "study": "soep-base",
+    "name": "zh0307",
+    "name_cs": "zh0307",
+    "variable": "zh0307",
+    "dataset": "h2009",
+    "label": "wohnungsvergleich nachbarn",
+    "categories": {
+      "frequencies": [
+        26,
+        1,
+        61,
+        1222,
+        9
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "-2",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "96",
+        "1223"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0401": {
+    "study": "soep-base",
+    "name": "zh0401",
+    "name_cs": "zh0401",
+    "variable": "zh0401",
+    "dataset": "h2009",
+    "label": "seit wann in dieser wohnung, monat",
+    "categories": {
+      "frequencies": [
+        79,
+        13,
+        119,
+        92,
+        108,
+        74,
+        143,
+        91,
+        89,
+        107,
+        95,
+        78,
+        112,
+        119
+      ],
+      "labels": [
+        "januar",
+        "-1",
+        "oktober",
+        "november",
+        "dezember",
+        "februar",
+        "-2",
+        "maerz",
+        "april",
+        "mai",
+        "juni",
+        "juli",
+        "august",
+        "september"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "10",
+        "11",
+        "12",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1163",
+        "156"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0402": {
+    "study": "soep-base",
+    "name": "zh0402",
+    "name_cs": "zh0402",
+    "variable": "zh0402",
+    "dataset": "h2009",
+    "label": "seit wann in dieser wohnung, jahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1940",
+        "1983",
+        "1999",
+        "1994",
+        "2005",
+        "2009",
+        "151",
+        "1168",
+        "151"
+      ]
+    },
+    "scale": ""
+  },
+  "zh05": {
+    "study": "soep-base",
+    "name": "zh05",
+    "name_cs": "zh05",
+    "variable": "zh05",
+    "dataset": "h2009",
+    "label": "wohngegend des zielhaushaltes",
+    "categories": {
+      "frequencies": [
+        339,
+        273,
+        207,
+        143,
+        352,
+        5,
+        0
+      ],
+      "labels": [
+        "reines wohngeb.altb.",
+        "-1",
+        "reines wohngeb.neub.",
+        "-2",
+        "mischgebiet",
+        "geschaeftszentrum",
+        "industriegebiet"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "903",
+        "416"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh06": {
+    "study": "soep-base",
+    "name": "zh06",
+    "name_cs": "zh06",
+    "variable": "zh06",
+    "dataset": "h2009",
+    "label": "haustyp des zielhaushaltes",
+    "categories": {
+      "frequencies": [
+        2,
+        265,
+        133,
+        143,
+        70,
+        34,
+        242,
+        339,
+        91
+      ],
+      "labels": [
+        "landw.wohngebaeude",
+        "-1",
+        "ein-,zweifamilienhaus",
+        "-2",
+        "reihenhaus",
+        "wohnhaus,3-4 wohnungen",
+        "wohnhaus,5-8 wohnungen",
+        "wohnh,9 u.mehr wohnungen",
+        "hochhaus"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "911",
+        "408"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh07": {
+    "study": "soep-base",
+    "name": "zh07",
+    "name_cs": "zh07",
+    "variable": "zh07",
+    "dataset": "h2009",
+    "label": "wohnheim",
+    "categories": {
+      "frequencies": [
+        1165,
+        0,
+        143,
+        3,
+        0,
+        0,
+        6,
+        0,
+        2
+      ],
+      "labels": [
+        "nein",
+        "schuelerwohnheim",
+        "-2",
+        "studentenwohnheim",
+        "berufstaet.wohnheim",
+        "altenheim",
+        "altenwohnheim",
+        "hotel/pension",
+        "sonstiges heim/unterkunft"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1176",
+        "143"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0801": {
+    "study": "soep-base",
+    "name": "zh0801",
+    "name_cs": "zh0801",
+    "variable": "zh0801",
+    "dataset": "h2009",
+    "label": "baujahr des hauses",
+    "categories": {
+      "frequencies": [
+        133,
+        264,
+        192,
+        143,
+        262,
+        125,
+        81,
+        101,
+        18
+      ],
+      "labels": [
+        "vor 1919",
+        "-1",
+        "1919 bis 1948",
+        "-2",
+        "1949 bis 1971",
+        "1972 bis 1980",
+        "1981 bis 1990",
+        "1991 bis 2000",
+        "2001 und spaeter"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "912",
+        "407"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh0802": {
+    "study": "soep-base",
+    "name": "zh0802",
+    "name_cs": "zh0802",
+    "variable": "zh0802",
+    "dataset": "h2009",
+    "label": "genaues baujahr (ab 1972)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1972",
+        "1978",
+        "1986",
+        "1987",
+        "1996",
+        "2008",
+        "1045",
+        "274",
+        "1045"
+      ]
+    },
+    "scale": ""
+  },
+  "zh09": {
+    "study": "soep-base",
+    "name": "zh09",
+    "name_cs": "zh09",
+    "variable": "zh09",
+    "dataset": "h2009",
+    "label": "aenderung wohnflaeche seit letztem jahr",
+    "categories": {
+      "frequencies": [
+        56,
+        4,
+        1259
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1315",
+        "4"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh10": {
+    "study": "soep-base",
+    "name": "zh10",
+    "name_cs": "zh10",
+    "variable": "zh10",
+    "dataset": "h2009",
+    "label": "wohnflaeche insgesamt in qm",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12",
+        "56",
+        "71",
+        "80.96",
+        "100",
+        "320",
+        "12",
+        "1307",
+        "12"
+      ]
+    },
+    "scale": ""
+  },
+  "zh11": {
+    "study": "soep-base",
+    "name": "zh11",
+    "name_cs": "zh11",
+    "variable": "zh11",
+    "dataset": "h2009",
+    "label": "anzahl der wohnraeume",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "3.05",
+        "4",
+        "10",
+        "7",
+        "1312",
+        "7"
+      ]
+    },
+    "scale": ""
+  },
+  "zh12": {
+    "study": "soep-base",
+    "name": "zh12",
+    "name_cs": "zh12",
+    "variable": "zh12",
+    "dataset": "h2009",
+    "label": "beurteilung der wohnungsgroesse",
+    "categories": {
+      "frequencies": [
+        22,
+        5,
+        250,
+        865,
+        165,
+        12
+      ],
+      "labels": [
+        "viel zu klein",
+        "-1",
+        "etwas zu klein",
+        "gerade richtig",
+        "etwas zu gross",
+        "viel zu gross"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1314",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh13": {
+    "study": "soep-base",
+    "name": "zh13",
+    "name_cs": "zh13",
+    "variable": "zh13",
+    "dataset": "h2009",
+    "label": "zustand des hauses in dem man wohnt",
+    "categories": {
+      "frequencies": [
+        911,
+        5,
+        375,
+        27,
+        1
+      ],
+      "labels": [
+        "in gutem zustand",
+        "-1",
+        "teilw. renov.beduerftig",
+        "ganz renov.beduerftig",
+        "abbruchreif"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1314",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1401": {
+    "study": "soep-base",
+    "name": "zh1401",
+    "name_cs": "zh1401",
+    "variable": "zh1401",
+    "dataset": "h2009",
+    "label": "wohnung mit kueche",
+    "categories": {
+      "frequencies": [
+        1302,
+        6,
+        11
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1313",
+        "6"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1402": {
+    "study": "soep-base",
+    "name": "zh1402",
+    "name_cs": "zh1402",
+    "variable": "zh1402",
+    "dataset": "h2009",
+    "label": "wohnung mit innenbad,-dusche",
+    "categories": {
+      "frequencies": [
+        1312,
+        4,
+        3
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1315",
+        "4"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1403": {
+    "study": "soep-base",
+    "name": "zh1403",
+    "name_cs": "zh1403",
+    "variable": "zh1403",
+    "dataset": "h2009",
+    "label": "wohnung mit warmwasser,boiler",
+    "categories": {
+      "frequencies": [
+        1299,
+        10,
+        10
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1309",
+        "10"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1404": {
+    "study": "soep-base",
+    "name": "zh1404",
+    "name_cs": "zh1404",
+    "variable": "zh1404",
+    "dataset": "h2009",
+    "label": "wohnung mit zentral-,etagenheizung",
+    "categories": {
+      "frequencies": [
+        1274,
+        13,
+        32
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1306",
+        "13"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1405": {
+    "study": "soep-base",
+    "name": "zh1405",
+    "name_cs": "zh1405",
+    "variable": "zh1405",
+    "dataset": "h2009",
+    "label": "wohnung mit fussbodenheizung (ganz/teilweise)",
+    "categories": {
+      "frequencies": [
+        97,
+        91,
+        1131
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1228",
+        "91"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1406": {
+    "study": "soep-base",
+    "name": "zh1406",
+    "name_cs": "zh1406",
+    "variable": "zh1406",
+    "dataset": "h2009",
+    "label": "wohnung mit balkon,terasse",
+    "categories": {
+      "frequencies": [
+        1046,
+        20,
+        253
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1299",
+        "20"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1407": {
+    "study": "soep-base",
+    "name": "zh1407",
+    "name_cs": "zh1407",
+    "variable": "zh1407",
+    "dataset": "h2009",
+    "label": "wohnung mit keller,abstellraeume",
+    "categories": {
+      "frequencies": [
+        1236,
+        7,
+        76
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1312",
+        "7"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1408": {
+    "study": "soep-base",
+    "name": "zh1408",
+    "name_cs": "zh1408",
+    "variable": "zh1408",
+    "dataset": "h2009",
+    "label": "wohnung mit garten,-benutzung",
+    "categories": {
+      "frequencies": [
+        422,
+        53,
+        844
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1266",
+        "53"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1409": {
+    "study": "soep-base",
+    "name": "zh1409",
+    "name_cs": "zh1409",
+    "variable": "zh1409",
+    "dataset": "h2009",
+    "label": "wohnung mit alarmanlage",
+    "categories": {
+      "frequencies": [
+        79,
+        72,
+        1168
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1247",
+        "72"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1410": {
+    "study": "soep-base",
+    "name": "zh1410",
+    "name_cs": "zh1410",
+    "variable": "zh1410",
+    "dataset": "h2009",
+    "label": "wohnung mit klimaanlage",
+    "categories": {
+      "frequencies": [
+        18,
+        74,
+        1227
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1245",
+        "74"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1411": {
+    "study": "soep-base",
+    "name": "zh1411",
+    "name_cs": "zh1411",
+    "variable": "zh1411",
+    "dataset": "h2009",
+    "label": "wohnung mit sonnenkollekt., solarenergie",
+    "categories": {
+      "frequencies": [
+        33,
+        72,
+        1214
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1247",
+        "72"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1412": {
+    "study": "soep-base",
+    "name": "zh1412",
+    "name_cs": "zh1412",
+    "variable": "zh1412",
+    "dataset": "h2009",
+    "label": "wohnung mit sonst. alternat. energiequellen",
+    "categories": {
+      "frequencies": [
+        7,
+        77,
+        1235
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1242",
+        "77"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1413": {
+    "study": "soep-base",
+    "name": "zh1413",
+    "name_cs": "zh1413",
+    "variable": "zh1413",
+    "dataset": "h2009",
+    "label": "wohnung mit aufzug/fahrstuhl im haus",
+    "categories": {
+      "frequencies": [
+        332,
+        52,
+        935
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1267",
+        "52"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1501": {
+    "study": "soep-base",
+    "name": "zh1501",
+    "name_cs": "zh1501",
+    "variable": "zh1501",
+    "dataset": "h2009",
+    "label": "seit vorjahr-kueche eingebaut",
+    "categories": {
+      "frequencies": [
+        38,
+        0,
+        1281
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "38",
+        "1281"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1502": {
+    "study": "soep-base",
+    "name": "zh1502",
+    "name_cs": "zh1502",
+    "variable": "zh1502",
+    "dataset": "h2009",
+    "label": "seit vorjahr-bad,dusche,wc eingebaut",
+    "categories": {
+      "frequencies": [
+        33,
+        0,
+        1286
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "33",
+        "1286"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1503": {
+    "study": "soep-base",
+    "name": "zh1503",
+    "name_cs": "zh1503",
+    "variable": "zh1503",
+    "dataset": "h2009",
+    "label": "seit vorjahr-heizung eingebaut",
+    "categories": {
+      "frequencies": [
+        19,
+        0,
+        1300
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "19",
+        "1300"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1504": {
+    "study": "soep-base",
+    "name": "zh1504",
+    "name_cs": "zh1504",
+    "variable": "zh1504",
+    "dataset": "h2009",
+    "label": "seit vorjahr-neue fenster eingebaut",
+    "categories": {
+      "frequencies": [
+        81,
+        0,
+        1238
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "81",
+        "1238"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1505": {
+    "study": "soep-base",
+    "name": "zh1505",
+    "name_cs": "zh1505",
+    "variable": "zh1505",
+    "dataset": "h2009",
+    "label": "seit vorjahr-waermedaemmung eingebaut",
+    "categories": {
+      "frequencies": [
+        51,
+        0,
+        1268
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "51",
+        "1268"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1506": {
+    "study": "soep-base",
+    "name": "zh1506",
+    "name_cs": "zh1506",
+    "variable": "zh1506",
+    "dataset": "h2009",
+    "label": "seit vorjahr-altersgerchte umbauten",
+    "categories": {
+      "frequencies": [
+        9,
+        0,
+        1310
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "9",
+        "1310"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1507": {
+    "study": "soep-base",
+    "name": "zh1507",
+    "name_cs": "zh1507",
+    "variable": "zh1507",
+    "dataset": "h2009",
+    "label": "seit vorjahr-sonst. groessere massnahmen",
+    "categories": {
+      "frequencies": [
+        49,
+        0,
+        1270
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "49",
+        "1270"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1508": {
+    "study": "soep-base",
+    "name": "zh1508",
+    "name_cs": "zh1508",
+    "variable": "zh1508",
+    "dataset": "h2009",
+    "label": "seit vorjahr-keine modernisierungen",
+    "categories": {
+      "frequencies": [
+        1124,
+        8,
+        0,
+        187
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1124",
+        "195"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh16": {
+    "study": "soep-base",
+    "name": "zh16",
+    "name_cs": "zh16",
+    "variable": "zh16",
+    "dataset": "h2009",
+    "label": "modernisierung auf kosten von",
+    "categories": {
+      "frequencies": [
+        80,
+        2,
+        80,
+        1132,
+        25
+      ],
+      "labels": [
+        "kosten d.vermieters",
+        "-1",
+        "eigene kosten",
+        "-2",
+        "teils, teils"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "185",
+        "1134"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh17": {
+    "study": "soep-base",
+    "name": "zh17",
+    "name_cs": "zh17",
+    "variable": "zh17",
+    "dataset": "h2009",
+    "label": "modernisierung durchgefuehrt von",
+    "categories": {
+      "frequencies": [
+        14,
+        71,
+        1214,
+        20
+      ],
+      "labels": [
+        "selbst,i.eigenarbeit",
+        "handwerker,firma",
+        "-2",
+        "beides"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "105",
+        "1214"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh18": {
+    "study": "soep-base",
+    "name": "zh18",
+    "name_cs": "zh18",
+    "variable": "zh18",
+    "dataset": "h2009",
+    "label": "eigentuemerwechsel vorjahr",
+    "categories": {
+      "frequencies": [
+        77,
+        6,
+        1236
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1313",
+        "6"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1901": {
+    "study": "soep-base",
+    "name": "zh1901",
+    "name_cs": "zh1901",
+    "variable": "zh1901",
+    "dataset": "h2009",
+    "label": "eigentuemerwechsel art",
+    "categories": {
+      "frequencies": [
+        6,
+        1,
+        2,
+        1242,
+        68
+      ],
+      "labels": [
+        "jetzt eigentuemer",
+        "-1",
+        "jetzt nicht mehr eigentuemer",
+        "-2",
+        "weiterhin mieter, eigenuemerwechsel"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "76",
+        "1243"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1902": {
+    "study": "soep-base",
+    "name": "zh1902",
+    "name_cs": "zh1902",
+    "variable": "zh1902",
+    "dataset": "h2009",
+    "label": "eigentumerwerb durch",
+    "categories": {
+      "frequencies": [
+        4,
+        2,
+        1313
+      ],
+      "labels": [
+        "kauf der wohnung",
+        "erbschaft/schenkung",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "1313"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh1903": {
+    "study": "soep-base",
+    "name": "zh1903",
+    "name_cs": "zh1903",
+    "variable": "zh1903",
+    "dataset": "h2009",
+    "label": "nicht mehr eigentuemer",
+    "categories": {
+      "frequencies": [
+        0,
+        2,
+        1317
+      ],
+      "labels": [
+        "verkauf der wohnung",
+        "erbschaft/schenkung",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "1317"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh20": {
+    "study": "soep-base",
+    "name": "zh20",
+    "name_cs": "zh20",
+    "variable": "zh20",
+    "dataset": "h2009",
+    "label": "haupt-, untermieter, eigentuemer",
+    "categories": {
+      "frequencies": [
+        921,
+        5,
+        41,
+        346,
+        6
+      ],
+      "labels": [
+        "hauptmieter",
+        "-1",
+        "untermieter",
+        "eigentuemer",
+        "heimbewohner"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1314",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh21": {
+    "study": "soep-base",
+    "name": "zh21",
+    "name_cs": "zh21",
+    "variable": "zh21",
+    "dataset": "h2009",
+    "label": "v. eigentuemer verbilligt ueberl.whg",
+    "categories": {
+      "frequencies": [
+        27,
+        941,
+        351
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "968",
+        "351"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh22": {
+    "study": "soep-base",
+    "name": "zh22",
+    "name_cs": "zh22",
+    "variable": "zh22",
+    "dataset": "h2009",
+    "label": "sozialwohnung",
+    "categories": {
+      "frequencies": [
+        43,
+        6,
+        99,
+        351,
+        820
+      ],
+      "labels": [
+        "bestehende sozialb.",
+        "-1",
+        "abgelaufene sozialb.",
+        "-2",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "962",
+        "357"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh2301": {
+    "study": "soep-base",
+    "name": "zh2301",
+    "name_cs": "zh2301",
+    "variable": "zh2301",
+    "dataset": "h2009",
+    "label": "hoehe der monatlichen miete",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "125",
+        "365",
+        "460",
+        "493.6",
+        "580",
+        "1570",
+        "376",
+        "943",
+        "376"
+      ]
+    },
+    "scale": ""
+  },
+  "zh2302": {
+    "study": "soep-base",
+    "name": "zh2302",
+    "name_cs": "zh2302",
+    "variable": "zh2302",
+    "dataset": "h2009",
+    "label": "zahle keine miete",
+    "categories": {
+      "frequencies": [
+        16,
+        9,
+        0,
+        1294
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "16",
+        "1303"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh24": {
+    "study": "soep-base",
+    "name": "zh24",
+    "name_cs": "zh24",
+    "variable": "zh24",
+    "dataset": "h2009",
+    "label": "heizungs-,wwkosten in d. miete",
+    "categories": {
+      "frequencies": [
+        717,
+        2,
+        224,
+        376
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "941",
+        "378"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh25": {
+    "study": "soep-base",
+    "name": "zh25",
+    "name_cs": "zh25",
+    "variable": "zh25",
+    "dataset": "h2009",
+    "label": "monatl. heizkosten, durchschnittl.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "8",
+        "45",
+        "61",
+        "75.06",
+        "93.5",
+        "320",
+        "591",
+        "728",
+        "591"
+      ]
+    },
+    "scale": ""
+  },
+  "zh2601": {
+    "study": "soep-base",
+    "name": "zh2601",
+    "name_cs": "zh2601",
+    "variable": "zh2601",
+    "dataset": "h2009",
+    "label": "monatl. heizkosten, durchschnittl.",
+    "categories": {
+      "frequencies": [
+        208,
+        7,
+        1104
+      ],
+      "labels": [
+        "weiss nicht",
+        "-1",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "208",
+        "1111"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh2602": {
+    "study": "soep-base",
+    "name": "zh2602",
+    "name_cs": "zh2602",
+    "variable": "zh2602",
+    "dataset": "h2009",
+    "label": "im mietpreis umlagen enthalten",
+    "categories": {
+      "frequencies": [
+        783,
+        29,
+        72,
+        376,
+        59
+      ],
+      "labels": [
+        "ja, ganz enthalten",
+        "-1",
+        "ja, teilweise enthalten",
+        "-2",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "914",
+        "405"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh2603": {
+    "study": "soep-base",
+    "name": "zh2603",
+    "name_cs": "zh2603",
+    "variable": "zh2603",
+    "dataset": "h2009",
+    "label": "monatl hoehe der umlagen",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "55",
+        "80",
+        "89.29",
+        "115",
+        "318",
+        "785",
+        "534",
+        "785"
+      ]
+    },
+    "scale": ""
+  },
+  "zh2604": {
+    "study": "soep-base",
+    "name": "zh2604",
+    "name_cs": "zh2604",
+    "variable": "zh2604",
+    "dataset": "h2009",
+    "label": "monatl hoehe der umlagen",
+    "categories": {
+      "frequencies": [
+        274,
+        47,
+        998
+      ],
+      "labels": [
+        "weiss nicht",
+        "-1",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "274",
+        "1045"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh27": {
+    "study": "soep-base",
+    "name": "zh27",
+    "name_cs": "zh27",
+    "variable": "zh27",
+    "dataset": "h2009",
+    "label": "beurteilung der miethoehe",
+    "categories": {
+      "frequencies": [
+        97,
+        2,
+        209,
+        376,
+        411,
+        207,
+        17
+      ],
+      "labels": [
+        "sehr guenstig",
+        "-1",
+        "guenstig",
+        "-2",
+        "angemessen",
+        "etwas zu hoch",
+        "viel zu hoch"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "941",
+        "378"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh28": {
+    "study": "soep-base",
+    "name": "zh28",
+    "name_cs": "zh28",
+    "variable": "zh28",
+    "dataset": "h2009",
+    "label": "eigentuemer der wohnung",
+    "categories": {
+      "frequencies": [
+        117,
+        34,
+        227,
+        376,
+        6,
+        537,
+        22,
+        0
+      ],
+      "labels": [
+        "kommunale wohnung",
+        "-1",
+        "genossenschaftliche wohnung",
+        "-2",
+        "betriebs-/werkswohnung",
+        "privater eigentuemer",
+        "weiss nicht",
+        "weiss nicht"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "909",
+        "410"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh29": {
+    "study": "soep-base",
+    "name": "zh29",
+    "name_cs": "zh29",
+    "variable": "zh29",
+    "dataset": "h2009",
+    "label": "zins-,tilgungszahlungen f wohnung",
+    "categories": {
+      "frequencies": [
+        132,
+        214,
+        973
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "346",
+        "973"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh30": {
+    "study": "soep-base",
+    "name": "zh30",
+    "name_cs": "zh30",
+    "variable": "zh30",
+    "dataset": "h2009",
+    "label": "monatl zins-,tilgungszahlungen",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "30",
+        "312.5",
+        "500",
+        "587.7",
+        "800",
+        "2000",
+        "1188",
+        "131",
+        "1188"
+      ]
+    },
+    "scale": ""
+  },
+  "zh31": {
+    "study": "soep-base",
+    "name": "zh31",
+    "name_cs": "zh31",
+    "variable": "zh31",
+    "dataset": "h2009",
+    "label": "hoehe instandhaltungskosten letzt.j",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "300",
+        "900",
+        "2887",
+        "2000",
+        "1e+05",
+        "990",
+        "329",
+        "990"
+      ]
+    },
+    "scale": ""
+  },
+  "zh32": {
+    "study": "soep-base",
+    "name": "zh32",
+    "name_cs": "zh32",
+    "variable": "zh32",
+    "dataset": "h2009",
+    "label": "hoehe heizkosten letzt.j",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "110",
+        "871",
+        "1200",
+        "1481",
+        "2000",
+        "5500",
+        "986",
+        "333",
+        "986"
+      ]
+    },
+    "scale": ""
+  },
+  "zh33": {
+    "study": "soep-base",
+    "name": "zh33",
+    "name_cs": "zh33",
+    "variable": "zh33",
+    "dataset": "h2009",
+    "label": "jaehrliche nebenkosten in euro",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "120",
+        "520",
+        "750",
+        "986.5",
+        "1200",
+        "3800",
+        "993",
+        "326",
+        "993"
+      ]
+    },
+    "scale": ""
+  },
+  "zh3401": {
+    "study": "soep-base",
+    "name": "zh3401",
+    "name_cs": "zh3401",
+    "variable": "zh3401",
+    "dataset": "h2009",
+    "label": "wohngeld als eigentuemer d. wohnung",
+    "categories": {
+      "frequencies": [
+        113,
+        233,
+        973
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "346",
+        "973"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh3402": {
+    "study": "soep-base",
+    "name": "zh3402",
+    "name_cs": "zh3402",
+    "variable": "zh3402",
+    "dataset": "h2009",
+    "label": "wohngeld, betrag pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "10",
+        "174",
+        "250",
+        "254.8",
+        "330",
+        "750",
+        "1208",
+        "111",
+        "1208"
+      ]
+    },
+    "scale": ""
+  },
+  "zh35": {
+    "study": "soep-base",
+    "name": "zh35",
+    "name_cs": "zh35",
+    "variable": "zh35",
+    "dataset": "h2009",
+    "label": "beurteilung - finanzielle belastung",
+    "categories": {
+      "frequencies": [
+        50,
+        2,
+        104,
+        973,
+        147,
+        37,
+        6
+      ],
+      "labels": [
+        "sehr guenstig",
+        "-1",
+        "guenstig",
+        "-2",
+        "angemessen",
+        "etwas zu hoch",
+        "viel zu hoch"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "344",
+        "975"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh3601": {
+    "study": "soep-base",
+    "name": "zh3601",
+    "name_cs": "zh3601",
+    "variable": "zh3601",
+    "dataset": "h2009",
+    "label": "geschaetzte monatl. miete ohne heizung",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "300",
+        "700",
+        "1000",
+        "1054",
+        "1250",
+        "7000",
+        "1046",
+        "273",
+        "1046"
+      ]
+    },
+    "scale": ""
+  },
+  "zh3602": {
+    "study": "soep-base",
+    "name": "zh3602",
+    "name_cs": "zh3602",
+    "variable": "zh3602",
+    "dataset": "h2009",
+    "label": "geschaetzte monatl. miete ohne heizung",
+    "categories": {
+      "frequencies": [
+        72,
+        1,
+        1246
+      ],
+      "labels": [
+        "weiss nicht",
+        "-1",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "72",
+        "1247"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh3701": {
+    "study": "soep-base",
+    "name": "zh3701",
+    "name_cs": "zh3701",
+    "variable": "zh3701",
+    "dataset": "h2009",
+    "label": "wohn-eigentumsfoerd.,eigenheimzulage vorjahr",
+    "categories": {
+      "frequencies": [
+        32,
+        314,
+        973
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "346",
+        "973"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh3702": {
+    "study": "soep-base",
+    "name": "zh3702",
+    "name_cs": "zh3702",
+    "variable": "zh3702",
+    "dataset": "h2009",
+    "label": "hoehe foerderbetrag vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "55",
+        "1012",
+        "1250",
+        "1671",
+        "2500",
+        "5000",
+        "1288",
+        "31",
+        "1288"
+      ]
+    },
+    "scale": ""
+  },
+  "zh38": {
+    "study": "soep-base",
+    "name": "zh38",
+    "name_cs": "zh38",
+    "variable": "zh38",
+    "dataset": "h2009",
+    "label": "miet- u.pachteinnahmen vorjahr",
+    "categories": {
+      "frequencies": [
+        116,
+        1,
+        1202
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1318",
+        "1"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh39": {
+    "study": "soep-base",
+    "name": "zh39",
+    "name_cs": "zh39",
+    "variable": "zh39",
+    "dataset": "h2009",
+    "label": "miet- u.pachteinnahmen betrag vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "10",
+        "3000",
+        "5500",
+        "10270",
+        "9625",
+        "120000",
+        "1211",
+        "108",
+        "1211"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4001": {
+    "study": "soep-base",
+    "name": "zh4001",
+    "name_cs": "zh4001",
+    "variable": "zh4001",
+    "dataset": "h2009",
+    "label": "betriebs- u.instandhaltgskosten vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "1000",
+        "2220",
+        "4587",
+        "3622",
+        "80000",
+        "1215",
+        "104",
+        "1215"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4002": {
+    "study": "soep-base",
+    "name": "zh4002",
+    "name_cs": "zh4002",
+    "variable": "zh4002",
+    "dataset": "h2009",
+    "label": "tilgungs-u.zinszahlungen vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "4467",
+        "4250",
+        "120000",
+        "1232",
+        "87",
+        "1232"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4101": {
+    "study": "soep-base",
+    "name": "zh4101",
+    "name_cs": "zh4101",
+    "variable": "zh4101",
+    "dataset": "h2009",
+    "label": "steuerlich absetzten, vorjahr",
+    "categories": {
+      "frequencies": [
+        70,
+        4,
+        42,
+        1203
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "112",
+        "1207"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4102": {
+    "study": "soep-base",
+    "name": "zh4102",
+    "name_cs": "zh4102",
+    "variable": "zh4102",
+    "dataset": "h2009",
+    "label": "steuerlich absetzten, betrag vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "50",
+        "1600",
+        "2800",
+        "8229",
+        "6000",
+        "150000",
+        "1252",
+        "67",
+        "1252"
+      ]
+    },
+    "scale": ""
+  },
+  "zh42": {
+    "study": "soep-base",
+    "name": "zh42",
+    "name_cs": "zh42",
+    "variable": "zh42",
+    "dataset": "h2009",
+    "label": "abzahlung kredite",
+    "categories": {
+      "frequencies": [
+        212,
+        5,
+        1102
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1314",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh43": {
+    "study": "soep-base",
+    "name": "zh43",
+    "name_cs": "zh43",
+    "variable": "zh43",
+    "dataset": "h2009",
+    "label": "abzahlung kredite hoehe",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "20",
+        "113",
+        "200",
+        "246",
+        "281.5",
+        "3000",
+        "1112",
+        "207",
+        "1112"
+      ]
+    },
+    "scale": ""
+  },
+  "zh44": {
+    "study": "soep-base",
+    "name": "zh44",
+    "name_cs": "zh44",
+    "variable": "zh44",
+    "dataset": "h2009",
+    "label": "belastung durch rueckzahlung kredite",
+    "categories": {
+      "frequencies": [
+        85,
+        2,
+        79,
+        1107,
+        46
+      ],
+      "labels": [
+        "schwere belastung",
+        "-1",
+        "geringe belastung",
+        "-2",
+        "kein problem"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "210",
+        "1109"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4501": {
+    "study": "soep-base",
+    "name": "zh4501",
+    "name_cs": "zh4501",
+    "variable": "zh4501",
+    "dataset": "h2009",
+    "label": "sparbuch vorjahr",
+    "categories": {
+      "frequencies": [
+        840,
+        0,
+        479
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "840",
+        "479"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4502": {
+    "study": "soep-base",
+    "name": "zh4502",
+    "name_cs": "zh4502",
+    "variable": "zh4502",
+    "dataset": "h2009",
+    "label": "bausparvertrag vorjahr",
+    "categories": {
+      "frequencies": [
+        360,
+        0,
+        959
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "360",
+        "959"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4503": {
+    "study": "soep-base",
+    "name": "zh4503",
+    "name_cs": "zh4503",
+    "variable": "zh4503",
+    "dataset": "h2009",
+    "label": "lebensversicherung vorjahr",
+    "categories": {
+      "frequencies": [
+        379,
+        0,
+        940
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "379",
+        "940"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4504": {
+    "study": "soep-base",
+    "name": "zh4504",
+    "name_cs": "zh4504",
+    "variable": "zh4504",
+    "dataset": "h2009",
+    "label": "festverzinsl. wertpapiere vorjahr",
+    "categories": {
+      "frequencies": [
+        256,
+        0,
+        1063
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "256",
+        "1063"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4505": {
+    "study": "soep-base",
+    "name": "zh4505",
+    "name_cs": "zh4505",
+    "variable": "zh4505",
+    "dataset": "h2009",
+    "label": "sonstige wertpapiere vorjahr",
+    "categories": {
+      "frequencies": [
+        461,
+        0,
+        858
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "461",
+        "858"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4506": {
+    "study": "soep-base",
+    "name": "zh4506",
+    "name_cs": "zh4506",
+    "variable": "zh4506",
+    "dataset": "h2009",
+    "label": "betriebsvermoegen vorjahr",
+    "categories": {
+      "frequencies": [
+        11,
+        0,
+        1308
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "11",
+        "1308"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4507": {
+    "study": "soep-base",
+    "name": "zh4507",
+    "name_cs": "zh4507",
+    "variable": "zh4507",
+    "dataset": "h2009",
+    "label": "keine wertanlagen vorjahr",
+    "categories": {
+      "frequencies": [
+        241,
+        5,
+        0,
+        1073
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "241",
+        "1078"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4508": {
+    "study": "soep-base",
+    "name": "zh4508",
+    "name_cs": "zh4508",
+    "variable": "zh4508",
+    "dataset": "h2009",
+    "label": "verluste steuerlich absetzen",
+    "categories": {
+      "frequencies": [
+        39,
+        8,
+        416,
+        856
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "455",
+        "864"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4509": {
+    "study": "soep-base",
+    "name": "zh4509",
+    "name_cs": "zh4509",
+    "variable": "zh4509",
+    "dataset": "h2009",
+    "label": "verluste steuerlich absetzen, betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "20",
+        "656.2",
+        "2000",
+        "10370",
+        "8734",
+        "170000",
+        "1287",
+        "32",
+        "1287"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4510": {
+    "study": "soep-base",
+    "name": "zh4510",
+    "name_cs": "zh4510",
+    "variable": "zh4510",
+    "dataset": "h2009",
+    "label": "wertanlagen k.a.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh4601": {
+    "study": "soep-base",
+    "name": "zh4601",
+    "name_cs": "zh4601",
+    "variable": "zh4601",
+    "dataset": "h2009",
+    "label": "zins-u. dividendeneinnahmen vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "-30000",
+        "50.75",
+        "400",
+        "1531",
+        "1500",
+        "1e+05",
+        "735",
+        "584",
+        "735"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4602": {
+    "study": "soep-base",
+    "name": "zh4602",
+    "name_cs": "zh4602",
+    "variable": "zh4602",
+    "dataset": "h2009",
+    "label": "zins-u. dividendeneinnahmen geschaetzt vorjahr",
+    "categories": {
+      "frequencies": [
+        203,
+        34,
+        137,
+        857,
+        50,
+        28,
+        6,
+        4
+      ],
+      "labels": [
+        "unter 250 euro",
+        "-1",
+        "250 bis unter 1000",
+        "-2",
+        "1000 bis unter 2500",
+        "2500 bis unter 5000",
+        "5000 bis unter 10000",
+        "10000 euro und mehr"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "428",
+        "891"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4701": {
+    "study": "soep-base",
+    "name": "zh4701",
+    "name_cs": "zh4701",
+    "variable": "zh4701",
+    "dataset": "h2009",
+    "label": "unerw. geldbetraege,sachw. ue.5000 dm er",
+    "categories": {
+      "frequencies": [
+        74,
+        3,
+        1242
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1316",
+        "3"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4702": {
+    "study": "soep-base",
+    "name": "zh4702",
+    "name_cs": "zh4702",
+    "variable": "zh4702",
+    "dataset": "h2009",
+    "label": "erbschaft",
+    "categories": {
+      "frequencies": [
+        43,
+        0,
+        1276
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "43",
+        "1276"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4703": {
+    "study": "soep-base",
+    "name": "zh4703",
+    "name_cs": "zh4703",
+    "variable": "zh4703",
+    "dataset": "h2009",
+    "label": "schenkung",
+    "categories": {
+      "frequencies": [
+        27,
+        0,
+        1292
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "27",
+        "1292"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4704": {
+    "study": "soep-base",
+    "name": "zh4704",
+    "name_cs": "zh4704",
+    "variable": "zh4704",
+    "dataset": "h2009",
+    "label": "lotteriegewinn",
+    "categories": {
+      "frequencies": [
+        4,
+        0,
+        1315
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "4",
+        "1315"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4705": {
+    "study": "soep-base",
+    "name": "zh4705",
+    "name_cs": "zh4705",
+    "variable": "zh4705",
+    "dataset": "h2009",
+    "label": "unerw.geldbetraege k.a.",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh48": {
+    "study": "soep-base",
+    "name": "zh48",
+    "name_cs": "zh48",
+    "variable": "zh48",
+    "dataset": "h2009",
+    "label": "hoehe unerw. geldbetrage,sachw.in euro",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "500",
+        "2050",
+        "9000",
+        "27770",
+        "30000",
+        "2e+05",
+        "1249",
+        "70",
+        "1249"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4901": {
+    "study": "soep-base",
+    "name": "zh4901",
+    "name_cs": "zh4901",
+    "variable": "zh4901",
+    "dataset": "h2009",
+    "label": "kindergeldbezug letztes jahr",
+    "categories": {
+      "frequencies": [
+        170,
+        202,
+        947
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1117",
+        "202"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4902": {
+    "study": "soep-base",
+    "name": "zh4902",
+    "name_cs": "zh4902",
+    "variable": "zh4902",
+    "dataset": "h2009",
+    "label": "kindergeld letzt.j monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "12",
+        "12",
+        "10.83",
+        "12",
+        "12",
+        "1157",
+        "162",
+        "1157"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4903": {
+    "study": "soep-base",
+    "name": "zh4903",
+    "name_cs": "zh4903",
+    "variable": "zh4903",
+    "dataset": "h2009",
+    "label": "kindergeld letzt.j betrag(monat)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "55",
+        "153",
+        "154",
+        "173.7",
+        "159.5",
+        "462",
+        "1157",
+        "162",
+        "1157"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4904": {
+    "study": "soep-base",
+    "name": "zh4904",
+    "name_cs": "zh4904",
+    "variable": "zh4904",
+    "dataset": "h2009",
+    "label": "kinderzuschlag letztes jahr",
+    "categories": {
+      "frequencies": [
+        18,
+        216,
+        1085
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1103",
+        "216"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4905": {
+    "study": "soep-base",
+    "name": "zh4905",
+    "name_cs": "zh4905",
+    "variable": "zh4905",
+    "dataset": "h2009",
+    "label": "kinderzuschlag anzahl monate vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "12",
+        "12",
+        "10.5",
+        "12",
+        "12",
+        "1305",
+        "14",
+        "1305"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4906": {
+    "study": "soep-base",
+    "name": "zh4906",
+    "name_cs": "zh4906",
+    "variable": "zh4906",
+    "dataset": "h2009",
+    "label": "kinderzuschlag betrag/monat vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "10",
+        "75",
+        "100",
+        "92.53",
+        "114",
+        "170",
+        "1304",
+        "15",
+        "1304"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4907": {
+    "study": "soep-base",
+    "name": "zh4907",
+    "name_cs": "zh4907",
+    "variable": "zh4907",
+    "dataset": "h2009",
+    "label": "alg2, sozialgeld im letzten jahr: bezogen",
+    "categories": {
+      "frequencies": [
+        81,
+        202,
+        1036
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1117",
+        "202"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4908": {
+    "study": "soep-base",
+    "name": "zh4908",
+    "name_cs": "zh4908",
+    "variable": "zh4908",
+    "dataset": "h2009",
+    "label": "alg2, sozialgeld im letzten jahr: anzahl monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "8",
+        "12",
+        "9.295",
+        "12",
+        "12",
+        "1241",
+        "78",
+        "1241"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4909": {
+    "study": "soep-base",
+    "name": "zh4909",
+    "name_cs": "zh4909",
+    "variable": "zh4909",
+    "dataset": "h2009",
+    "label": "alg2, sozialgeld im letzten jahr: betrag pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "178",
+        "440.5",
+        "598",
+        "607.6",
+        "720",
+        "2000",
+        "1239",
+        "80",
+        "1239"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4910": {
+    "study": "soep-base",
+    "name": "zh4910",
+    "name_cs": "zh4910",
+    "variable": "zh4910",
+    "dataset": "h2009",
+    "label": "wohngeld,lastenzuschuss vorjahr",
+    "categories": {
+      "frequencies": [
+        32,
+        24,
+        1263
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1295",
+        "24"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4911": {
+    "study": "soep-base",
+    "name": "zh4911",
+    "name_cs": "zh4911",
+    "variable": "zh4911",
+    "dataset": "h2009",
+    "label": "im letzten jahr: monate mit wohngeld o. lastenzuschuss",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "4.75",
+        "12",
+        "9.393",
+        "12",
+        "12",
+        "1291",
+        "28",
+        "1291"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4912": {
+    "study": "soep-base",
+    "name": "zh4912",
+    "name_cs": "zh4912",
+    "variable": "zh4912",
+    "dataset": "h2009",
+    "label": "wohngeld,lastenzuschuss pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "10",
+        "46.5",
+        "86",
+        "140.4",
+        "169.5",
+        "525",
+        "1288",
+        "31",
+        "1288"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4913": {
+    "study": "soep-base",
+    "name": "zh4913",
+    "name_cs": "zh4913",
+    "variable": "zh4913",
+    "dataset": "h2009",
+    "label": "leistungen der pflegeversicherung vorjahr",
+    "categories": {
+      "frequencies": [
+        13,
+        7,
+        1299
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1312",
+        "7"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh4914": {
+    "study": "soep-base",
+    "name": "zh4914",
+    "name_cs": "zh4914",
+    "variable": "zh4914",
+    "dataset": "h2009",
+    "label": "leistungen der pflegeversicherung monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "11",
+        "12",
+        "10.25",
+        "12",
+        "12",
+        "1307",
+        "12",
+        "1307"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4915": {
+    "study": "soep-base",
+    "name": "zh4915",
+    "name_cs": "zh4915",
+    "variable": "zh4915",
+    "dataset": "h2009",
+    "label": "leistungen der pflegeversicherung pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "100",
+        "200",
+        "210",
+        "274.2",
+        "215",
+        "921",
+        "1307",
+        "12",
+        "1307"
+      ]
+    },
+    "scale": ""
+  },
+  "zh4916": {
+    "study": "soep-base",
+    "name": "zh4916",
+    "name_cs": "zh4916",
+    "variable": "zh4916",
+    "dataset": "h2009",
+    "label": "sozialhilfebezug letzt.j",
+    "categories": {
+      "frequencies": [
+        50,
+        7,
+        1262
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1312",
+        "7"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5001": {
+    "study": "soep-base",
+    "name": "zh5001",
+    "name_cs": "zh5001",
+    "variable": "zh5001",
+    "dataset": "h2009",
+    "label": "hilfe lebensunterhalt",
+    "categories": {
+      "frequencies": [
+        18,
+        0,
+        1301
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "18",
+        "1301"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5002": {
+    "study": "soep-base",
+    "name": "zh5002",
+    "name_cs": "zh5002",
+    "variable": "zh5002",
+    "dataset": "h2009",
+    "label": "hilfe lebensunterhalt monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "9",
+        "12",
+        "12",
+        "11.76",
+        "12",
+        "12",
+        "1302",
+        "17",
+        "1302"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5003": {
+    "study": "soep-base",
+    "name": "zh5003",
+    "name_cs": "zh5003",
+    "variable": "zh5003",
+    "dataset": "h2009",
+    "label": "hilfe lebensunterhalt pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "163.8",
+        "317",
+        "352.4",
+        "540",
+        "720",
+        "1303",
+        "16",
+        "1303"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5004": {
+    "study": "soep-base",
+    "name": "zh5004",
+    "name_cs": "zh5004",
+    "variable": "zh5004",
+    "dataset": "h2009",
+    "label": "hilfe alter/erwerbsminderung",
+    "categories": {
+      "frequencies": [
+        19,
+        0,
+        1300
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "19",
+        "1300"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5005": {
+    "study": "soep-base",
+    "name": "zh5005",
+    "name_cs": "zh5005",
+    "variable": "zh5005",
+    "dataset": "h2009",
+    "label": "hilfe alter/erwerbsminderung monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
+        "1303",
+        "16",
+        "1303"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5006": {
+    "study": "soep-base",
+    "name": "zh5006",
+    "name_cs": "zh5006",
+    "variable": "zh5006",
+    "dataset": "h2009",
+    "label": "hilfe alter/erwerbsminderung pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "61",
+        "310.5",
+        "533",
+        "539.1",
+        "770",
+        "1091",
+        "1300",
+        "19",
+        "1300"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5007": {
+    "study": "soep-base",
+    "name": "zh5007",
+    "name_cs": "zh5007",
+    "variable": "zh5007",
+    "dataset": "h2009",
+    "label": "hilfe in bes.lebenslagen",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh5008": {
+    "study": "soep-base",
+    "name": "zh5008",
+    "name_cs": "zh5008",
+    "variable": "zh5008",
+    "dataset": "h2009",
+    "label": "hilfe in bes.lebenslagen monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh5009": {
+    "study": "soep-base",
+    "name": "zh5009",
+    "name_cs": "zh5009",
+    "variable": "zh5009",
+    "dataset": "h2009",
+    "label": "hilfe in bes.lebenslagen pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh5010": {
+    "study": "soep-base",
+    "name": "zh5010",
+    "name_cs": "zh5010",
+    "variable": "zh5010",
+    "dataset": "h2009",
+    "label": "einmalige hilfe zum lebensunterhalt",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh5011": {
+    "study": "soep-base",
+    "name": "zh5011",
+    "name_cs": "zh5011",
+    "variable": "zh5011",
+    "dataset": "h2009",
+    "label": "sozialhilfe k.a.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh5101": {
+    "study": "soep-base",
+    "name": "zh5101",
+    "name_cs": "zh5101",
+    "variable": "zh5101",
+    "dataset": "h2009",
+    "label": "kindergeldbezug heute",
+    "categories": {
+      "frequencies": [
+        119,
+        0,
+        1200
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "119",
+        "1200"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5102": {
+    "study": "soep-base",
+    "name": "zh5102",
+    "name_cs": "zh5102",
+    "variable": "zh5102",
+    "dataset": "h2009",
+    "label": "kindergeldbezug heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "130",
+        "164",
+        "164",
+        "189.8",
+        "164",
+        "498",
+        "1203",
+        "116",
+        "1203"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5103": {
+    "study": "soep-base",
+    "name": "zh5103",
+    "name_cs": "zh5103",
+    "variable": "zh5103",
+    "dataset": "h2009",
+    "label": "anz. kinder",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1.205",
+        "1",
+        "3",
+        "1202",
+        "117",
+        "1202"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5104": {
+    "study": "soep-base",
+    "name": "zh5104",
+    "name_cs": "zh5104",
+    "variable": "zh5104",
+    "dataset": "h2009",
+    "label": "kinderzuschlagbezug heute",
+    "categories": {
+      "frequencies": [
+        11,
+        0,
+        1308
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "11",
+        "1308"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5105": {
+    "study": "soep-base",
+    "name": "zh5105",
+    "name_cs": "zh5105",
+    "variable": "zh5105",
+    "dataset": "h2009",
+    "label": "kinderzuschlagbezug heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "20",
+        "90",
+        "100",
+        "103.4",
+        "112.5",
+        "180",
+        "1309",
+        "10",
+        "1309"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5106": {
+    "study": "soep-base",
+    "name": "zh5106",
+    "name_cs": "zh5106",
+    "variable": "zh5106",
+    "dataset": "h2009",
+    "label": "alg ii, sozialgeld heute",
+    "categories": {
+      "frequencies": [
+        61,
+        0,
+        1258
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "61",
+        "1258"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5107": {
+    "study": "soep-base",
+    "name": "zh5107",
+    "name_cs": "zh5107",
+    "variable": "zh5107",
+    "dataset": "h2009",
+    "label": "alg ii, sozialgeld heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "35",
+        "368",
+        "596",
+        "574.3",
+        "700",
+        "1200",
+        "1258",
+        "61",
+        "1258"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5108": {
+    "study": "soep-base",
+    "name": "zh5108",
+    "name_cs": "zh5108",
+    "variable": "zh5108",
+    "dataset": "h2009",
+    "label": "wohngeldbezug heute",
+    "categories": {
+      "frequencies": [
+        29,
+        0,
+        1290
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "29",
+        "1290"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5109": {
+    "study": "soep-base",
+    "name": "zh5109",
+    "name_cs": "zh5109",
+    "variable": "zh5109",
+    "dataset": "h2009",
+    "label": "wohngeldbezug heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "15",
+        "47",
+        "80",
+        "118.5",
+        "154",
+        "430",
+        "1290",
+        "29",
+        "1290"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5110": {
+    "study": "soep-base",
+    "name": "zh5110",
+    "name_cs": "zh5110",
+    "variable": "zh5110",
+    "dataset": "h2009",
+    "label": "pflegevers. leistungen",
+    "categories": {
+      "frequencies": [
+        11,
+        0,
+        1308
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "11",
+        "1308"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5111": {
+    "study": "soep-base",
+    "name": "zh5111",
+    "name_cs": "zh5111",
+    "variable": "zh5111",
+    "dataset": "h2009",
+    "label": "pflegevers. betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "100",
+        "210",
+        "215",
+        "271.8",
+        "215",
+        "980",
+        "1308",
+        "11",
+        "1308"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5112": {
+    "study": "soep-base",
+    "name": "zh5112",
+    "name_cs": "zh5112",
+    "variable": "zh5112",
+    "dataset": "h2009",
+    "label": "alter/erwerbsminderung heute",
+    "categories": {
+      "frequencies": [
+        26,
+        0,
+        1293
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "26",
+        "1293"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5113": {
+    "study": "soep-base",
+    "name": "zh5113",
+    "name_cs": "zh5113",
+    "variable": "zh5113",
+    "dataset": "h2009",
+    "label": "alter/erwerbsminderung heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "54",
+        "295.5",
+        "357.5",
+        "503.7",
+        "780",
+        "1230",
+        "1293",
+        "26",
+        "1293"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5114": {
+    "study": "soep-base",
+    "name": "zh5114",
+    "name_cs": "zh5114",
+    "variable": "zh5114",
+    "dataset": "h2009",
+    "label": "sozialhilfebezug heute",
+    "categories": {
+      "frequencies": [
+        6,
+        0,
+        1313
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "1313"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5115": {
+    "study": "soep-base",
+    "name": "zh5115",
+    "name_cs": "zh5115",
+    "variable": "zh5115",
+    "dataset": "h2009",
+    "label": "sozialhilfebezug heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "11",
+        "230",
+        "400",
+        "408.2",
+        "600",
+        "800",
+        "1314",
+        "5",
+        "1314"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5116": {
+    "study": "soep-base",
+    "name": "zh5116",
+    "name_cs": "zh5116",
+    "variable": "zh5116",
+    "dataset": "h2009",
+    "label": "keine staatl leistungen",
+    "categories": {
+      "frequencies": [
+        1082,
+        9,
+        228
+      ],
+      "labels": [
+        "keine staatl. leistungen",
+        "-1",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1082",
+        "237"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5201": {
+    "study": "soep-base",
+    "name": "zh5201",
+    "name_cs": "zh5201",
+    "variable": "zh5201",
+    "dataset": "h2009",
+    "label": "hh-nettoeinkommen",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "100",
+        "1184",
+        "1850",
+        "2041",
+        "2550",
+        "12000",
+        "51",
+        "1268",
+        "51"
+      ]
+    },
+    "scale": ""
+  },
+  "zh5202": {
+    "study": "soep-base",
+    "name": "zh5202",
+    "name_cs": "zh5202",
+    "variable": "zh5202",
+    "dataset": "h2009",
+    "label": "hh-nettoeinkommensgruppen, nur capi",
+    "categories": {
+      "frequencies": [
+        2,
+        8,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1300,
+        0,
+        4,
+        2,
+        2,
+        0,
+        0,
+        0,
+        1
+      ],
+      "labels": [
+        "le    750 euro",
+        "-1",
+        "lt 1500 lt    o. gt     750 ka",
+        "gt 1500 lt    o. gt    2500 ka",
+        "gt 2500 lt    o. gt    3500 ka",
+        "gt 3500 lt    o. gt    5000 ka",
+        "gt    750 euro und le    1500 euro",
+        "-2",
+        "lt  1500 euro oder gt  750 euro, ka",
+        "gt   1500 euro und le    2500 euro",
+        "gt  1500 euro oder gt 2500 euro, ka",
+        "gt   2500 euro und le    3500 euro",
+        "gt  2500 euro oder gt 3500 euro, ka",
+        "gt   3500 euro und le    5000 euro",
+        "gt  3500 euro oder gt 5000 euro, ka",
+        "gt   5000 euro"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "12",
+        "13",
+        "14",
+        "15",
+        "2",
+        "-2",
+        "21",
+        "3",
+        "31",
+        "4",
+        "41",
+        "5",
+        "51",
+        "6"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "11",
+        "1308"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5301": {
+    "study": "soep-base",
+    "name": "zh5301",
+    "name_cs": "zh5301",
+    "variable": "zh5301",
+    "dataset": "h2009",
+    "label": "sparbetrag monatlich",
+    "categories": {
+      "frequencies": [
+        723,
+        8,
+        588
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1311",
+        "8"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5302": {
+    "study": "soep-base",
+    "name": "zh5302",
+    "name_cs": "zh5302",
+    "variable": "zh5302",
+    "dataset": "h2009",
+    "label": "sparbetrag monatlich hoehe",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "10",
+        "100",
+        "200",
+        "329.6",
+        "400",
+        "6500",
+        "618",
+        "701",
+        "618"
+      ]
+    },
+    "scale": ""
+  },
+  "zh54": {
+    "study": "soep-base",
+    "name": "zh54",
+    "name_cs": "zh54",
+    "variable": "zh54",
+    "dataset": "h2009",
+    "label": "entfernung z. zentrum d.n. grossstadt",
+    "categories": {
+      "frequencies": [
+        528,
+        15,
+        340,
+        342,
+        69,
+        18,
+        7
+      ],
+      "labels": [
+        "whg. liegt im grossstadtzentrum",
+        "-1",
+        "unter 10 km",
+        "10 bis unter 25 km",
+        "25 bis unter 40 km",
+        "40 bis unter 60 km",
+        "60 km und mehr"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1304",
+        "15"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5501": {
+    "study": "soep-base",
+    "name": "zh5501",
+    "name_cs": "zh5501",
+    "variable": "zh5501",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. geschaefte",
+    "categories": {
+      "frequencies": [
+        936,
+        1,
+        327,
+        45,
+        10
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1318",
+        "1"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5502": {
+    "study": "soep-base",
+    "name": "zh5502",
+    "name_cs": "zh5502",
+    "variable": "zh5502",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. gaststaetten",
+    "categories": {
+      "frequencies": [
+        893,
+        6,
+        346,
+        64,
+        10
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1313",
+        "6"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5503": {
+    "study": "soep-base",
+    "name": "zh5503",
+    "name_cs": "zh5503",
+    "variable": "zh5503",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. bank",
+    "categories": {
+      "frequencies": [
+        624,
+        6,
+        505,
+        141,
+        43
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1313",
+        "6"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5504": {
+    "study": "soep-base",
+    "name": "zh5504",
+    "name_cs": "zh5504",
+    "variable": "zh5504",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. hausarzt",
+    "categories": {
+      "frequencies": [
+        552,
+        9,
+        434,
+        231,
+        93
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1310",
+        "9"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5505": {
+    "study": "soep-base",
+    "name": "zh5505",
+    "name_cs": "zh5505",
+    "variable": "zh5505",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. kindergarten",
+    "categories": {
+      "frequencies": [
+        611,
+        257,
+        307,
+        81,
+        63
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1062",
+        "257"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5506": {
+    "study": "soep-base",
+    "name": "zh5506",
+    "name_cs": "zh5506",
+    "variable": "zh5506",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. grundschule",
+    "categories": {
+      "frequencies": [
+        594,
+        233,
+        361,
+        79,
+        52
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1086",
+        "233"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5507": {
+    "study": "soep-base",
+    "name": "zh5507",
+    "name_cs": "zh5507",
+    "variable": "zh5507",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. gymnasium",
+    "categories": {
+      "frequencies": [
+        316,
+        245,
+        414,
+        225,
+        119
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1074",
+        "245"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5508": {
+    "study": "soep-base",
+    "name": "zh5508",
+    "name_cs": "zh5508",
+    "variable": "zh5508",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. treffp f. jugendl.",
+    "categories": {
+      "frequencies": [
+        373,
+        283,
+        336,
+        179,
+        148
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1036",
+        "283"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5509": {
+    "study": "soep-base",
+    "name": "zh5509",
+    "name_cs": "zh5509",
+    "variable": "zh5509",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. einricht. f. alte",
+    "categories": {
+      "frequencies": [
+        428,
+        128,
+        455,
+        202,
+        106
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1191",
+        "128"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5510": {
+    "study": "soep-base",
+    "name": "zh5510",
+    "name_cs": "zh5510",
+    "variable": "zh5510",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. gruenanlagen",
+    "categories": {
+      "frequencies": [
+        938,
+        19,
+        284,
+        62,
+        16
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1300",
+        "19"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5511": {
+    "study": "soep-base",
+    "name": "zh5511",
+    "name_cs": "zh5511",
+    "variable": "zh5511",
+    "dataset": "h2009",
+    "label": "entfernung z. fuss z. sportstaetten",
+    "categories": {
+      "frequencies": [
+        517,
+        69,
+        471,
+        203,
+        59
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1250",
+        "69"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5512": {
+    "study": "soep-base",
+    "name": "zh5512",
+    "name_cs": "zh5512",
+    "variable": "zh5512",
+    "dataset": "h2009",
+    "label": "entfernung z.fuss z. oefftl.verkehrsmittel",
+    "categories": {
+      "frequencies": [
+        1172,
+        5,
+        136,
+        5,
+        1
+      ],
+      "labels": [
+        "unter 10 min.",
+        "-1",
+        "10 - 20 min.",
+        "mehr als 20 min.",
+        "nicht vorhanden, z.fuss n. erreichbar"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1314",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5601": {
+    "study": "soep-base",
+    "name": "zh5601",
+    "name_cs": "zh5601",
+    "variable": "zh5601",
+    "dataset": "h2009",
+    "label": "beintraechtigung d. laermbelaestigung",
+    "categories": {
+      "frequencies": [
+        394,
+        1,
+        508,
+        263,
+        103,
+        50
+      ],
+      "labels": [
+        "gar nicht",
+        "-1",
+        "gering",
+        "gerade ertraeglich",
+        "stark",
+        "sehr stark"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1318",
+        "1"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5602": {
+    "study": "soep-base",
+    "name": "zh5602",
+    "name_cs": "zh5602",
+    "variable": "zh5602",
+    "dataset": "h2009",
+    "label": "beintraechtigung d. luftverschmutzung",
+    "categories": {
+      "frequencies": [
+        484,
+        17,
+        541,
+        176,
+        72,
+        29
+      ],
+      "labels": [
+        "gar nicht",
+        "-1",
+        "gering",
+        "gerade ertraeglich",
+        "stark",
+        "sehr stark"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1302",
+        "17"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh5603": {
+    "study": "soep-base",
+    "name": "zh5603",
+    "name_cs": "zh5603",
+    "variable": "zh5603",
+    "dataset": "h2009",
+    "label": "beintraechtigung d.mangel a.gruenflaeche",
+    "categories": {
+      "frequencies": [
+        1008,
+        34,
+        193,
+        56,
+        19,
+        9
+      ],
+      "labels": [
+        "gar nicht",
+        "-1",
+        "gering",
+        "gerade ertraeglich",
+        "stark",
+        "sehr stark"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1285",
+        "34"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh57": {
+    "study": "soep-base",
+    "name": "zh57",
+    "name_cs": "zh57",
+    "variable": "zh57",
+    "dataset": "h2009",
+    "label": "kriminalitaet im wohngebiet",
+    "categories": {
+      "frequencies": [
+        167,
+        2,
+        1028,
+        113,
+        9
+      ],
+      "labels": [
+        "sehr sicher",
+        "-1",
+        "ziemlich sicher",
+        "ziemlich unsicher",
+        "sehr unsicher"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1317",
+        "2"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh58": {
+    "study": "soep-base",
+    "name": "zh58",
+    "name_cs": "zh58",
+    "variable": "zh58",
+    "dataset": "h2009",
+    "label": "verhaeltnis d. bewohner zueinander",
+    "categories": {
+      "frequencies": [
+        208,
+        5,
+        836,
+        152,
+        118
+      ],
+      "labels": [
+        "kennen sich kaum",
+        "-1",
+        "reden schon mal miteinander",
+        "relativ enger zusammenhalt",
+        "unterschiedlich"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1314",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh59": {
+    "study": "soep-base",
+    "name": "zh59",
+    "name_cs": "zh59",
+    "variable": "zh59",
+    "dataset": "h2009",
+    "label": "leben auslaend. familien im wohngebiet",
+    "categories": {
+      "frequencies": [
+        310,
+        2,
+        743,
+        174,
+        90
+      ],
+      "labels": [
+        "ja, viele",
+        "-1",
+        "ja, wenige",
+        "nein",
+        "weiss nicht"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1317",
+        "2"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh60": {
+    "study": "soep-base",
+    "name": "zh60",
+    "name_cs": "zh60",
+    "variable": "zh60",
+    "dataset": "h2009",
+    "label": "kontakt mit nachbarn",
+    "categories": {
+      "frequencies": [
+        39,
+        5,
+        230,
+        616,
+        392,
+        37
+      ],
+      "labels": [
+        "sehr eng",
+        "-1",
+        "eng",
+        "mittel",
+        "nur fluechtig",
+        "gar kein kontakt"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1314",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6101": {
+    "study": "soep-base",
+    "name": "zh6101",
+    "name_cs": "zh6101",
+    "variable": "zh6101",
+    "dataset": "h2009",
+    "label": "besuche von,bei nachbarn",
+    "categories": {
+      "frequencies": [
+        656,
+        2,
+        661
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1317",
+        "2"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6102": {
+    "study": "soep-base",
+    "name": "zh6102",
+    "name_cs": "zh6102",
+    "variable": "zh6102",
+    "dataset": "h2009",
+    "label": "hfgkt nachbarschaftsbesuche",
+    "categories": {
+      "frequencies": [
+        55,
+        3,
+        167,
+        663,
+        221,
+        210
+      ],
+      "labels": [
+        "beinahe taeglich",
+        "-1",
+        "mindestens 1x pro woche",
+        "-2",
+        "mindestens 1x pro monat",
+        "seltener"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "653",
+        "666"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh62": {
+    "study": "soep-base",
+    "name": "zh62",
+    "name_cs": "zh62",
+    "variable": "zh62",
+    "dataset": "h2009",
+    "label": "hilfe-,pflegebeduerft. person im hh",
+    "categories": {
+      "frequencies": [
+        26,
+        1293
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1319",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6301": {
+    "study": "soep-base",
+    "name": "zh6301",
+    "name_cs": "zh6301",
+    "variable": "zh6301",
+    "dataset": "h2009",
+    "label": "pnr hilfebeduerfige person",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "2",
+        "2",
+        "2.115",
+        "2",
+        "3",
+        "1293",
+        "26",
+        "1293"
+      ]
+    },
+    "scale": ""
+  },
+  "zh6302": {
+    "study": "soep-base",
+    "name": "zh6302",
+    "name_cs": "zh6302",
+    "variable": "zh6302",
+    "dataset": "h2009",
+    "label": "hilfe bei besorgungen ausser hh",
+    "categories": {
+      "frequencies": [
+        25,
+        0,
+        1294
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "25",
+        "1294"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6303": {
+    "study": "soep-base",
+    "name": "zh6303",
+    "name_cs": "zh6303",
+    "variable": "zh6303",
+    "dataset": "h2009",
+    "label": "hilfe bei haushaltsfuehrung",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1299",
+        "20",
+        "1299"
+      ]
+    },
+    "scale": ""
+  },
+  "zh6304": {
+    "study": "soep-base",
+    "name": "zh6304",
+    "name_cs": "zh6304",
+    "variable": "zh6304",
+    "dataset": "h2009",
+    "label": "hilfe bei einfacher pflegetaetigkeit",
+    "categories": {
+      "frequencies": [
+        8,
+        0,
+        1311
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "8",
+        "1311"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6305": {
+    "study": "soep-base",
+    "name": "zh6305",
+    "name_cs": "zh6305",
+    "variable": "zh6305",
+    "dataset": "h2009",
+    "label": "hilfe bei schwieriger pflegetaetigkeit",
+    "categories": {
+      "frequencies": [
+        2,
+        0,
+        1317
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "1317"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6306": {
+    "study": "soep-base",
+    "name": "zh6306",
+    "name_cs": "zh6306",
+    "variable": "zh6306",
+    "dataset": "h2009",
+    "label": "hilfe k.a.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh6401": {
+    "study": "soep-base",
+    "name": "zh6401",
+    "name_cs": "zh6401",
+    "variable": "zh6401",
+    "dataset": "h2009",
+    "label": "leistungen der pflegeversicherung",
+    "categories": {
+      "frequencies": [
+        12,
+        14,
+        1293
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "26",
+        "1293"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6402": {
+    "study": "soep-base",
+    "name": "zh6402",
+    "name_cs": "zh6402",
+    "variable": "zh6402",
+    "dataset": "h2009",
+    "label": "pflegestufe",
+    "categories": {
+      "frequencies": [
+        10,
+        2,
+        1307,
+        0
+      ],
+      "labels": [
+        "pflegestufe 1",
+        "pflegestufe 2",
+        "-2",
+        "pflegestufe 3"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12",
+        "1307"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6501": {
+    "study": "soep-base",
+    "name": "zh6501",
+    "name_cs": "zh6501",
+    "variable": "zh6501",
+    "dataset": "h2009",
+    "label": "hilfe v.schwester,sozialhelfer",
+    "categories": {
+      "frequencies": [
+        25,
+        0,
+        1294
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "25",
+        "1294"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6502": {
+    "study": "soep-base",
+    "name": "zh6502",
+    "name_cs": "zh6502",
+    "variable": "zh6502",
+    "dataset": "h2009",
+    "label": "pnr der hauptpflegeperson im hh",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1.16",
+        "1",
+        "2",
+        "1294",
+        "25",
+        "1294"
+      ]
+    },
+    "scale": ""
+  },
+  "zh6503": {
+    "study": "soep-base",
+    "name": "zh6503",
+    "name_cs": "zh6503",
+    "variable": "zh6503",
+    "dataset": "h2009",
+    "label": "hilfe v. schwester,sozialhelfer",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh6504": {
+    "study": "soep-base",
+    "name": "zh6504",
+    "name_cs": "zh6504",
+    "variable": "zh6504",
+    "dataset": "h2009",
+    "label": "hilfe v.priv.pflegedienst",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        1318
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1318"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6505": {
+    "study": "soep-base",
+    "name": "zh6505",
+    "name_cs": "zh6505",
+    "variable": "zh6505",
+    "dataset": "h2009",
+    "label": "hilfe v.nachbarn",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        1318
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1318"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6506": {
+    "study": "soep-base",
+    "name": "zh6506",
+    "name_cs": "zh6506",
+    "variable": "zh6506",
+    "dataset": "h2009",
+    "label": "hilfe v. nachbarn",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        1318
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1318"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6507": {
+    "study": "soep-base",
+    "name": "zh6507",
+    "name_cs": "zh6507",
+    "variable": "zh6507",
+    "dataset": "h2009",
+    "label": "hilfe v. angehoerige ausser hh",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        1316
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "1316"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6508": {
+    "study": "soep-base",
+    "name": "zh6508",
+    "name_cs": "zh6508",
+    "variable": "zh6508",
+    "dataset": "h2009",
+    "label": "hilfe v.  k.a.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "zh6509": {
+    "study": "soep-base",
+    "name": "zh6509",
+    "name_cs": "zh6509",
+    "variable": "zh6509",
+    "dataset": "h2009",
+    "label": "person erhaelt bezahlung",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "2",
+        "1.6",
+        "2",
+        "2",
+        "1314",
+        "5",
+        "1314"
+      ]
+    },
+    "scale": ""
+  },
+  "zh6601": {
+    "study": "soep-base",
+    "name": "zh6601",
+    "name_cs": "zh6601",
+    "variable": "zh6601",
+    "dataset": "h2009",
+    "label": "weitere pflegebeduerftige personen im hh",
+    "categories": {
+      "frequencies": [
+        1,
+        25,
+        1293
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "26",
+        "1293"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zh6602": {
+    "study": "soep-base",
+    "name": "zh6602",
+    "name_cs": "zh6602",
+    "variable": "zh6602",
+    "dataset": "h2009",
+    "label": "anzahl weiterer pflegebeduerftiger personen",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1318",
+        "1",
+        "1318"
+      ]
+    },
+    "scale": ""
+  },
+  "zh67": {
+    "study": "soep-base",
+    "name": "zh67",
+    "name_cs": "zh67",
+    "variable": "zh67",
+    "dataset": "h2009",
+    "label": "putz-,haushaltshilfe beschaeftigt",
+    "categories": {
+      "frequencies": [
+        63,
+        18,
+        49,
+        1189
+      ],
+      "labels": [
+        "ja, regelmaessig",
+        "-1",
+        "ja, gelegentlich",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1301",
+        "18"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zhivform": {
+    "study": "soep-base",
+    "name": "zhivform",
+    "name_cs": "zhivform",
+    "variable": "zhivform",
+    "dataset": "h2009",
+    "label": "durchfuehrung der befragung",
+    "categories": {
+      "frequencies": [
+        58,
+        0,
+        1,
+        1,
+        557,
+        152,
+        550
+      ],
+      "labels": [
+        "Oral Interview",
+        "Written Quest. With Interviewer",
+        "Written Quest. Without Interviewer",
+        "Oral And Written",
+        "Written, By Mail",
+        "CAPI",
+        "CAWI"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "8",
+        "9",
+        "10"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1319",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zhhdaer1": {
+    "study": "soep-base",
+    "name": "zhhdaer1",
+    "name_cs": "zhhdaer1",
+    "variable": "zhhdaer1",
+    "dataset": "h2009",
+    "label": "interviewdauer muendlich",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "10",
+        "15",
+        "16.13",
+        "20",
+        "40",
+        "1162",
+        "157",
+        "1162"
+      ]
+    },
+    "scale": ""
+  },
+  "zhhdaer2": {
+    "study": "soep-base",
+    "name": "zhhdaer2",
+    "name_cs": "zhhdaer2",
+    "variable": "zhhdaer2",
+    "dataset": "h2009",
+    "label": "interviewdauer schriftlich",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "20",
+        "1318",
+        "1",
+        "1318"
+      ]
+    },
+    "scale": ""
+  },
+  "zhhtagin": {
+    "study": "soep-base",
+    "name": "zhhtagin",
+    "name_cs": "zhhtagin",
+    "variable": "zhhtagin",
+    "dataset": "h2009",
+    "label": "tag des interviews",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "5",
+        "15",
+        "14.92",
+        "24",
+        "31",
+        "1319",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "zhhmonin": {
+    "study": "soep-base",
+    "name": "zhhmonin",
+    "name_cs": "zhhmonin",
+    "variable": "zhhmonin",
+    "dataset": "h2009",
+    "label": "monat des interviews",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        462,
+        382,
+        180,
+        77,
+        64,
+        148,
+        6,
+        0
+      ],
+      "labels": [
+        "januar",
+        "februar",
+        "maerz",
+        "april",
+        "mai",
+        "juni",
+        "juli",
+        "august",
+        "september",
+        "oktober",
+        "november",
+        "dezember"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1319",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "zhintnr": {
+    "study": "soep-base",
+    "name": "zhintnr",
+    "name_cs": "zhintnr",
+    "variable": "zhintnr",
+    "dataset": "h2009",
+    "label": "interviewnummer",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "11030",
+        "262500",
+        "287600",
+        "248900",
+        "306400",
+        "316300",
+        "1107",
+        "212",
+        "1107"
+      ]
+    },
+    "scale": ""
+  },
+  "zhpmax": {
+    "study": "soep-base",
+    "name": "zhpmax",
+    "name_cs": "zhpmax",
+    "variable": "zhpmax",
+    "dataset": "h2009",
+    "label": "hoechste vergebene pnr im haushalt",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "2",
+        "1.64",
+        "2",
+        "5",
+        "1319",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "hhnr": {
+    "study": "soep-base",
+    "name": "hhnr",
+    "name_cs": "hhnr",
+    "variable": "hhnr",
+    "dataset": "h2009",
+    "label": "ursprungshaushaltsnummer",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "630000",
+        "635100",
+        "639300",
+        "639200",
+        "643400",
+        "647900",
+        "1319",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "zhhdaer": {
+    "study": "soep-base",
+    "name": "zhhdaer",
+    "name_cs": "zhhdaer",
+    "variable": "zhhdaer",
+    "dataset": "h2009",
+    "label": "interviewdauer",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1310",
+        "9"
+      ]
+    },
+    "scale": ""
+  }
+}

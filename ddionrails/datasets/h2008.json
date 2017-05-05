@@ -1,0 +1,8470 @@
+{
+  "welle": {
+    "study": "soep-base",
+    "name": "welle",
+    "name_cs": "welle",
+    "variable": "welle",
+    "dataset": "h2008",
+    "label": "erhebungsjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2008",
+        "2008",
+        "2008",
+        "2008",
+        "2008",
+        "2008",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "sample1": {
+    "study": "soep-base",
+    "name": "sample1",
+    "name_cs": "sample1",
+    "variable": "sample1",
+    "dataset": "h2008",
+    "label": "ursprungsstichprobe",
+    "categories": {
+      "frequencies": [
+        170,
+        0
+      ],
+      "labels": [
+        "Sonderprojekt 2008 Stichprobe L1",
+        "Sonderprojekt 2009 Stichprobe L2"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "17",
+        "18"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "hhnrakt": {
+    "study": "soep-base",
+    "name": "hhnrakt",
+    "name_cs": "hhnrakt",
+    "variable": "hhnrakt",
+    "dataset": "h2008",
+    "label": "Aktuelle Haushaltsnummer",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "630000",
+        "630500",
+        "631000",
+        "631000",
+        "631500",
+        "632000",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "yausku": {
+    "study": "soep-base",
+    "name": "yausku",
+    "name_cs": "yausku",
+    "variable": "yausku",
+    "dataset": "h2008",
+    "label": "Auskunftsperson Nummer (PNR)",
+    "categories": {
+      "frequencies": [
+        165,
+        2,
+        2,
+        1,
+        0,
+        0
+      ],
+      "labels": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "frueheres stichprobenmitglied",
+        "kein stichprobenmitglied"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "98",
+        "99"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0201": {
+    "study": "soep-base",
+    "name": "yh0201",
+    "name_cs": "yh0201",
+    "variable": "yh0201",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg kuendigung",
+    "categories": {
+      "frequencies": [
+        2,
+        168
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "168"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0202": {
+    "study": "soep-base",
+    "name": "yh0202",
+    "name_cs": "yh0202",
+    "variable": "yh0202",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg erwerb eigenheim",
+    "categories": {
+      "frequencies": [
+        9,
+        161
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "9",
+        "161"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0203": {
+    "study": "soep-base",
+    "name": "yh0203",
+    "name_cs": "yh0203",
+    "variable": "yh0203",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg erbschaft",
+    "categories": {
+      "frequencies": [
+        1,
+        169
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "169"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0204": {
+    "study": "soep-base",
+    "name": "yh0204",
+    "name_cs": "yh0204",
+    "variable": "yh0204",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg berufliche gruende",
+    "categories": {
+      "frequencies": [
+        13,
+        157
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "13",
+        "157"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0205": {
+    "study": "soep-base",
+    "name": "yh0205",
+    "name_cs": "yh0205",
+    "variable": "yh0205",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg heirat",
+    "categories": {
+      "frequencies": [
+        8,
+        162
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "8",
+        "162"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0206": {
+    "study": "soep-base",
+    "name": "yh0206",
+    "name_cs": "yh0206",
+    "variable": "yh0206",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg trennung",
+    "categories": {
+      "frequencies": [
+        9,
+        161
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "9",
+        "161"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0207": {
+    "study": "soep-base",
+    "name": "yh0207",
+    "name_cs": "yh0207",
+    "variable": "yh0207",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg auszug elternhaus",
+    "categories": {
+      "frequencies": [
+        9,
+        161
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "9",
+        "161"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0208": {
+    "study": "soep-base",
+    "name": "yh0208",
+    "name_cs": "yh0208",
+    "variable": "yh0208",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg sonst. familie",
+    "categories": {
+      "frequencies": [
+        38,
+        132
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "38",
+        "132"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0209": {
+    "study": "soep-base",
+    "name": "yh0209",
+    "name_cs": "yh0209",
+    "variable": "yh0209",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg wohnung zu klein",
+    "categories": {
+      "frequencies": [
+        38,
+        132
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "38",
+        "132"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0210": {
+    "study": "soep-base",
+    "name": "yh0210",
+    "name_cs": "yh0210",
+    "variable": "yh0210",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg wohnung zu gross",
+    "categories": {
+      "frequencies": [
+        16,
+        154
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "16",
+        "154"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0211": {
+    "study": "soep-base",
+    "name": "yh0211",
+    "name_cs": "yh0211",
+    "variable": "yh0211",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg hohe wohnungskosten",
+    "categories": {
+      "frequencies": [
+        16,
+        154
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "16",
+        "154"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0212": {
+    "study": "soep-base",
+    "name": "yh0212",
+    "name_cs": "yh0212",
+    "variable": "yh0212",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg schlechte ausstattung",
+    "categories": {
+      "frequencies": [
+        24,
+        146
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "24",
+        "146"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0213": {
+    "study": "soep-base",
+    "name": "yh0213",
+    "name_cs": "yh0213",
+    "variable": "yh0213",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg schlechte lage",
+    "categories": {
+      "frequencies": [
+        17,
+        153
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "17",
+        "153"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0214": {
+    "study": "soep-base",
+    "name": "yh0214",
+    "name_cs": "yh0214",
+    "variable": "yh0214",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg schlechtes umfeld",
+    "categories": {
+      "frequencies": [
+        20,
+        150
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "20",
+        "150"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0215": {
+    "study": "soep-base",
+    "name": "yh0215",
+    "name_cs": "yh0215",
+    "variable": "yh0215",
+    "dataset": "h2008",
+    "label": "wohnungswechsel wg sonstige gruende",
+    "categories": {
+      "frequencies": [
+        38,
+        132
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "38",
+        "132"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0301": {
+    "study": "soep-base",
+    "name": "yh0301",
+    "name_cs": "yh0301",
+    "variable": "yh0301",
+    "dataset": "h2008",
+    "label": "wohnungsvergleich finanzieller belastung",
+    "categories": {
+      "frequencies": [
+        44,
+        13,
+        46,
+        67
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "157",
+        "13"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0302": {
+    "study": "soep-base",
+    "name": "yh0302",
+    "name_cs": "yh0302",
+    "variable": "yh0302",
+    "dataset": "h2008",
+    "label": "wohnungsvergleich groesse",
+    "categories": {
+      "frequencies": [
+        93,
+        5,
+        25,
+        47
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "165",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0303": {
+    "study": "soep-base",
+    "name": "yh0303",
+    "name_cs": "yh0303",
+    "variable": "yh0303",
+    "dataset": "h2008",
+    "label": "wohnungsvergleich ausstattung",
+    "categories": {
+      "frequencies": [
+        97,
+        5,
+        59,
+        9
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "165",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0304": {
+    "study": "soep-base",
+    "name": "yh0304",
+    "name_cs": "yh0304",
+    "variable": "yh0304",
+    "dataset": "h2008",
+    "label": "wohnungsvergleich gegend",
+    "categories": {
+      "frequencies": [
+        84,
+        6,
+        69,
+        11
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "164",
+        "6"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0305": {
+    "study": "soep-base",
+    "name": "yh0305",
+    "name_cs": "yh0305",
+    "variable": "yh0305",
+    "dataset": "h2008",
+    "label": "wohnungsvergleich umwelt",
+    "categories": {
+      "frequencies": [
+        65,
+        5,
+        64,
+        36
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "165",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0306": {
+    "study": "soep-base",
+    "name": "yh0306",
+    "name_cs": "yh0306",
+    "variable": "yh0306",
+    "dataset": "h2008",
+    "label": "wohnungsvergleich verkehrsverbindung",
+    "categories": {
+      "frequencies": [
+        71,
+        5,
+        78,
+        16
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "165",
+        "5"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0307": {
+    "study": "soep-base",
+    "name": "yh0307",
+    "name_cs": "yh0307",
+    "variable": "yh0307",
+    "dataset": "h2008",
+    "label": "wohnungsvergleich nachbarn",
+    "categories": {
+      "frequencies": [
+        55,
+        6,
+        89,
+        20
+      ],
+      "labels": [
+        "verbessert",
+        "-1",
+        "etwa gleichwertig",
+        "verschlechtert"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "164",
+        "6"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0401": {
+    "study": "soep-base",
+    "name": "yh0401",
+    "name_cs": "yh0401",
+    "variable": "yh0401",
+    "dataset": "h2008",
+    "label": "seit wann in dieser wohnung, monat",
+    "categories": {
+      "frequencies": [
+        16,
+        2,
+        15,
+        10,
+        10,
+        8,
+        16,
+        21,
+        10,
+        20,
+        13,
+        12,
+        17
+      ],
+      "labels": [
+        "januar",
+        "-1",
+        "oktober",
+        "november",
+        "dezember",
+        "februar",
+        "maerz",
+        "april",
+        "mai",
+        "juni",
+        "juli",
+        "august",
+        "september"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "10",
+        "11",
+        "12",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "168",
+        "2"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0402": {
+    "study": "soep-base",
+    "name": "yh0402",
+    "name_cs": "yh0402",
+    "variable": "yh0402",
+    "dataset": "h2008",
+    "label": "seit wann in dieser wohnung, jahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1925",
+        "1985",
+        "2000",
+        "1993",
+        "2006",
+        "2008",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "yh05": {
+    "study": "soep-base",
+    "name": "yh05",
+    "name_cs": "yh05",
+    "variable": "yh05",
+    "dataset": "h2008",
+    "label": "wohngegend des zielhaushaltes",
+    "categories": {
+      "frequencies": [
+        75,
+        1,
+        28,
+        65,
+        0,
+        1
+      ],
+      "labels": [
+        "reines wohngeb.altb.",
+        "-1",
+        "reines wohngeb.neub.",
+        "mischgebiet",
+        "geschaeftszentrum",
+        "industriegebiet"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "169",
+        "1"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh06": {
+    "study": "soep-base",
+    "name": "yh06",
+    "name_cs": "yh06",
+    "variable": "yh06",
+    "dataset": "h2008",
+    "label": "haustyp des zielhaushaltes",
+    "categories": {
+      "frequencies": [
+        2,
+        22,
+        7,
+        4,
+        42,
+        77,
+        16
+      ],
+      "labels": [
+        "landw.wohngebaeude",
+        "ein-,zweifamilienhaus",
+        "reihenhaus",
+        "wohnhaus,3-4 wohnungen",
+        "wohnhaus,5-8 wohnungen",
+        "wohnh,9 u.mehr wohnungen",
+        "hochhaus"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh07": {
+    "study": "soep-base",
+    "name": "yh07",
+    "name_cs": "yh07",
+    "variable": "yh07",
+    "dataset": "h2008",
+    "label": "wohnheim",
+    "categories": {
+      "frequencies": [
+        170,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "nein",
+        "schuelerwohnheim",
+        "studentenwohnheim",
+        "berufstaet.wohnheim",
+        "altenheim",
+        "altenwohnheim",
+        "hotel/pension",
+        "sonstiges heim/unterkunft"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0801": {
+    "study": "soep-base",
+    "name": "yh0801",
+    "name_cs": "yh0801",
+    "variable": "yh0801",
+    "dataset": "h2008",
+    "label": "baujahr des hauses",
+    "categories": {
+      "frequencies": [
+        35,
+        4,
+        44,
+        38,
+        18,
+        14,
+        16,
+        1
+      ],
+      "labels": [
+        "vor 1919",
+        "-1",
+        "1919 bis 1948",
+        "1949 bis 1971",
+        "1972 bis 1980",
+        "1981 bis 1990",
+        "1991 bis 2000",
+        "2001 und spaeter"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "166",
+        "4"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh0802": {
+    "study": "soep-base",
+    "name": "yh0802",
+    "name_cs": "yh0802",
+    "variable": "yh0802",
+    "dataset": "h2008",
+    "label": "genaues baujahr (ab 1972)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1972",
+        "1979",
+        "1986",
+        "1987",
+        "1997",
+        "2000",
+        "132",
+        "38",
+        "132"
+      ]
+    },
+    "scale": ""
+  },
+  "yh09": {
+    "study": "soep-base",
+    "name": "yh09",
+    "name_cs": "yh09",
+    "variable": "yh09",
+    "dataset": "h2008",
+    "label": "aenderung wohnflaeche seit letztem jahr",
+    "categories": {
+      "frequencies": [
+        3,
+        167
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh10": {
+    "study": "soep-base",
+    "name": "yh10",
+    "name_cs": "yh10",
+    "variable": "yh10",
+    "dataset": "h2008",
+    "label": "wohnflaeche insgesamt in qm",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "25",
+        "56",
+        "70",
+        "77.64",
+        "90",
+        "200",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "yh11": {
+    "study": "soep-base",
+    "name": "yh11",
+    "name_cs": "yh11",
+    "variable": "yh11",
+    "dataset": "h2008",
+    "label": "anzahl der wohnraeume",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "2.947",
+        "4",
+        "11",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "yh12": {
+    "study": "soep-base",
+    "name": "yh12",
+    "name_cs": "yh12",
+    "variable": "yh12",
+    "dataset": "h2008",
+    "label": "beurteilung der wohnungsgroesse",
+    "categories": {
+      "frequencies": [
+        3,
+        29,
+        119,
+        16,
+        3
+      ],
+      "labels": [
+        "viel zu klein",
+        "etwas zu klein",
+        "gerade richtig",
+        "etwas zu gross",
+        "viel zu gross"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh13": {
+    "study": "soep-base",
+    "name": "yh13",
+    "name_cs": "yh13",
+    "variable": "yh13",
+    "dataset": "h2008",
+    "label": "zustand des hauses in dem man wohnt",
+    "categories": {
+      "frequencies": [
+        128,
+        40,
+        2,
+        0
+      ],
+      "labels": [
+        "in gutem zustand",
+        "teilw. renov.beduerftig",
+        "ganz renov.beduerftig",
+        "abbruchreif"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1401": {
+    "study": "soep-base",
+    "name": "yh1401",
+    "name_cs": "yh1401",
+    "variable": "yh1401",
+    "dataset": "h2008",
+    "label": "wohnung mit kueche",
+    "categories": {
+      "frequencies": [
+        170,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1402": {
+    "study": "soep-base",
+    "name": "yh1402",
+    "name_cs": "yh1402",
+    "variable": "yh1402",
+    "dataset": "h2008",
+    "label": "wohnung mit innenbad,-dusche",
+    "categories": {
+      "frequencies": [
+        170,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1403": {
+    "study": "soep-base",
+    "name": "yh1403",
+    "name_cs": "yh1403",
+    "variable": "yh1403",
+    "dataset": "h2008",
+    "label": "wohnung mit warmwasser,boiler",
+    "categories": {
+      "frequencies": [
+        170,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1404": {
+    "study": "soep-base",
+    "name": "yh1404",
+    "name_cs": "yh1404",
+    "variable": "yh1404",
+    "dataset": "h2008",
+    "label": "wohnung mit innen-wc",
+    "categories": {
+      "frequencies": [
+        170,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1405": {
+    "study": "soep-base",
+    "name": "yh1405",
+    "name_cs": "yh1405",
+    "variable": "yh1405",
+    "dataset": "h2008",
+    "label": "wohnung mit zentral-,etagenheizung",
+    "categories": {
+      "frequencies": [
+        168,
+        2
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1406": {
+    "study": "soep-base",
+    "name": "yh1406",
+    "name_cs": "yh1406",
+    "variable": "yh1406",
+    "dataset": "h2008",
+    "label": "wohnung mit balkon,terasse",
+    "categories": {
+      "frequencies": [
+        126,
+        44
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1407": {
+    "study": "soep-base",
+    "name": "yh1407",
+    "name_cs": "yh1407",
+    "variable": "yh1407",
+    "dataset": "h2008",
+    "label": "wohnung mit keller,abstellraeume",
+    "categories": {
+      "frequencies": [
+        154,
+        16
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1408": {
+    "study": "soep-base",
+    "name": "yh1408",
+    "name_cs": "yh1408",
+    "variable": "yh1408",
+    "dataset": "h2008",
+    "label": "wohnung mit garten,-benutzung",
+    "categories": {
+      "frequencies": [
+        54,
+        116
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1409": {
+    "study": "soep-base",
+    "name": "yh1409",
+    "name_cs": "yh1409",
+    "variable": "yh1409",
+    "dataset": "h2008",
+    "label": "wohnung mit alarmanlage",
+    "categories": {
+      "frequencies": [
+        8,
+        162
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1410": {
+    "study": "soep-base",
+    "name": "yh1410",
+    "name_cs": "yh1410",
+    "variable": "yh1410",
+    "dataset": "h2008",
+    "label": "wohnung mit klimaanlage",
+    "categories": {
+      "frequencies": [
+        2,
+        168
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1411": {
+    "study": "soep-base",
+    "name": "yh1411",
+    "name_cs": "yh1411",
+    "variable": "yh1411",
+    "dataset": "h2008",
+    "label": "wohnung mit sonnenkollekt., solarenergie",
+    "categories": {
+      "frequencies": [
+        1,
+        169
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1501": {
+    "study": "soep-base",
+    "name": "yh1501",
+    "name_cs": "yh1501",
+    "variable": "yh1501",
+    "dataset": "h2008",
+    "label": "seit vorjahr-kueche eingebaut",
+    "categories": {
+      "frequencies": [
+        5,
+        165
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "165"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1502": {
+    "study": "soep-base",
+    "name": "yh1502",
+    "name_cs": "yh1502",
+    "variable": "yh1502",
+    "dataset": "h2008",
+    "label": "seit vorjahr-bad,dusche,wc eingebaut",
+    "categories": {
+      "frequencies": [
+        7,
+        163
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "163"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1503": {
+    "study": "soep-base",
+    "name": "yh1503",
+    "name_cs": "yh1503",
+    "variable": "yh1503",
+    "dataset": "h2008",
+    "label": "seit vorjahr-heizung eingebaut",
+    "categories": {
+      "frequencies": [
+        5,
+        165
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "165"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1504": {
+    "study": "soep-base",
+    "name": "yh1504",
+    "name_cs": "yh1504",
+    "variable": "yh1504",
+    "dataset": "h2008",
+    "label": "seit vorjahr-neue fenster eingebaut",
+    "categories": {
+      "frequencies": [
+        10,
+        160
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "10",
+        "160"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1505": {
+    "study": "soep-base",
+    "name": "yh1505",
+    "name_cs": "yh1505",
+    "variable": "yh1505",
+    "dataset": "h2008",
+    "label": "seit vorjahr-sonst. groessere massnahmen",
+    "categories": {
+      "frequencies": [
+        11,
+        159
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "11",
+        "159"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1506": {
+    "study": "soep-base",
+    "name": "yh1506",
+    "name_cs": "yh1506",
+    "variable": "yh1506",
+    "dataset": "h2008",
+    "label": "seit vorjahr-keine modernisierungen",
+    "categories": {
+      "frequencies": [
+        144,
+        26
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "144",
+        "26"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh16": {
+    "study": "soep-base",
+    "name": "yh16",
+    "name_cs": "yh16",
+    "variable": "yh16",
+    "dataset": "h2008",
+    "label": "modernisierung auf kosten von",
+    "categories": {
+      "frequencies": [
+        11,
+        1,
+        13,
+        144,
+        1
+      ],
+      "labels": [
+        "kosten d.vermieters",
+        "-1",
+        "eigene kosten",
+        "-2",
+        "teils, teils"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "25",
+        "145"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh17": {
+    "study": "soep-base",
+    "name": "yh17",
+    "name_cs": "yh17",
+    "variable": "yh17",
+    "dataset": "h2008",
+    "label": "modernisierung durchgefuehrt von",
+    "categories": {
+      "frequencies": [
+        3,
+        11,
+        6,
+        145,
+        5
+      ],
+      "labels": [
+        "selbst,i.eigenarbeit",
+        "-1",
+        "handwerker,firma",
+        "-2",
+        "beides"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "14",
+        "156"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh18": {
+    "study": "soep-base",
+    "name": "yh18",
+    "name_cs": "yh18",
+    "variable": "yh18",
+    "dataset": "h2008",
+    "label": "eigentuemerwechsel vorjahr",
+    "categories": {
+      "frequencies": [
+        19,
+        151
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1901": {
+    "study": "soep-base",
+    "name": "yh1901",
+    "name_cs": "yh1901",
+    "variable": "yh1901",
+    "dataset": "h2008",
+    "label": "eigentuemerwechsel art",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        151,
+        19
+      ],
+      "labels": [
+        "jetzt eigentuemer",
+        "jetzt nicht mehr eigentuemer",
+        "-2",
+        "weiterhin mieter, eigenuemerwechsel"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "19",
+        "151"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh1902": {
+    "study": "soep-base",
+    "name": "yh1902",
+    "name_cs": "yh1902",
+    "variable": "yh1902",
+    "dataset": "h2008",
+    "label": "eigentumerwerb durch",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "kauf der wohnung",
+        "erbschaft/schenkung"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh1903": {
+    "study": "soep-base",
+    "name": "yh1903",
+    "name_cs": "yh1903",
+    "variable": "yh1903",
+    "dataset": "h2008",
+    "label": "nicht mehr eigentuemer",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "verkauf der wohnung",
+        "erbschaft/schenkung"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh20": {
+    "study": "soep-base",
+    "name": "yh20",
+    "name_cs": "yh20",
+    "variable": "yh20",
+    "dataset": "h2008",
+    "label": "haupt-, untermieter, eigentuemer",
+    "categories": {
+      "frequencies": [
+        132,
+        9,
+        29,
+        0
+      ],
+      "labels": [
+        "hauptmieter",
+        "untermieter",
+        "eigentuemer",
+        "heimbewohner"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh21": {
+    "study": "soep-base",
+    "name": "yh21",
+    "name_cs": "yh21",
+    "variable": "yh21",
+    "dataset": "h2008",
+    "label": "v. eigentuemer verbilligt ueberl.whg",
+    "categories": {
+      "frequencies": [
+        4,
+        137,
+        29
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "141",
+        "29"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh22": {
+    "study": "soep-base",
+    "name": "yh22",
+    "name_cs": "yh22",
+    "variable": "yh22",
+    "dataset": "h2008",
+    "label": "sozialwohnung",
+    "categories": {
+      "frequencies": [
+        13,
+        1,
+        7,
+        29,
+        120
+      ],
+      "labels": [
+        "bestehende sozialb.",
+        "-1",
+        "abgelaufene sozialb.",
+        "-2",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "140",
+        "30"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh2301": {
+    "study": "soep-base",
+    "name": "yh2301",
+    "name_cs": "yh2301",
+    "variable": "yh2301",
+    "dataset": "h2008",
+    "label": "hoehe der monatlichen miete",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "150",
+        "331.5",
+        "435",
+        "475.5",
+        "576",
+        "1200",
+        "31",
+        "139",
+        "31"
+      ]
+    },
+    "scale": ""
+  },
+  "yh2302": {
+    "study": "soep-base",
+    "name": "yh2302",
+    "name_cs": "yh2302",
+    "variable": "yh2302",
+    "dataset": "h2008",
+    "label": "zahle keine miete",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh24": {
+    "study": "soep-base",
+    "name": "yh24",
+    "name_cs": "yh24",
+    "variable": "yh24",
+    "dataset": "h2008",
+    "label": "heizungs-,wwkosten in d. miete",
+    "categories": {
+      "frequencies": [
+        100,
+        39,
+        31
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "139",
+        "31"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh25": {
+    "study": "soep-base",
+    "name": "yh25",
+    "name_cs": "yh25",
+    "variable": "yh25",
+    "dataset": "h2008",
+    "label": "monatl. heizkosten, durchschnittl.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "50",
+        "70",
+        "81.59",
+        "100",
+        "350",
+        "73",
+        "97",
+        "73"
+      ]
+    },
+    "scale": ""
+  },
+  "yh2601": {
+    "study": "soep-base",
+    "name": "yh2601",
+    "name_cs": "yh2601",
+    "variable": "yh2601",
+    "dataset": "h2008",
+    "label": "monatl. heizkosten, durchschnittl.",
+    "categories": {
+      "frequencies": [
+        40,
+        2,
+        128
+      ],
+      "labels": [
+        "weiss nicht",
+        "-1",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "40",
+        "130"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh2602": {
+    "study": "soep-base",
+    "name": "yh2602",
+    "name_cs": "yh2602",
+    "variable": "yh2602",
+    "dataset": "h2008",
+    "label": "im mietpreis umlagen enthalten",
+    "categories": {
+      "frequencies": [
+        121,
+        8,
+        31,
+        10
+      ],
+      "labels": [
+        "ja, ganz enthalten",
+        "ja, teilweise enthalten",
+        "-2",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "139",
+        "31"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh2603": {
+    "study": "soep-base",
+    "name": "yh2603",
+    "name_cs": "yh2603",
+    "variable": "yh2603",
+    "dataset": "h2008",
+    "label": "monatl hoehe der umlagen",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "10",
+        "42.5",
+        "60",
+        "72.93",
+        "100",
+        "280",
+        "115",
+        "55",
+        "115"
+      ]
+    },
+    "scale": ""
+  },
+  "yh2604": {
+    "study": "soep-base",
+    "name": "yh2604",
+    "name_cs": "yh2604",
+    "variable": "yh2604",
+    "dataset": "h2008",
+    "label": "monatl hoehe der umlagen",
+    "categories": {
+      "frequencies": [
+        72,
+        2,
+        96
+      ],
+      "labels": [
+        "weiss nicht",
+        "-1",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "72",
+        "98"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh27": {
+    "study": "soep-base",
+    "name": "yh27",
+    "name_cs": "yh27",
+    "variable": "yh27",
+    "dataset": "h2008",
+    "label": "beurteilung der miethoehe",
+    "categories": {
+      "frequencies": [
+        13,
+        1,
+        44,
+        31,
+        53,
+        23,
+        5
+      ],
+      "labels": [
+        "sehr guenstig",
+        "-1",
+        "guenstig",
+        "-2",
+        "angemessen",
+        "etwas zu hoch",
+        "viel zu hoch"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "138",
+        "32"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh28": {
+    "study": "soep-base",
+    "name": "yh28",
+    "name_cs": "yh28",
+    "variable": "yh28",
+    "dataset": "h2008",
+    "label": "eigentuemer der wohnung",
+    "categories": {
+      "frequencies": [
+        18,
+        26,
+        31,
+        0,
+        93,
+        2,
+        0
+      ],
+      "labels": [
+        "kommunale wohnung",
+        "genossenschaftliche wohnung",
+        "-2",
+        "betriebs-/werkswohnung",
+        "privater eigentuemer",
+        "weiss nicht",
+        "weiss nicht"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "139",
+        "31"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh29": {
+    "study": "soep-base",
+    "name": "yh29",
+    "name_cs": "yh29",
+    "variable": "yh29",
+    "dataset": "h2008",
+    "label": "zins-,tilgungszahlungen f wohnung",
+    "categories": {
+      "frequencies": [
+        7,
+        22,
+        141
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "29",
+        "141"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh30": {
+    "study": "soep-base",
+    "name": "yh30",
+    "name_cs": "yh30",
+    "variable": "yh30",
+    "dataset": "h2008",
+    "label": "monatl zins-,tilgungszahlungen",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "180",
+        "400",
+        "500",
+        "536",
+        "700",
+        "900",
+        "165",
+        "5",
+        "165"
+      ]
+    },
+    "scale": ""
+  },
+  "yh31": {
+    "study": "soep-base",
+    "name": "yh31",
+    "name_cs": "yh31",
+    "variable": "yh31",
+    "dataset": "h2008",
+    "label": "hoehe instandhaltungskosten letzt.j",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "800",
+        "2447",
+        "1875",
+        "20000",
+        "144",
+        "26",
+        "144"
+      ]
+    },
+    "scale": ""
+  },
+  "yh32": {
+    "study": "soep-base",
+    "name": "yh32",
+    "name_cs": "yh32",
+    "variable": "yh32",
+    "dataset": "h2008",
+    "label": "hoehe heizkosten letzt.j",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "502",
+        "1050",
+        "1500",
+        "1689",
+        "2000",
+        "3840",
+        "144",
+        "26",
+        "144"
+      ]
+    },
+    "scale": ""
+  },
+  "yh33": {
+    "study": "soep-base",
+    "name": "yh33",
+    "name_cs": "yh33",
+    "variable": "yh33",
+    "dataset": "h2008",
+    "label": "jaehrliche nebenkosten in euro",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "127",
+        "500",
+        "720",
+        "942.2",
+        "1200",
+        "2500",
+        "145",
+        "25",
+        "145"
+      ]
+    },
+    "scale": ""
+  },
+  "yh3401": {
+    "study": "soep-base",
+    "name": "yh3401",
+    "name_cs": "yh3401",
+    "variable": "yh3401",
+    "dataset": "h2008",
+    "label": "wohngeld als eigentuemer d. wohnung",
+    "categories": {
+      "frequencies": [
+        4,
+        25,
+        141,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2",
+        "tnz, da hauseigent."
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "29",
+        "141"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh3402": {
+    "study": "soep-base",
+    "name": "yh3402",
+    "name_cs": "yh3402",
+    "variable": "yh3402",
+    "dataset": "h2008",
+    "label": "wohngeld, betrag pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "24",
+        "153.5",
+        "283",
+        "262.3",
+        "381.5",
+        "480",
+        "167",
+        "3",
+        "167"
+      ]
+    },
+    "scale": ""
+  },
+  "yh35": {
+    "study": "soep-base",
+    "name": "yh35",
+    "name_cs": "yh35",
+    "variable": "yh35",
+    "dataset": "h2008",
+    "label": "beurteilung - finanzielle belastung",
+    "categories": {
+      "frequencies": [
+        5,
+        1,
+        7,
+        141,
+        14,
+        2,
+        0
+      ],
+      "labels": [
+        "sehr guenstig",
+        "-1",
+        "guenstig",
+        "-2",
+        "angemessen",
+        "etwas zu hoch",
+        "viel zu hoch"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "28",
+        "142"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh3601": {
+    "study": "soep-base",
+    "name": "yh3601",
+    "name_cs": "yh3601",
+    "variable": "yh3601",
+    "dataset": "h2008",
+    "label": "geschaetzte monatl. miete ohne heizung",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "400",
+        "590",
+        "1000",
+        "1098",
+        "1500",
+        "3000",
+        "145",
+        "25",
+        "145"
+      ]
+    },
+    "scale": ""
+  },
+  "yh3602": {
+    "study": "soep-base",
+    "name": "yh3602",
+    "name_cs": "yh3602",
+    "variable": "yh3602",
+    "dataset": "h2008",
+    "label": "geschaetzte monatl. miete ohne heizung",
+    "categories": {
+      "frequencies": [
+        3,
+        1,
+        166
+      ],
+      "labels": [
+        "weiss nicht",
+        "-1",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh3701": {
+    "study": "soep-base",
+    "name": "yh3701",
+    "name_cs": "yh3701",
+    "variable": "yh3701",
+    "dataset": "h2008",
+    "label": "wohn-eigentumsfoerd.,eigenheimzulage vorjahr",
+    "categories": {
+      "frequencies": [
+        2,
+        27,
+        141
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "29",
+        "141"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh3702": {
+    "study": "soep-base",
+    "name": "yh3702",
+    "name_cs": "yh3702",
+    "variable": "yh3702",
+    "dataset": "h2008",
+    "label": "hoehe foerderbetrag vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2050",
+        "2148",
+        "2245",
+        "2245",
+        "2342",
+        "2440",
+        "168",
+        "2",
+        "168"
+      ]
+    },
+    "scale": ""
+  },
+  "yh38": {
+    "study": "soep-base",
+    "name": "yh38",
+    "name_cs": "yh38",
+    "variable": "yh38",
+    "dataset": "h2008",
+    "label": "miet- u.pachteinnahmen vorjahr",
+    "categories": {
+      "frequencies": [
+        7,
+        1,
+        162
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "169",
+        "1"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh39": {
+    "study": "soep-base",
+    "name": "yh39",
+    "name_cs": "yh39",
+    "variable": "yh39",
+    "dataset": "h2008",
+    "label": "miet- u.pachteinnahmen betrag vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "20",
+        "3950",
+        "6000",
+        "23800",
+        "7150",
+        "120000",
+        "164",
+        "6",
+        "164"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4001": {
+    "study": "soep-base",
+    "name": "yh4001",
+    "name_cs": "yh4001",
+    "variable": "yh4001",
+    "dataset": "h2008",
+    "label": "betriebs- u.instandhaltgskosten vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "2200",
+        "15960",
+        "4750",
+        "1e+05",
+        "163",
+        "7",
+        "163"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4002": {
+    "study": "soep-base",
+    "name": "yh4002",
+    "name_cs": "yh4002",
+    "variable": "yh4002",
+    "dataset": "h2008",
+    "label": "tilgungs-u.zinszahlungen vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "0",
+        "164",
+        "6",
+        "164"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4101": {
+    "study": "soep-base",
+    "name": "yh4101",
+    "name_cs": "yh4101",
+    "variable": "yh4101",
+    "dataset": "h2008",
+    "label": "steuerlich absetzten, vorjahr",
+    "categories": {
+      "frequencies": [
+        3,
+        4,
+        163
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "163"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4102": {
+    "study": "soep-base",
+    "name": "yh4102",
+    "name_cs": "yh4102",
+    "variable": "yh4102",
+    "dataset": "h2008",
+    "label": "steuerlich absetzten, betrag vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "80000",
+        "80000",
+        "80000",
+        "80000",
+        "80000",
+        "80000",
+        "169",
+        "1",
+        "169"
+      ]
+    },
+    "scale": ""
+  },
+  "yh42": {
+    "study": "soep-base",
+    "name": "yh42",
+    "name_cs": "yh42",
+    "variable": "yh42",
+    "dataset": "h2008",
+    "label": "abzahlung kredite",
+    "categories": {
+      "frequencies": [
+        17,
+        153
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh43": {
+    "study": "soep-base",
+    "name": "yh43",
+    "name_cs": "yh43",
+    "variable": "yh43",
+    "dataset": "h2008",
+    "label": "abzahlung kredite hoehe",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "60",
+        "140.2",
+        "193",
+        "231.1",
+        "312.5",
+        "550",
+        "154",
+        "16",
+        "154"
+      ]
+    },
+    "scale": ""
+  },
+  "yh44": {
+    "study": "soep-base",
+    "name": "yh44",
+    "name_cs": "yh44",
+    "variable": "yh44",
+    "dataset": "h2008",
+    "label": "belastung durch rueckzahlung kredite",
+    "categories": {
+      "frequencies": [
+        6,
+        3,
+        153,
+        8
+      ],
+      "labels": [
+        "schwere belastung",
+        "geringe belastung",
+        "-2",
+        "kein problem"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "17",
+        "153"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4501": {
+    "study": "soep-base",
+    "name": "yh4501",
+    "name_cs": "yh4501",
+    "variable": "yh4501",
+    "dataset": "h2008",
+    "label": "sparbuch vorjahr",
+    "categories": {
+      "frequencies": [
+        107,
+        63
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "107",
+        "63"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4502": {
+    "study": "soep-base",
+    "name": "yh4502",
+    "name_cs": "yh4502",
+    "variable": "yh4502",
+    "dataset": "h2008",
+    "label": "bausparvertrag vorjahr",
+    "categories": {
+      "frequencies": [
+        46,
+        124
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "46",
+        "124"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4503": {
+    "study": "soep-base",
+    "name": "yh4503",
+    "name_cs": "yh4503",
+    "variable": "yh4503",
+    "dataset": "h2008",
+    "label": "lebensversicherung vorjahr",
+    "categories": {
+      "frequencies": [
+        43,
+        127
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "43",
+        "127"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4504": {
+    "study": "soep-base",
+    "name": "yh4504",
+    "name_cs": "yh4504",
+    "variable": "yh4504",
+    "dataset": "h2008",
+    "label": "festverzinsl. wertpapiere vorjahr",
+    "categories": {
+      "frequencies": [
+        30,
+        140
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "30",
+        "140"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4505": {
+    "study": "soep-base",
+    "name": "yh4505",
+    "name_cs": "yh4505",
+    "variable": "yh4505",
+    "dataset": "h2008",
+    "label": "sonstige wertpapiere vorjahr",
+    "categories": {
+      "frequencies": [
+        44,
+        126
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "44",
+        "126"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4506": {
+    "study": "soep-base",
+    "name": "yh4506",
+    "name_cs": "yh4506",
+    "variable": "yh4506",
+    "dataset": "h2008",
+    "label": "betriebsvermoegen vorjahr",
+    "categories": {
+      "frequencies": [
+        4,
+        166
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "4",
+        "166"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4507": {
+    "study": "soep-base",
+    "name": "yh4507",
+    "name_cs": "yh4507",
+    "variable": "yh4507",
+    "dataset": "h2008",
+    "label": "keine wertanlagen vorjahr",
+    "categories": {
+      "frequencies": [
+        29,
+        2,
+        139
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "29",
+        "141"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4508": {
+    "study": "soep-base",
+    "name": "yh4508",
+    "name_cs": "yh4508",
+    "variable": "yh4508",
+    "dataset": "h2008",
+    "label": "verluste steuerlich absetzen",
+    "categories": {
+      "frequencies": [
+        5,
+        5,
+        37,
+        123
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "42",
+        "128"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4509": {
+    "study": "soep-base",
+    "name": "yh4509",
+    "name_cs": "yh4509",
+    "variable": "yh4509",
+    "dataset": "h2008",
+    "label": "verluste steuerlich absetzen, betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "150",
+        "600",
+        "800",
+        "12470",
+        "800",
+        "60000",
+        "165",
+        "5",
+        "165"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4510": {
+    "study": "soep-base",
+    "name": "yh4510",
+    "name_cs": "yh4510",
+    "variable": "yh4510",
+    "dataset": "h2008",
+    "label": "wertanlagen k.a.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh4601": {
+    "study": "soep-base",
+    "name": "yh4601",
+    "name_cs": "yh4601",
+    "variable": "yh4601",
+    "dataset": "h2008",
+    "label": "zins-u. dividendeneinnahmen vorjahr",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "0",
+        "70",
+        "225",
+        "1036",
+        "1180",
+        "15000",
+        "104",
+        "66",
+        "104"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4602": {
+    "study": "soep-base",
+    "name": "yh4602",
+    "name_cs": "yh4602",
+    "variable": "yh4602",
+    "dataset": "h2008",
+    "label": "zins-u. dividendeneinnahmen geschaetzt vorjahr",
+    "categories": {
+      "frequencies": [
+        40,
+        2,
+        17,
+        101,
+        7,
+        2,
+        1,
+        0
+      ],
+      "labels": [
+        "unter 250 euro",
+        "-1",
+        "250 bis unter 1000",
+        "-2",
+        "1000 bis unter 2500",
+        "2500 bis unter 5000",
+        "5000 bis unter 10000",
+        "10000 euro und mehr"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "67",
+        "103"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4701": {
+    "study": "soep-base",
+    "name": "yh4701",
+    "name_cs": "yh4701",
+    "variable": "yh4701",
+    "dataset": "h2008",
+    "label": "unerw. geldbetraege,sachw. ue.5000 dm er",
+    "categories": {
+      "frequencies": [
+        7,
+        1,
+        162
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "169",
+        "1"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4702": {
+    "study": "soep-base",
+    "name": "yh4702",
+    "name_cs": "yh4702",
+    "variable": "yh4702",
+    "dataset": "h2008",
+    "label": "erbschaft",
+    "categories": {
+      "frequencies": [
+        5,
+        165
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "165"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4703": {
+    "study": "soep-base",
+    "name": "yh4703",
+    "name_cs": "yh4703",
+    "variable": "yh4703",
+    "dataset": "h2008",
+    "label": "schenkung",
+    "categories": {
+      "frequencies": [
+        1,
+        169
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "169"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4704": {
+    "study": "soep-base",
+    "name": "yh4704",
+    "name_cs": "yh4704",
+    "variable": "yh4704",
+    "dataset": "h2008",
+    "label": "lotteriegewinn",
+    "categories": {
+      "frequencies": [
+        1,
+        169
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "169"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4705": {
+    "study": "soep-base",
+    "name": "yh4705",
+    "name_cs": "yh4705",
+    "variable": "yh4705",
+    "dataset": "h2008",
+    "label": "unerw.geldbetraege k.a.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh48": {
+    "study": "soep-base",
+    "name": "yh48",
+    "name_cs": "yh48",
+    "variable": "yh48",
+    "dataset": "h2008",
+    "label": "hoehe unerw. geldbetrage,sachw.in euro",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1000",
+        "5000",
+        "7500",
+        "31830",
+        "17500",
+        "150000",
+        "164",
+        "6",
+        "164"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4901": {
+    "study": "soep-base",
+    "name": "yh4901",
+    "name_cs": "yh4901",
+    "variable": "yh4901",
+    "dataset": "h2008",
+    "label": "kindergeldbezug letztes jahr",
+    "categories": {
+      "frequencies": [
+        29,
+        141
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4902": {
+    "study": "soep-base",
+    "name": "yh4902",
+    "name_cs": "yh4902",
+    "variable": "yh4902",
+    "dataset": "h2008",
+    "label": "kindergeld letzt.j monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "12",
+        "12",
+        "11.62",
+        "12",
+        "12",
+        "141",
+        "29",
+        "141"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4903": {
+    "study": "soep-base",
+    "name": "yh4903",
+    "name_cs": "yh4903",
+    "variable": "yh4903",
+    "dataset": "h2008",
+    "label": "kindergeld letzt.j betrag(monat)",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "150",
+        "154",
+        "154",
+        "170",
+        "154",
+        "308",
+        "142",
+        "28",
+        "142"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4904": {
+    "study": "soep-base",
+    "name": "yh4904",
+    "name_cs": "yh4904",
+    "variable": "yh4904",
+    "dataset": "h2008",
+    "label": "alg2, sozialgeld im letzten jahr: bezogen",
+    "categories": {
+      "frequencies": [
+        8,
+        162
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4905": {
+    "study": "soep-base",
+    "name": "yh4905",
+    "name_cs": "yh4905",
+    "variable": "yh4905",
+    "dataset": "h2008",
+    "label": "alg2, sozialgeld im letzten jahr: anzahl monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "2.75",
+        "12",
+        "8.25",
+        "12",
+        "12",
+        "162",
+        "8",
+        "162"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4906": {
+    "study": "soep-base",
+    "name": "yh4906",
+    "name_cs": "yh4906",
+    "variable": "yh4906",
+    "dataset": "h2008",
+    "label": "alg2, sozialgeld im letzten jahr: betrag pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "345",
+        "345",
+        "624",
+        "581.1",
+        "654.5",
+        "1100",
+        "163",
+        "7",
+        "163"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4907": {
+    "study": "soep-base",
+    "name": "yh4907",
+    "name_cs": "yh4907",
+    "variable": "yh4907",
+    "dataset": "h2008",
+    "label": "wohngeld,lastenzuschuss vorjahr",
+    "categories": {
+      "frequencies": [
+        7,
+        163
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4908": {
+    "study": "soep-base",
+    "name": "yh4908",
+    "name_cs": "yh4908",
+    "variable": "yh4908",
+    "dataset": "h2008",
+    "label": "im letzten jahr: monate mit wohngeld o. lastenzuschuss",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "9.75",
+        "12",
+        "10",
+        "12",
+        "12",
+        "164",
+        "6",
+        "164"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4909": {
+    "study": "soep-base",
+    "name": "yh4909",
+    "name_cs": "yh4909",
+    "variable": "yh4909",
+    "dataset": "h2008",
+    "label": "wohngeld,lastenzuschuss pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "35",
+        "62",
+        "97",
+        "99.57",
+        "108",
+        "225",
+        "163",
+        "7",
+        "163"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4910": {
+    "study": "soep-base",
+    "name": "yh4910",
+    "name_cs": "yh4910",
+    "variable": "yh4910",
+    "dataset": "h2008",
+    "label": "leistungen der pflegeversicherung vorjahr",
+    "categories": {
+      "frequencies": [
+        2,
+        168
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh4911": {
+    "study": "soep-base",
+    "name": "yh4911",
+    "name_cs": "yh4911",
+    "variable": "yh4911",
+    "dataset": "h2008",
+    "label": "leistungen der pflegeversicherung monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
+        "168",
+        "2",
+        "168"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4912": {
+    "study": "soep-base",
+    "name": "yh4912",
+    "name_cs": "yh4912",
+    "variable": "yh4912",
+    "dataset": "h2008",
+    "label": "leistungen der pflegeversicherung pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "200",
+        "201.2",
+        "202.5",
+        "202.5",
+        "203.8",
+        "205",
+        "168",
+        "2",
+        "168"
+      ]
+    },
+    "scale": ""
+  },
+  "yh4913": {
+    "study": "soep-base",
+    "name": "yh4913",
+    "name_cs": "yh4913",
+    "variable": "yh4913",
+    "dataset": "h2008",
+    "label": "sozialhilfebezug letzt.j",
+    "categories": {
+      "frequencies": [
+        2,
+        168
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5001": {
+    "study": "soep-base",
+    "name": "yh5001",
+    "name_cs": "yh5001",
+    "variable": "yh5001",
+    "dataset": "h2008",
+    "label": "hilfe lebensunterhalt",
+    "categories": {
+      "frequencies": [
+        1,
+        169
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "169"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5002": {
+    "study": "soep-base",
+    "name": "yh5002",
+    "name_cs": "yh5002",
+    "variable": "yh5002",
+    "dataset": "h2008",
+    "label": "hilfe lebensunterhalt monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "9",
+        "169",
+        "1",
+        "169"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5003": {
+    "study": "soep-base",
+    "name": "yh5003",
+    "name_cs": "yh5003",
+    "variable": "yh5003",
+    "dataset": "h2008",
+    "label": "hilfe lebensunterhalt pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "500",
+        "500",
+        "500",
+        "500",
+        "500",
+        "500",
+        "169",
+        "1",
+        "169"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5004": {
+    "study": "soep-base",
+    "name": "yh5004",
+    "name_cs": "yh5004",
+    "variable": "yh5004",
+    "dataset": "h2008",
+    "label": "hilfe alter/erwerbsminderung",
+    "categories": {
+      "frequencies": [
+        1,
+        169
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "169"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5005": {
+    "study": "soep-base",
+    "name": "yh5005",
+    "name_cs": "yh5005",
+    "variable": "yh5005",
+    "dataset": "h2008",
+    "label": "hilfe alter/erwerbsminderung monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
+        "12",
+        "169",
+        "1",
+        "169"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5006": {
+    "study": "soep-base",
+    "name": "yh5006",
+    "name_cs": "yh5006",
+    "variable": "yh5006",
+    "dataset": "h2008",
+    "label": "hilfe alter/erwerbsminderung pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "330",
+        "330",
+        "330",
+        "330",
+        "330",
+        "330",
+        "169",
+        "1",
+        "169"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5007": {
+    "study": "soep-base",
+    "name": "yh5007",
+    "name_cs": "yh5007",
+    "variable": "yh5007",
+    "dataset": "h2008",
+    "label": "hilfe in bes.lebenslagen",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5008": {
+    "study": "soep-base",
+    "name": "yh5008",
+    "name_cs": "yh5008",
+    "variable": "yh5008",
+    "dataset": "h2008",
+    "label": "hilfe in bes.lebenslagen monate",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5009": {
+    "study": "soep-base",
+    "name": "yh5009",
+    "name_cs": "yh5009",
+    "variable": "yh5009",
+    "dataset": "h2008",
+    "label": "hilfe in bes.lebenslagen pro monat",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5010": {
+    "study": "soep-base",
+    "name": "yh5010",
+    "name_cs": "yh5010",
+    "variable": "yh5010",
+    "dataset": "h2008",
+    "label": "einmalige hilfe zum lebensunterhalt",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5011": {
+    "study": "soep-base",
+    "name": "yh5011",
+    "name_cs": "yh5011",
+    "variable": "yh5011",
+    "dataset": "h2008",
+    "label": "sozialhilfe k.a.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5101": {
+    "study": "soep-base",
+    "name": "yh5101",
+    "name_cs": "yh5101",
+    "variable": "yh5101",
+    "dataset": "h2008",
+    "label": "kindergeldbezug heute",
+    "categories": {
+      "frequencies": [
+        22,
+        0,
+        148
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "22",
+        "148"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5102": {
+    "study": "soep-base",
+    "name": "yh5102",
+    "name_cs": "yh5102",
+    "variable": "yh5102",
+    "dataset": "h2008",
+    "label": "kindergeldbezug heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "150",
+        "154",
+        "154",
+        "174.9",
+        "154",
+        "308",
+        "148",
+        "22",
+        "148"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5103": {
+    "study": "soep-base",
+    "name": "yh5103",
+    "name_cs": "yh5103",
+    "variable": "yh5103",
+    "dataset": "h2008",
+    "label": "anz. kinder",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1.182",
+        "1",
+        "2",
+        "148",
+        "22",
+        "148"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5104": {
+    "study": "soep-base",
+    "name": "yh5104",
+    "name_cs": "yh5104",
+    "variable": "yh5104",
+    "dataset": "h2008",
+    "label": "alg ii, sozialgeld heute",
+    "categories": {
+      "frequencies": [
+        5,
+        0,
+        165
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "5",
+        "165"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5105": {
+    "study": "soep-base",
+    "name": "yh5105",
+    "name_cs": "yh5105",
+    "variable": "yh5105",
+    "dataset": "h2008",
+    "label": "alg ii, sozialgeld heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "345",
+        "345",
+        "347",
+        "552.2",
+        "624",
+        "1100",
+        "165",
+        "5",
+        "165"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5106": {
+    "study": "soep-base",
+    "name": "yh5106",
+    "name_cs": "yh5106",
+    "variable": "yh5106",
+    "dataset": "h2008",
+    "label": "wohngeldbezug heute",
+    "categories": {
+      "frequencies": [
+        6,
+        0,
+        164
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "164"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5107": {
+    "study": "soep-base",
+    "name": "yh5107",
+    "name_cs": "yh5107",
+    "variable": "yh5107",
+    "dataset": "h2008",
+    "label": "wohngeldbezug heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "31",
+        "57",
+        "67",
+        "94.2",
+        "97",
+        "219",
+        "165",
+        "5",
+        "165"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5108": {
+    "study": "soep-base",
+    "name": "yh5108",
+    "name_cs": "yh5108",
+    "variable": "yh5108",
+    "dataset": "h2008",
+    "label": "pflegevers. leistungen",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        167
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5109": {
+    "study": "soep-base",
+    "name": "yh5109",
+    "name_cs": "yh5109",
+    "variable": "yh5109",
+    "dataset": "h2008",
+    "label": "pflegevers. betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "203",
+        "209",
+        "215",
+        "211",
+        "215",
+        "215",
+        "167",
+        "3",
+        "167"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5110": {
+    "study": "soep-base",
+    "name": "yh5110",
+    "name_cs": "yh5110",
+    "variable": "yh5110",
+    "dataset": "h2008",
+    "label": "alter/erwerbsminderung heute",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        169
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "169"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5111": {
+    "study": "soep-base",
+    "name": "yh5111",
+    "name_cs": "yh5111",
+    "variable": "yh5111",
+    "dataset": "h2008",
+    "label": "alter/erwerbsminderung heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "332",
+        "332",
+        "332",
+        "332",
+        "332",
+        "332",
+        "169",
+        "1",
+        "169"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5112": {
+    "study": "soep-base",
+    "name": "yh5112",
+    "name_cs": "yh5112",
+    "variable": "yh5112",
+    "dataset": "h2008",
+    "label": "sozialhilfebezug heute",
+    "categories": {
+      "frequencies": [
+        1,
+        0,
+        169
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "169"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5113": {
+    "study": "soep-base",
+    "name": "yh5113",
+    "name_cs": "yh5113",
+    "variable": "yh5113",
+    "dataset": "h2008",
+    "label": "sozialhilfebezug heute betrag",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "420",
+        "420",
+        "420",
+        "420",
+        "420",
+        "420",
+        "169",
+        "1",
+        "169"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5114": {
+    "study": "soep-base",
+    "name": "yh5114",
+    "name_cs": "yh5114",
+    "variable": "yh5114",
+    "dataset": "h2008",
+    "label": "keine staatl leistungen",
+    "categories": {
+      "frequencies": [
+        135,
+        35
+      ],
+      "labels": [
+        "keine staatl. leistungen",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "135",
+        "35"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5201": {
+    "study": "soep-base",
+    "name": "yh5201",
+    "name_cs": "yh5201",
+    "variable": "yh5201",
+    "dataset": "h2008",
+    "label": "hh-nettoeinkommen",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "450",
+        "1000",
+        "1550",
+        "1853",
+        "2300",
+        "10000",
+        "14",
+        "156",
+        "14"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5202": {
+    "study": "soep-base",
+    "name": "yh5202",
+    "name_cs": "yh5202",
+    "variable": "yh5202",
+    "dataset": "h2008",
+    "label": "hh-nettoeinkommensgruppen, nur capi",
+    "categories": {
+      "frequencies": [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        4,
+        156,
+        0,
+        3,
+        2,
+        2,
+        1,
+        1,
+        0,
+        0
+      ],
+      "labels": [
+        "le    750 euro",
+        "-1",
+        "lt 1500 lt    o. gt     750 ka",
+        "gt 1500 lt    o. gt    2500 ka",
+        "gt 2500 lt    o. gt    3500 ka",
+        "gt 3500 lt    o. gt    5000 ka",
+        "gt    750 euro und le    1500 euro",
+        "-2",
+        "lt  1500 euro oder gt  750 euro, ka",
+        "gt   1500 euro und le    2500 euro",
+        "gt  1500 euro oder gt 2500 euro, ka",
+        "gt   2500 euro und le    3500 euro",
+        "gt  2500 euro oder gt 3500 euro, ka",
+        "gt   3500 euro und le    5000 euro",
+        "gt  3500 euro oder gt 5000 euro, ka",
+        "gt   5000 euro"
+      ],
+      "missings": [
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "12",
+        "13",
+        "14",
+        "15",
+        "2",
+        "-2",
+        "21",
+        "3",
+        "31",
+        "4",
+        "41",
+        "5",
+        "51",
+        "6"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "13",
+        "157"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5301": {
+    "study": "soep-base",
+    "name": "yh5301",
+    "name_cs": "yh5301",
+    "variable": "yh5301",
+    "dataset": "h2008",
+    "label": "sparbetrag monatlich",
+    "categories": {
+      "frequencies": [
+        86,
+        1,
+        83
+      ],
+      "labels": [
+        "ja",
+        "-1",
+        "nein"
+      ],
+      "missings": [
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "-1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "169",
+        "1"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5302": {
+    "study": "soep-base",
+    "name": "yh5302",
+    "name_cs": "yh5302",
+    "variable": "yh5302",
+    "dataset": "h2008",
+    "label": "sparbetrag monatlich hoehe",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "25",
+        "100",
+        "200",
+        "367.2",
+        "412.5",
+        "5000",
+        "90",
+        "80",
+        "90"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5401": {
+    "study": "soep-base",
+    "name": "yh5401",
+    "name_cs": "yh5401",
+    "variable": "yh5401",
+    "dataset": "h2008",
+    "label": "im hh auto ja/nein",
+    "categories": {
+      "frequencies": [
+        75,
+        95
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "75",
+        "95"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5402": {
+    "study": "soep-base",
+    "name": "yh5402",
+    "name_cs": "yh5402",
+    "variable": "yh5402",
+    "dataset": "h2008",
+    "label": "in letzten 12 mon gekauft",
+    "categories": {
+      "frequencies": [
+        8,
+        162
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "8",
+        "162"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5403": {
+    "study": "soep-base",
+    "name": "yh5403",
+    "name_cs": "yh5403",
+    "variable": "yh5403",
+    "dataset": "h2008",
+    "label": "motorrad,moped im hh",
+    "categories": {
+      "frequencies": [
+        7,
+        163
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "163"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5404": {
+    "study": "soep-base",
+    "name": "yh5404",
+    "name_cs": "yh5404",
+    "variable": "yh5404",
+    "dataset": "h2008",
+    "label": "motorrad,moped im hh",
+    "categories": {
+      "frequencies": [
+        3,
+        167
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5405": {
+    "study": "soep-base",
+    "name": "yh5405",
+    "name_cs": "yh5405",
+    "variable": "yh5405",
+    "dataset": "h2008",
+    "label": "spuelmaschine im hh",
+    "categories": {
+      "frequencies": [
+        85,
+        85
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "85",
+        "85"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5406": {
+    "study": "soep-base",
+    "name": "yh5406",
+    "name_cs": "yh5406",
+    "variable": "yh5406",
+    "dataset": "h2008",
+    "label": "mikrowelle im hh",
+    "categories": {
+      "frequencies": [
+        2,
+        168
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "168"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5407": {
+    "study": "soep-base",
+    "name": "yh5407",
+    "name_cs": "yh5407",
+    "variable": "yh5407",
+    "dataset": "h2008",
+    "label": "waschmaschine im hh",
+    "categories": {
+      "frequencies": [
+        89,
+        81
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "89",
+        "81"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5408": {
+    "study": "soep-base",
+    "name": "yh5408",
+    "name_cs": "yh5408",
+    "variable": "yh5408",
+    "dataset": "h2008",
+    "label": "in letzten 12 mon gekauft",
+    "categories": {
+      "frequencies": [
+        3,
+        167
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5409": {
+    "study": "soep-base",
+    "name": "yh5409",
+    "name_cs": "yh5409",
+    "variable": "yh5409",
+    "dataset": "h2008",
+    "label": "waschmaschine im hh",
+    "categories": {
+      "frequencies": [
+        160,
+        10
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "160",
+        "10"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5410": {
+    "study": "soep-base",
+    "name": "yh5410",
+    "name_cs": "yh5410",
+    "variable": "yh5410",
+    "dataset": "h2008",
+    "label": "waschmaschine im hh",
+    "categories": {
+      "frequencies": [
+        12,
+        158
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "12",
+        "158"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5411": {
+    "study": "soep-base",
+    "name": "yh5411",
+    "name_cs": "yh5411",
+    "variable": "yh5411",
+    "dataset": "h2008",
+    "label": "stereoanlage im hh",
+    "categories": {
+      "frequencies": [
+        137,
+        33
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "137",
+        "33"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5412": {
+    "study": "soep-base",
+    "name": "yh5412",
+    "name_cs": "yh5412",
+    "variable": "yh5412",
+    "dataset": "h2008",
+    "label": "stereoanlage im hh",
+    "categories": {
+      "frequencies": [
+        6,
+        164
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "164"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5413": {
+    "study": "soep-base",
+    "name": "yh5413",
+    "name_cs": "yh5413",
+    "variable": "yh5413",
+    "dataset": "h2008",
+    "label": "im hh farb-tv ja/nein",
+    "categories": {
+      "frequencies": [
+        152,
+        18
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "152",
+        "18"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5414": {
+    "study": "soep-base",
+    "name": "yh5414",
+    "name_cs": "yh5414",
+    "variable": "yh5414",
+    "dataset": "h2008",
+    "label": "in letzten 12 mon gekauft",
+    "categories": {
+      "frequencies": [
+        16,
+        154
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "16",
+        "154"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5415": {
+    "study": "soep-base",
+    "name": "yh5415",
+    "name_cs": "yh5415",
+    "variable": "yh5415",
+    "dataset": "h2008",
+    "label": "stereoanlage im hh",
+    "categories": {
+      "frequencies": [
+        77,
+        93
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "77",
+        "93"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5416": {
+    "study": "soep-base",
+    "name": "yh5416",
+    "name_cs": "yh5416",
+    "variable": "yh5416",
+    "dataset": "h2008",
+    "label": "in letzten 12 mon gekauft",
+    "categories": {
+      "frequencies": [
+        7,
+        163
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "163"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5417": {
+    "study": "soep-base",
+    "name": "yh5417",
+    "name_cs": "yh5417",
+    "variable": "yh5417",
+    "dataset": "h2008",
+    "label": "im hh dvd-recorder ja/nein",
+    "categories": {
+      "frequencies": [
+        34,
+        136
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "34",
+        "136"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5418": {
+    "study": "soep-base",
+    "name": "yh5418",
+    "name_cs": "yh5418",
+    "variable": "yh5418",
+    "dataset": "h2008",
+    "label": "dvd-recorder im hh",
+    "categories": {
+      "frequencies": [
+        6,
+        164
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "164"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5419": {
+    "study": "soep-base",
+    "name": "yh5419",
+    "name_cs": "yh5419",
+    "variable": "yh5419",
+    "dataset": "h2008",
+    "label": "pc im hh",
+    "categories": {
+      "frequencies": [
+        127,
+        43
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "127",
+        "43"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5420": {
+    "study": "soep-base",
+    "name": "yh5420",
+    "name_cs": "yh5420",
+    "variable": "yh5420",
+    "dataset": "h2008",
+    "label": "pc im hh",
+    "categories": {
+      "frequencies": [
+        21,
+        149
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "21",
+        "149"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5421": {
+    "study": "soep-base",
+    "name": "yh5421",
+    "name_cs": "yh5421",
+    "variable": "yh5421",
+    "dataset": "h2008",
+    "label": "mikrowelle im hh",
+    "categories": {
+      "frequencies": [
+        35,
+        135
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "35",
+        "135"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5422": {
+    "study": "soep-base",
+    "name": "yh5422",
+    "name_cs": "yh5422",
+    "variable": "yh5422",
+    "dataset": "h2008",
+    "label": "internet-anschluss (ohne dsl) im hh",
+    "categories": {
+      "frequencies": [
+        3,
+        167
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5423": {
+    "study": "soep-base",
+    "name": "yh5423",
+    "name_cs": "yh5423",
+    "variable": "yh5423",
+    "dataset": "h2008",
+    "label": "im hh dsl-anschluss ja/nein",
+    "categories": {
+      "frequencies": [
+        91,
+        79
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "91",
+        "79"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5424": {
+    "study": "soep-base",
+    "name": "yh5424",
+    "name_cs": "yh5424",
+    "variable": "yh5424",
+    "dataset": "h2008",
+    "label": "dsl-anschluss im hh",
+    "categories": {
+      "frequencies": [
+        17,
+        153
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "17",
+        "153"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5425": {
+    "study": "soep-base",
+    "name": "yh5425",
+    "name_cs": "yh5425",
+    "variable": "yh5425",
+    "dataset": "h2008",
+    "label": "telefon im hh",
+    "categories": {
+      "frequencies": [
+        155,
+        15
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "155",
+        "15"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5426": {
+    "study": "soep-base",
+    "name": "yh5426",
+    "name_cs": "yh5426",
+    "variable": "yh5426",
+    "dataset": "h2008",
+    "label": "telefon im hh",
+    "categories": {
+      "frequencies": [
+        7,
+        163
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "163"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5427": {
+    "study": "soep-base",
+    "name": "yh5427",
+    "name_cs": "yh5427",
+    "variable": "yh5427",
+    "dataset": "h2008",
+    "label": "mobiltelefon, handy im hh",
+    "categories": {
+      "frequencies": [
+        145,
+        25
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "145",
+        "25"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5428": {
+    "study": "soep-base",
+    "name": "yh5428",
+    "name_cs": "yh5428",
+    "variable": "yh5428",
+    "dataset": "h2008",
+    "label": "mobiltelefon, handy im hh",
+    "categories": {
+      "frequencies": [
+        17,
+        153
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "17",
+        "153"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5429": {
+    "study": "soep-base",
+    "name": "yh5429",
+    "name_cs": "yh5429",
+    "variable": "yh5429",
+    "dataset": "h2008",
+    "label": "isdn-anschluss",
+    "categories": {
+      "frequencies": [
+        37,
+        133
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "37",
+        "133"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5430": {
+    "study": "soep-base",
+    "name": "yh5430",
+    "name_cs": "yh5430",
+    "variable": "yh5430",
+    "dataset": "h2008",
+    "label": "in letzten 12 mon gekauft",
+    "categories": {
+      "frequencies": [
+        3,
+        167
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5431": {
+    "study": "soep-base",
+    "name": "yh5431",
+    "name_cs": "yh5431",
+    "variable": "yh5431",
+    "dataset": "h2008",
+    "label": "isdn-anschluss im hh",
+    "categories": {
+      "frequencies": [
+        34,
+        136
+      ],
+      "labels": [
+        "ja, vorhanden",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "34",
+        "136"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5432": {
+    "study": "soep-base",
+    "name": "yh5432",
+    "name_cs": "yh5432",
+    "variable": "yh5432",
+    "dataset": "h2008",
+    "label": "isdn-anschluss im hh",
+    "categories": {
+      "frequencies": [
+        7,
+        163
+      ],
+      "labels": [
+        "ja, in letzten 12 mon gekauft",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "7",
+        "163"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh55": {
+    "study": "soep-base",
+    "name": "yh55",
+    "name_cs": "yh55",
+    "variable": "yh55",
+    "dataset": "h2008",
+    "label": "putz-,haushaltshilfe beschaeftigt",
+    "categories": {
+      "frequencies": [
+        10,
+        6,
+        154
+      ],
+      "labels": [
+        "ja, regelmaessig",
+        "ja, gelegentlich",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh56": {
+    "study": "soep-base",
+    "name": "yh56",
+    "name_cs": "yh56",
+    "variable": "yh56",
+    "dataset": "h2008",
+    "label": "hilfe-,pflegebeduerft. person im hh",
+    "categories": {
+      "frequencies": [
+        3,
+        167
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5701": {
+    "study": "soep-base",
+    "name": "yh5701",
+    "name_cs": "yh5701",
+    "variable": "yh5701",
+    "dataset": "h2008",
+    "label": "pnr hilfebeduerfige person",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "2",
+        "167",
+        "3",
+        "167"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5702": {
+    "study": "soep-base",
+    "name": "yh5702",
+    "name_cs": "yh5702",
+    "variable": "yh5702",
+    "dataset": "h2008",
+    "label": "hilfe bei besorgungen ausser hh",
+    "categories": {
+      "frequencies": [
+        3,
+        167
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5703": {
+    "study": "soep-base",
+    "name": "yh5703",
+    "name_cs": "yh5703",
+    "variable": "yh5703",
+    "dataset": "h2008",
+    "label": "hilfe bei haushaltsfuehrung",
+    "categories": {
+      "frequencies": [
+        3,
+        167
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5704": {
+    "study": "soep-base",
+    "name": "yh5704",
+    "name_cs": "yh5704",
+    "variable": "yh5704",
+    "dataset": "h2008",
+    "label": "hilfe bei einfacher pflegetaetigkeit",
+    "categories": {
+      "frequencies": [
+        2,
+        168
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "2",
+        "168"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5705": {
+    "study": "soep-base",
+    "name": "yh5705",
+    "name_cs": "yh5705",
+    "variable": "yh5705",
+    "dataset": "h2008",
+    "label": "hilfe bei schwieriger pflegetaetigkeit",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5706": {
+    "study": "soep-base",
+    "name": "yh5706",
+    "name_cs": "yh5706",
+    "variable": "yh5706",
+    "dataset": "h2008",
+    "label": "hilfe k.a.",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5801": {
+    "study": "soep-base",
+    "name": "yh5801",
+    "name_cs": "yh5801",
+    "variable": "yh5801",
+    "dataset": "h2008",
+    "label": "leistungen der pflegeversicherung",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        167
+      ],
+      "labels": [
+        "ja",
+        "nein",
+        "-2"
+      ],
+      "missings": [
+        false,
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5802": {
+    "study": "soep-base",
+    "name": "yh5802",
+    "name_cs": "yh5802",
+    "variable": "yh5802",
+    "dataset": "h2008",
+    "label": "pflegestufe",
+    "categories": {
+      "frequencies": [
+        3,
+        0,
+        167,
+        0
+      ],
+      "labels": [
+        "pflegestufe 1",
+        "pflegestufe 2",
+        "-2",
+        "pflegestufe 3"
+      ],
+      "missings": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "-2",
+        "3"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5901": {
+    "study": "soep-base",
+    "name": "yh5901",
+    "name_cs": "yh5901",
+    "variable": "yh5901",
+    "dataset": "h2008",
+    "label": "hilfe v.schwester,sozialhelfer",
+    "categories": {
+      "frequencies": [
+        3,
+        167
+      ],
+      "labels": [
+        "ja",
+        "-2"
+      ],
+      "missings": [
+        false,
+        true
+      ],
+      "values": [
+        "1",
+        "-2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh5902": {
+    "study": "soep-base",
+    "name": "yh5902",
+    "name_cs": "yh5902",
+    "variable": "yh5902",
+    "dataset": "h2008",
+    "label": "pnr der hauptpflegeperson im hh",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "NA's",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "1",
+        "167",
+        "3",
+        "167"
+      ]
+    },
+    "scale": ""
+  },
+  "yh5903": {
+    "study": "soep-base",
+    "name": "yh5903",
+    "name_cs": "yh5903",
+    "variable": "yh5903",
+    "dataset": "h2008",
+    "label": "hilfe v. schwester,sozialhelfer",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5904": {
+    "study": "soep-base",
+    "name": "yh5904",
+    "name_cs": "yh5904",
+    "variable": "yh5904",
+    "dataset": "h2008",
+    "label": "hilfe v.priv.pflegedienst",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5905": {
+    "study": "soep-base",
+    "name": "yh5905",
+    "name_cs": "yh5905",
+    "variable": "yh5905",
+    "dataset": "h2008",
+    "label": "hilfe v.nachbarn",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5906": {
+    "study": "soep-base",
+    "name": "yh5906",
+    "name_cs": "yh5906",
+    "variable": "yh5906",
+    "dataset": "h2008",
+    "label": "hilfe v. nachbarn",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5907": {
+    "study": "soep-base",
+    "name": "yh5907",
+    "name_cs": "yh5907",
+    "variable": "yh5907",
+    "dataset": "h2008",
+    "label": "hilfe v. angehoerige ausser hh",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5908": {
+    "study": "soep-base",
+    "name": "yh5908",
+    "name_cs": "yh5908",
+    "variable": "yh5908",
+    "dataset": "h2008",
+    "label": "hilfe v.  k.a.",
+    "categories": {
+      "frequencies": [
+        0
+      ],
+      "labels": [
+        "ja"
+      ],
+      "missings": [
+        false
+      ],
+      "values": [
+        "1"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh5909": {
+    "study": "soep-base",
+    "name": "yh5909",
+    "name_cs": "yh5909",
+    "variable": "yh5909",
+    "dataset": "h2008",
+    "label": "person erhaelt bezahlung",
+    "categories": {
+      "frequencies": [
+        0,
+        0
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yh60": {
+    "study": "soep-base",
+    "name": "yh60",
+    "name_cs": "yh60",
+    "variable": "yh60",
+    "dataset": "h2008",
+    "label": "zufriedenh. vorh. pflegemoeglichk.",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        167,
+        1,
+        0,
+        1,
+        0,
+        1,
+        0,
+        0
+      ],
+      "labels": [
+        "0 zufrieden: skala 0-niedrig bis 10-hoch",
+        "1 zufrieden: skala 0-niedrig bis 10-hoch",
+        "10 zufrieden: skala 0-niedrig bis 10-hoc",
+        "2 zufrieden: skala 0-niedrig bis 10-hoch",
+        "-2",
+        "3 zufrieden: skala 0-niedrig bis 10-hoch",
+        "4 zufrieden: skala 0-niedrig bis 10-hoch",
+        "5 zufrieden: skala 0-niedrig bis 10-hoch",
+        "6 zufrieden: skala 0-niedrig bis 10-hoch",
+        "7 zufrieden: skala 0-niedrig bis 10-hoch",
+        "8 zufrieden: skala 0-niedrig bis 10-hoch",
+        "9 zufrieden: skala 0-niedrig bis 10-hoch"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        true,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "10",
+        "2",
+        "-2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "3",
+        "167"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yh61": {
+    "study": "soep-base",
+    "name": "yh61",
+    "name_cs": "yh61",
+    "variable": "yh61",
+    "dataset": "h2008",
+    "label": "kinder unter 16 jahren im haushalt",
+    "categories": {
+      "frequencies": [
+        8,
+        162
+      ],
+      "labels": [
+        "ja",
+        "nein"
+      ],
+      "missings": [
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yhivform": {
+    "study": "soep-base",
+    "name": "yhivform",
+    "name_cs": "yhivform",
+    "variable": "yhivform",
+    "dataset": "h2008",
+    "label": "durchfuehrung der befragung",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        170
+      ],
+      "labels": [
+        "telefonisch",
+        "muendl. interview",
+        "schriftl.m.interver.",
+        "schriftl.o.interver.",
+        "teils-teils",
+        "proxy",
+        "schriftlich",
+        "capi"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "0",
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "8",
+        "9"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yhhdaer1": {
+    "study": "soep-base",
+    "name": "yhhdaer1",
+    "name_cs": "yhhdaer1",
+    "variable": "yhhdaer1",
+    "dataset": "h2008",
+    "label": "interviewdauer muendlich",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "6",
+        "12",
+        "15",
+        "16.69",
+        "20",
+        "40",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "yhhdaer2": {
+    "study": "soep-base",
+    "name": "yhhdaer2",
+    "name_cs": "yhhdaer2",
+    "variable": "yhhdaer2",
+    "dataset": "h2008",
+    "label": "interviewdauer schriftlich",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [],
+      "values": []
+    },
+    "scale": ""
+  },
+  "yhhtagin": {
+    "study": "soep-base",
+    "name": "yhhtagin",
+    "name_cs": "yhhtagin",
+    "variable": "yhhtagin",
+    "dataset": "h2008",
+    "label": "tag des interviews",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "7",
+        "11",
+        "13.19",
+        "18.75",
+        "31",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "yhhmonin": {
+    "study": "soep-base",
+    "name": "yhhmonin",
+    "name_cs": "yhhmonin",
+    "variable": "yhhmonin",
+    "dataset": "h2008",
+    "label": "monat des interviews",
+    "categories": {
+      "frequencies": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        88,
+        82,
+        0,
+        0,
+        0,
+        0
+      ],
+      "labels": [
+        "januar",
+        "februar",
+        "maerz",
+        "april",
+        "mai",
+        "juni",
+        "juli",
+        "august",
+        "september",
+        "oktober",
+        "november",
+        "dezember"
+      ],
+      "missings": [
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false,
+        false
+      ],
+      "values": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12"
+      ]
+    },
+    "statistics": {
+      "names": [
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "170",
+        "0"
+      ]
+    },
+    "scale": "cat"
+  },
+  "yhintnr": {
+    "study": "soep-base",
+    "name": "yhintnr",
+    "name_cs": "yhintnr",
+    "variable": "yhintnr",
+    "dataset": "h2008",
+    "label": "interviewnummer",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "11040",
+        "262500",
+        "296500",
+        "255400",
+        "304300",
+        "309200",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "yhpmax": {
+    "study": "soep-base",
+    "name": "yhpmax",
+    "name_cs": "yhpmax",
+    "variable": "yhpmax",
+    "dataset": "h2008",
+    "label": "hoechste vergebene pnr im haushalt",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "1",
+        "1",
+        "1",
+        "1.571",
+        "2",
+        "4",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  },
+  "hhnr": {
+    "study": "soep-base",
+    "name": "hhnr",
+    "name_cs": "hhnr",
+    "variable": "hhnr",
+    "dataset": "h2008",
+    "label": "ursprungshaushaltsnummer",
+    "categories": {
+      "frequencies": [],
+      "labels": [],
+      "missings": [],
+      "values": []
+    },
+    "statistics": {
+      "names": [
+        "Min.",
+        "1st Qu.",
+        "Median",
+        "Mean",
+        "3rd Qu.",
+        "Max.",
+        "valid",
+        "invalid"
+      ],
+      "values": [
+        "630000",
+        "630500",
+        "631000",
+        "631000",
+        "631500",
+        "632000",
+        "170",
+        "0"
+      ]
+    },
+    "scale": ""
+  }
+}

@@ -1,0 +1,3585 @@
+<codebook>
+  <dataDscr>
+    <var ID="welle" intrvl="numeric" files="h2008">
+      <labl>erhebungsjahr</labl>
+      <sumStat type="Min.">2008</sumStat>
+      <sumStat type="1st Qu.">2008</sumStat>
+      <sumStat type="Median">2008</sumStat>
+      <sumStat type="Mean">2008</sumStat>
+      <sumStat type="3rd Qu.">2008</sumStat>
+      <sumStat type="Max.">2008</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="sample1" intrvl="labeled_numeric" files="h2008">
+      <labl>ursprungsstichprobe</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>17</catValu>
+        <labl>Sonderprojekt 2008 Stichprobe L1</labl>
+        <catStat type="freq">170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>18</catValu>
+        <labl>Sonderprojekt 2009 Stichprobe L2</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="hhnrakt" intrvl="numeric" files="h2008">
+      <labl>Aktuelle Haushaltsnummer</labl>
+      <sumStat type="Min.">630000</sumStat>
+      <sumStat type="1st Qu.">630500</sumStat>
+      <sumStat type="Median">631000</sumStat>
+      <sumStat type="Mean">631000</sumStat>
+      <sumStat type="3rd Qu.">631500</sumStat>
+      <sumStat type="Max.">632000</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="yausku" intrvl="labeled_numeric" files="h2008">
+      <labl>Auskunftsperson Nummer (PNR)</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <catStat type="freq">165</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>98</catValu>
+        <labl>frueheres stichprobenmitglied</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>99</catValu>
+        <labl>kein stichprobenmitglied</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0201" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg kuendigung</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">168</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">168</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0202" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg erwerb eigenheim</labl>
+      <sumStat type="valid">9</sumStat>
+      <sumStat type="invalid">161</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">161</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0203" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg erbschaft</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">169</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0204" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg berufliche gruende</labl>
+      <sumStat type="valid">13</sumStat>
+      <sumStat type="invalid">157</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 13</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">157</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0205" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg heirat</labl>
+      <sumStat type="valid">8</sumStat>
+      <sumStat type="invalid">162</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">162</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0206" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg trennung</labl>
+      <sumStat type="valid">9</sumStat>
+      <sumStat type="invalid">161</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">161</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0207" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg auszug elternhaus</labl>
+      <sumStat type="valid">9</sumStat>
+      <sumStat type="invalid">161</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  9</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">161</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0208" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg sonst. familie</labl>
+      <sumStat type="valid">38</sumStat>
+      <sumStat type="invalid">132</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 38</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">132</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0209" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg wohnung zu klein</labl>
+      <sumStat type="valid">38</sumStat>
+      <sumStat type="invalid">132</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 38</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">132</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0210" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg wohnung zu gross</labl>
+      <sumStat type="valid">16</sumStat>
+      <sumStat type="invalid">154</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">154</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0211" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg hohe wohnungskosten</labl>
+      <sumStat type="valid">16</sumStat>
+      <sumStat type="invalid">154</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">154</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0212" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg schlechte ausstattung</labl>
+      <sumStat type="valid">24</sumStat>
+      <sumStat type="invalid">146</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 24</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">146</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0213" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg schlechte lage</labl>
+      <sumStat type="valid">17</sumStat>
+      <sumStat type="invalid">153</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 17</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">153</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0214" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg schlechtes umfeld</labl>
+      <sumStat type="valid">20</sumStat>
+      <sumStat type="invalid">150</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 20</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">150</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0215" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungswechsel wg sonstige gruende</labl>
+      <sumStat type="valid">38</sumStat>
+      <sumStat type="invalid">132</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 38</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">132</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0301" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungsvergleich finanzieller belastung</labl>
+      <sumStat type="valid">157</sumStat>
+      <sumStat type="invalid">13</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>verbessert</labl>
+        <catStat type="freq">44</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>etwa gleichwertig</labl>
+        <catStat type="freq">46</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>verschlechtert</labl>
+        <catStat type="freq">67</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0302" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungsvergleich groesse</labl>
+      <sumStat type="valid">165</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>verbessert</labl>
+        <catStat type="freq">93</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>etwa gleichwertig</labl>
+        <catStat type="freq">25</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>verschlechtert</labl>
+        <catStat type="freq">47</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0303" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungsvergleich ausstattung</labl>
+      <sumStat type="valid">165</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>verbessert</labl>
+        <catStat type="freq">97</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>etwa gleichwertig</labl>
+        <catStat type="freq">59</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>verschlechtert</labl>
+        <catStat type="freq"> 9</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0304" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungsvergleich gegend</labl>
+      <sumStat type="valid">164</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>verbessert</labl>
+        <catStat type="freq">84</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>etwa gleichwertig</labl>
+        <catStat type="freq">69</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>verschlechtert</labl>
+        <catStat type="freq">11</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0305" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungsvergleich umwelt</labl>
+      <sumStat type="valid">165</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>verbessert</labl>
+        <catStat type="freq">65</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>etwa gleichwertig</labl>
+        <catStat type="freq">64</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>verschlechtert</labl>
+        <catStat type="freq">36</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0306" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungsvergleich verkehrsverbindung</labl>
+      <sumStat type="valid">165</sumStat>
+      <sumStat type="invalid">5</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>verbessert</labl>
+        <catStat type="freq">71</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>etwa gleichwertig</labl>
+        <catStat type="freq">78</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>verschlechtert</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0307" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnungsvergleich nachbarn</labl>
+      <sumStat type="valid">164</sumStat>
+      <sumStat type="invalid">6</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>verbessert</labl>
+        <catStat type="freq">55</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>etwa gleichwertig</labl>
+        <catStat type="freq">89</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>verschlechtert</labl>
+        <catStat type="freq">20</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0401" intrvl="labeled_numeric" files="h2008">
+      <labl>seit wann in dieser wohnung, monat</labl>
+      <sumStat type="valid">168</sumStat>
+      <sumStat type="invalid">2</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>januar</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>oktober</labl>
+        <catStat type="freq">15</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>november</labl>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>dezember</labl>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>februar</labl>
+        <catStat type="freq"> 8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>maerz</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>april</labl>
+        <catStat type="freq">21</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>mai</labl>
+        <catStat type="freq">10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>juni</labl>
+        <catStat type="freq">20</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>juli</labl>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>august</labl>
+        <catStat type="freq">12</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>september</labl>
+        <catStat type="freq">17</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0402" intrvl="numeric" files="h2008">
+      <labl>seit wann in dieser wohnung, jahr</labl>
+      <sumStat type="Min.">1925</sumStat>
+      <sumStat type="1st Qu.">1985</sumStat>
+      <sumStat type="Median">2000</sumStat>
+      <sumStat type="Mean">1993</sumStat>
+      <sumStat type="3rd Qu.">2006</sumStat>
+      <sumStat type="Max.">2008</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="yh05" intrvl="labeled_numeric" files="h2008">
+      <labl>wohngegend des zielhaushaltes</labl>
+      <sumStat type="valid">169</sumStat>
+      <sumStat type="invalid">1</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>reines wohngeb.altb.</labl>
+        <catStat type="freq">75</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>reines wohngeb.neub.</labl>
+        <catStat type="freq">28</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>mischgebiet</labl>
+        <catStat type="freq">65</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>geschaeftszentrum</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>industriegebiet</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="yh06" intrvl="labeled_numeric" files="h2008">
+      <labl>haustyp des zielhaushaltes</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>landw.wohngebaeude</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>ein-,zweifamilienhaus</labl>
+        <catStat type="freq">22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>reihenhaus</labl>
+        <catStat type="freq"> 7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>wohnhaus,3-4 wohnungen</labl>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>wohnhaus,5-8 wohnungen</labl>
+        <catStat type="freq">42</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>wohnh,9 u.mehr wohnungen</labl>
+        <catStat type="freq">77</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>hochhaus</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+    </var>
+    <var ID="yh07" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnheim</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>schuelerwohnheim</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>studentenwohnheim</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>berufstaet.wohnheim</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>altenheim</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>altenwohnheim</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>hotel/pension</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>sonstiges heim/unterkunft</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0801" intrvl="labeled_numeric" files="h2008">
+      <labl>baujahr des hauses</labl>
+      <sumStat type="valid">166</sumStat>
+      <sumStat type="invalid">4</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>vor 1919</labl>
+        <catStat type="freq">35</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>1919 bis 1948</labl>
+        <catStat type="freq">44</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>1949 bis 1971</labl>
+        <catStat type="freq">38</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>1972 bis 1980</labl>
+        <catStat type="freq">18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>1981 bis 1990</labl>
+        <catStat type="freq">14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>1991 bis 2000</labl>
+        <catStat type="freq">16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>2001 und spaeter</labl>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+    </var>
+    <var ID="yh0802" intrvl="numeric" files="h2008">
+      <labl>genaues baujahr (ab 1972)</labl>
+      <sumStat type="Min.">1972</sumStat>
+      <sumStat type="1st Qu.">1979</sumStat>
+      <sumStat type="Median">1986</sumStat>
+      <sumStat type="Mean">1987</sumStat>
+      <sumStat type="3rd Qu.">1997</sumStat>
+      <sumStat type="Max.">2000</sumStat>
+      <sumStat type="NA's">132</sumStat>
+      <sumStat type="valid">38</sumStat>
+      <sumStat type="invalid">132</sumStat>
+    </var>
+    <var ID="yh09" intrvl="labeled_numeric" files="h2008">
+      <labl>aenderung wohnflaeche seit letztem jahr</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh10" intrvl="numeric" files="h2008">
+      <labl>wohnflaeche insgesamt in qm</labl>
+      <sumStat type="Min.">25</sumStat>
+      <sumStat type="1st Qu.">56</sumStat>
+      <sumStat type="Median">70</sumStat>
+      <sumStat type="Mean">77.64</sumStat>
+      <sumStat type="3rd Qu.">90</sumStat>
+      <sumStat type="Max.">200</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="yh11" intrvl="numeric" files="h2008">
+      <labl>anzahl der wohnraeume</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">3</sumStat>
+      <sumStat type="Mean">2.947</sumStat>
+      <sumStat type="3rd Qu.">4</sumStat>
+      <sumStat type="Max.">11</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="yh12" intrvl="labeled_numeric" files="h2008">
+      <labl>beurteilung der wohnungsgroesse</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>viel zu klein</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>etwas zu klein</labl>
+        <catStat type="freq"> 29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>gerade richtig</labl>
+        <catStat type="freq">119</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>etwas zu gross</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>viel zu gross</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+    </var>
+    <var ID="yh13" intrvl="labeled_numeric" files="h2008">
+      <labl>zustand des hauses in dem man wohnt</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>in gutem zustand</labl>
+        <catStat type="freq">128</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>teilw. renov.beduerftig</labl>
+        <catStat type="freq"> 40</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>ganz renov.beduerftig</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>abbruchreif</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1401" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit kueche</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1402" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit innenbad,-dusche</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1403" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit warmwasser,boiler</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1404" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit innen-wc</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">170</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1405" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit zentral-,etagenheizung</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">168</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1406" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit balkon,terasse</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">126</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq"> 44</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1407" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit keller,abstellraeume</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">154</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1408" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit garten,-benutzung</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 54</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">116</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1409" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit alarmanlage</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">162</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1410" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit klimaanlage</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">168</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1411" intrvl="labeled_numeric" files="h2008">
+      <labl>wohnung mit sonnenkollekt., solarenergie</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">169</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1501" intrvl="labeled_numeric" files="h2008">
+      <labl>seit vorjahr-kueche eingebaut</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">165</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">165</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1502" intrvl="labeled_numeric" files="h2008">
+      <labl>seit vorjahr-bad,dusche,wc eingebaut</labl>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">163</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">163</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1503" intrvl="labeled_numeric" files="h2008">
+      <labl>seit vorjahr-heizung eingebaut</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">165</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">165</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1504" intrvl="labeled_numeric" files="h2008">
+      <labl>seit vorjahr-neue fenster eingebaut</labl>
+      <sumStat type="valid">10</sumStat>
+      <sumStat type="invalid">160</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 10</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">160</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1505" intrvl="labeled_numeric" files="h2008">
+      <labl>seit vorjahr-sonst. groessere massnahmen</labl>
+      <sumStat type="valid">11</sumStat>
+      <sumStat type="invalid">159</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 11</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">159</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1506" intrvl="labeled_numeric" files="h2008">
+      <labl>seit vorjahr-keine modernisierungen</labl>
+      <sumStat type="valid">144</sumStat>
+      <sumStat type="invalid">26</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">144</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 26</catStat>
+      </catgry>
+    </var>
+    <var ID="yh16" intrvl="labeled_numeric" files="h2008">
+      <labl>modernisierung auf kosten von</labl>
+      <sumStat type="valid">25</sumStat>
+      <sumStat type="invalid">145</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>kosten d.vermieters</labl>
+        <catStat type="freq"> 11</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>eigene kosten</labl>
+        <catStat type="freq"> 13</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">144</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>teils, teils</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+    </var>
+    <var ID="yh17" intrvl="labeled_numeric" files="h2008">
+      <labl>modernisierung durchgefuehrt von</labl>
+      <sumStat type="valid">14</sumStat>
+      <sumStat type="invalid">156</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>selbst,i.eigenarbeit</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 11</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>handwerker,firma</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">145</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>beides</labl>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+    </var>
+    <var ID="yh18" intrvl="labeled_numeric" files="h2008">
+      <labl>eigentuemerwechsel vorjahr</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 19</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">151</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1901" intrvl="labeled_numeric" files="h2008">
+      <labl>eigentuemerwechsel art</labl>
+      <sumStat type="valid">19</sumStat>
+      <sumStat type="invalid">151</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>jetzt eigentuemer</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>jetzt nicht mehr eigentuemer</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">151</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>weiterhin mieter, eigenuemerwechsel</labl>
+        <catStat type="freq"> 19</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1902" intrvl="unknown" files="h2008">
+      <labl>eigentumerwerb durch</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>kauf der wohnung</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>erbschaft/schenkung</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh1903" intrvl="unknown" files="h2008">
+      <labl>nicht mehr eigentuemer</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>verkauf der wohnung</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>erbschaft/schenkung</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh20" intrvl="labeled_numeric" files="h2008">
+      <labl>haupt-, untermieter, eigentuemer</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>hauptmieter</labl>
+        <catStat type="freq">132</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>untermieter</labl>
+        <catStat type="freq">  9</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>eigentuemer</labl>
+        <catStat type="freq"> 29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>heimbewohner</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh21" intrvl="labeled_numeric" files="h2008">
+      <labl>v. eigentuemer verbilligt ueberl.whg</labl>
+      <sumStat type="valid">141</sumStat>
+      <sumStat type="invalid">29</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">137</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 29</catStat>
+      </catgry>
+    </var>
+    <var ID="yh22" intrvl="labeled_numeric" files="h2008">
+      <labl>sozialwohnung</labl>
+      <sumStat type="valid">140</sumStat>
+      <sumStat type="invalid">30</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>bestehende sozialb.</labl>
+        <catStat type="freq"> 13</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>abgelaufene sozialb.</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">120</catStat>
+      </catgry>
+    </var>
+    <var ID="yh2301" intrvl="numeric" files="h2008">
+      <labl>hoehe der monatlichen miete</labl>
+      <sumStat type="Min.">150</sumStat>
+      <sumStat type="1st Qu.">331.5</sumStat>
+      <sumStat type="Median">435</sumStat>
+      <sumStat type="Mean">475.5</sumStat>
+      <sumStat type="3rd Qu.">576</sumStat>
+      <sumStat type="Max.">1200</sumStat>
+      <sumStat type="NA's">31</sumStat>
+      <sumStat type="valid">139</sumStat>
+      <sumStat type="invalid">31</sumStat>
+    </var>
+    <var ID="yh2302" intrvl="unknown" files="h2008">
+      <labl>zahle keine miete</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh24" intrvl="labeled_numeric" files="h2008">
+      <labl>heizungs-,wwkosten in d. miete</labl>
+      <sumStat type="valid">139</sumStat>
+      <sumStat type="invalid">31</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">100</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq"> 39</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 31</catStat>
+      </catgry>
+    </var>
+    <var ID="yh25" intrvl="numeric" files="h2008">
+      <labl>monatl. heizkosten, durchschnittl.</labl>
+      <sumStat type="Min.">5</sumStat>
+      <sumStat type="1st Qu.">50</sumStat>
+      <sumStat type="Median">70</sumStat>
+      <sumStat type="Mean">81.59</sumStat>
+      <sumStat type="3rd Qu.">100</sumStat>
+      <sumStat type="Max.">350</sumStat>
+      <sumStat type="NA's">73</sumStat>
+      <sumStat type="valid">97</sumStat>
+      <sumStat type="invalid">73</sumStat>
+    </var>
+    <var ID="yh2601" intrvl="labeled_numeric" files="h2008">
+      <labl>monatl. heizkosten, durchschnittl.</labl>
+      <sumStat type="valid">40</sumStat>
+      <sumStat type="invalid">130</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>weiss nicht</labl>
+        <catStat type="freq"> 40</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">128</catStat>
+      </catgry>
+    </var>
+    <var ID="yh2602" intrvl="labeled_numeric" files="h2008">
+      <labl>im mietpreis umlagen enthalten</labl>
+      <sumStat type="valid">139</sumStat>
+      <sumStat type="invalid">31</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, ganz enthalten</labl>
+        <catStat type="freq">121</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>ja, teilweise enthalten</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 31</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>nein</labl>
+        <catStat type="freq"> 10</catStat>
+      </catgry>
+    </var>
+    <var ID="yh2603" intrvl="numeric" files="h2008">
+      <labl>monatl hoehe der umlagen</labl>
+      <sumStat type="Min.">10</sumStat>
+      <sumStat type="1st Qu.">42.5</sumStat>
+      <sumStat type="Median">60</sumStat>
+      <sumStat type="Mean">72.93</sumStat>
+      <sumStat type="3rd Qu.">100</sumStat>
+      <sumStat type="Max.">280</sumStat>
+      <sumStat type="NA's">115</sumStat>
+      <sumStat type="valid">55</sumStat>
+      <sumStat type="invalid">115</sumStat>
+    </var>
+    <var ID="yh2604" intrvl="labeled_numeric" files="h2008">
+      <labl>monatl hoehe der umlagen</labl>
+      <sumStat type="valid">72</sumStat>
+      <sumStat type="invalid">98</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>weiss nicht</labl>
+        <catStat type="freq">72</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">96</catStat>
+      </catgry>
+    </var>
+    <var ID="yh27" intrvl="labeled_numeric" files="h2008">
+      <labl>beurteilung der miethoehe</labl>
+      <sumStat type="valid">138</sumStat>
+      <sumStat type="invalid">32</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>sehr guenstig</labl>
+        <catStat type="freq">13</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>guenstig</labl>
+        <catStat type="freq">44</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">31</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>angemessen</labl>
+        <catStat type="freq">53</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>etwas zu hoch</labl>
+        <catStat type="freq">23</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>viel zu hoch</labl>
+        <catStat type="freq"> 5</catStat>
+      </catgry>
+    </var>
+    <var ID="yh28" intrvl="labeled_numeric" files="h2008">
+      <labl>eigentuemer der wohnung</labl>
+      <sumStat type="valid">139</sumStat>
+      <sumStat type="invalid">31</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>kommunale wohnung</labl>
+        <catStat type="freq">18</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>genossenschaftliche wohnung</labl>
+        <catStat type="freq">26</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">31</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>betriebs-/werkswohnung</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>privater eigentuemer</labl>
+        <catStat type="freq">93</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>weiss nicht</labl>
+        <catStat type="freq"> 2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>weiss nicht</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh29" intrvl="labeled_numeric" files="h2008">
+      <labl>zins-,tilgungszahlungen f wohnung</labl>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">141</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq"> 22</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">141</catStat>
+      </catgry>
+    </var>
+    <var ID="yh30" intrvl="numeric" files="h2008">
+      <labl>monatl zins-,tilgungszahlungen</labl>
+      <sumStat type="Min.">180</sumStat>
+      <sumStat type="1st Qu.">400</sumStat>
+      <sumStat type="Median">500</sumStat>
+      <sumStat type="Mean">536</sumStat>
+      <sumStat type="3rd Qu.">700</sumStat>
+      <sumStat type="Max.">900</sumStat>
+      <sumStat type="NA's">165</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">165</sumStat>
+    </var>
+    <var ID="yh31" intrvl="numeric" files="h2008">
+      <labl>hoehe instandhaltungskosten letzt.j</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">800</sumStat>
+      <sumStat type="Mean">2447</sumStat>
+      <sumStat type="3rd Qu.">1875</sumStat>
+      <sumStat type="Max.">20000</sumStat>
+      <sumStat type="NA's">144</sumStat>
+      <sumStat type="valid">26</sumStat>
+      <sumStat type="invalid">144</sumStat>
+    </var>
+    <var ID="yh32" intrvl="numeric" files="h2008">
+      <labl>hoehe heizkosten letzt.j</labl>
+      <sumStat type="Min.">502</sumStat>
+      <sumStat type="1st Qu.">1050</sumStat>
+      <sumStat type="Median">1500</sumStat>
+      <sumStat type="Mean">1689</sumStat>
+      <sumStat type="3rd Qu.">2000</sumStat>
+      <sumStat type="Max.">3840</sumStat>
+      <sumStat type="NA's">144</sumStat>
+      <sumStat type="valid">26</sumStat>
+      <sumStat type="invalid">144</sumStat>
+    </var>
+    <var ID="yh33" intrvl="numeric" files="h2008">
+      <labl>jaehrliche nebenkosten in euro</labl>
+      <sumStat type="Min.">127</sumStat>
+      <sumStat type="1st Qu.">500</sumStat>
+      <sumStat type="Median">720</sumStat>
+      <sumStat type="Mean">942.2</sumStat>
+      <sumStat type="3rd Qu.">1200</sumStat>
+      <sumStat type="Max.">2500</sumStat>
+      <sumStat type="NA's">145</sumStat>
+      <sumStat type="valid">25</sumStat>
+      <sumStat type="invalid">145</sumStat>
+    </var>
+    <var ID="yh3401" intrvl="labeled_numeric" files="h2008">
+      <labl>wohngeld als eigentuemer d. wohnung</labl>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">141</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq"> 25</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">141</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>tnz, da hauseigent.</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh3402" intrvl="numeric" files="h2008">
+      <labl>wohngeld, betrag pro monat</labl>
+      <sumStat type="Min.">24</sumStat>
+      <sumStat type="1st Qu.">153.5</sumStat>
+      <sumStat type="Median">283</sumStat>
+      <sumStat type="Mean">262.3</sumStat>
+      <sumStat type="3rd Qu.">381.5</sumStat>
+      <sumStat type="Max.">480</sumStat>
+      <sumStat type="NA's">167</sumStat>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+    </var>
+    <var ID="yh35" intrvl="labeled_numeric" files="h2008">
+      <labl>beurteilung - finanzielle belastung</labl>
+      <sumStat type="valid">28</sumStat>
+      <sumStat type="invalid">142</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>sehr guenstig</labl>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>guenstig</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">141</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>angemessen</labl>
+        <catStat type="freq"> 14</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>etwas zu hoch</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>viel zu hoch</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh3601" intrvl="numeric" files="h2008">
+      <labl>geschaetzte monatl. miete ohne heizung</labl>
+      <sumStat type="Min.">400</sumStat>
+      <sumStat type="1st Qu.">590</sumStat>
+      <sumStat type="Median">1000</sumStat>
+      <sumStat type="Mean">1098</sumStat>
+      <sumStat type="3rd Qu.">1500</sumStat>
+      <sumStat type="Max.">3000</sumStat>
+      <sumStat type="NA's">145</sumStat>
+      <sumStat type="valid">25</sumStat>
+      <sumStat type="invalid">145</sumStat>
+    </var>
+    <var ID="yh3602" intrvl="labeled_numeric" files="h2008">
+      <labl>geschaetzte monatl. miete ohne heizung</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>weiss nicht</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">166</catStat>
+      </catgry>
+    </var>
+    <var ID="yh3701" intrvl="labeled_numeric" files="h2008">
+      <labl>wohn-eigentumsfoerd.,eigenheimzulage vorjahr</labl>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">141</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq"> 27</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">141</catStat>
+      </catgry>
+    </var>
+    <var ID="yh3702" intrvl="numeric" files="h2008">
+      <labl>hoehe foerderbetrag vorjahr</labl>
+      <sumStat type="Min.">2050</sumStat>
+      <sumStat type="1st Qu.">2148</sumStat>
+      <sumStat type="Median">2245</sumStat>
+      <sumStat type="Mean">2245</sumStat>
+      <sumStat type="3rd Qu.">2342</sumStat>
+      <sumStat type="Max.">2440</sumStat>
+      <sumStat type="NA's">168</sumStat>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">168</sumStat>
+    </var>
+    <var ID="yh38" intrvl="labeled_numeric" files="h2008">
+      <labl>miet- u.pachteinnahmen vorjahr</labl>
+      <sumStat type="valid">169</sumStat>
+      <sumStat type="invalid">1</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">162</catStat>
+      </catgry>
+    </var>
+    <var ID="yh39" intrvl="numeric" files="h2008">
+      <labl>miet- u.pachteinnahmen betrag vorjahr</labl>
+      <sumStat type="Min.">20</sumStat>
+      <sumStat type="1st Qu.">3950</sumStat>
+      <sumStat type="Median">6000</sumStat>
+      <sumStat type="Mean">23800</sumStat>
+      <sumStat type="3rd Qu.">7150</sumStat>
+      <sumStat type="Max.">120000</sumStat>
+      <sumStat type="NA's">164</sumStat>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">164</sumStat>
+    </var>
+    <var ID="yh4001" intrvl="numeric" files="h2008">
+      <labl>betriebs- u.instandhaltgskosten vorjahr</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">2200</sumStat>
+      <sumStat type="Mean">15960</sumStat>
+      <sumStat type="3rd Qu.">4750</sumStat>
+      <sumStat type="Max.">1e+05</sumStat>
+      <sumStat type="NA's">163</sumStat>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">163</sumStat>
+    </var>
+    <var ID="yh4002" intrvl="numeric" files="h2008">
+      <labl>tilgungs-u.zinszahlungen vorjahr</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">0</sumStat>
+      <sumStat type="Median">0</sumStat>
+      <sumStat type="Mean">0</sumStat>
+      <sumStat type="3rd Qu.">0</sumStat>
+      <sumStat type="Max.">0</sumStat>
+      <sumStat type="NA's">164</sumStat>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">164</sumStat>
+    </var>
+    <var ID="yh4101" intrvl="labeled_numeric" files="h2008">
+      <labl>steuerlich absetzten, vorjahr</labl>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">163</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">163</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4102" intrvl="numeric" files="h2008">
+      <labl>steuerlich absetzten, betrag vorjahr</labl>
+      <sumStat type="Min.">80000</sumStat>
+      <sumStat type="1st Qu.">80000</sumStat>
+      <sumStat type="Median">80000</sumStat>
+      <sumStat type="Mean">80000</sumStat>
+      <sumStat type="3rd Qu.">80000</sumStat>
+      <sumStat type="Max.">80000</sumStat>
+      <sumStat type="NA's">169</sumStat>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+    </var>
+    <var ID="yh42" intrvl="labeled_numeric" files="h2008">
+      <labl>abzahlung kredite</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 17</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">153</catStat>
+      </catgry>
+    </var>
+    <var ID="yh43" intrvl="numeric" files="h2008">
+      <labl>abzahlung kredite hoehe</labl>
+      <sumStat type="Min.">60</sumStat>
+      <sumStat type="1st Qu.">140.2</sumStat>
+      <sumStat type="Median">193</sumStat>
+      <sumStat type="Mean">231.1</sumStat>
+      <sumStat type="3rd Qu.">312.5</sumStat>
+      <sumStat type="Max.">550</sumStat>
+      <sumStat type="NA's">154</sumStat>
+      <sumStat type="valid">16</sumStat>
+      <sumStat type="invalid">154</sumStat>
+    </var>
+    <var ID="yh44" intrvl="labeled_numeric" files="h2008">
+      <labl>belastung durch rueckzahlung kredite</labl>
+      <sumStat type="valid">17</sumStat>
+      <sumStat type="invalid">153</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>schwere belastung</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>geringe belastung</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">153</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>kein problem</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4501" intrvl="labeled_numeric" files="h2008">
+      <labl>sparbuch vorjahr</labl>
+      <sumStat type="valid">107</sumStat>
+      <sumStat type="invalid">63</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">107</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 63</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4502" intrvl="labeled_numeric" files="h2008">
+      <labl>bausparvertrag vorjahr</labl>
+      <sumStat type="valid">46</sumStat>
+      <sumStat type="invalid">124</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 46</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">124</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4503" intrvl="labeled_numeric" files="h2008">
+      <labl>lebensversicherung vorjahr</labl>
+      <sumStat type="valid">43</sumStat>
+      <sumStat type="invalid">127</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 43</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">127</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4504" intrvl="labeled_numeric" files="h2008">
+      <labl>festverzinsl. wertpapiere vorjahr</labl>
+      <sumStat type="valid">30</sumStat>
+      <sumStat type="invalid">140</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 30</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">140</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4505" intrvl="labeled_numeric" files="h2008">
+      <labl>sonstige wertpapiere vorjahr</labl>
+      <sumStat type="valid">44</sumStat>
+      <sumStat type="invalid">126</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 44</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">126</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4506" intrvl="labeled_numeric" files="h2008">
+      <labl>betriebsvermoegen vorjahr</labl>
+      <sumStat type="valid">4</sumStat>
+      <sumStat type="invalid">166</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">166</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4507" intrvl="labeled_numeric" files="h2008">
+      <labl>keine wertanlagen vorjahr</labl>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">141</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 29</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">139</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4508" intrvl="labeled_numeric" files="h2008">
+      <labl>verluste steuerlich absetzen</labl>
+      <sumStat type="valid">42</sumStat>
+      <sumStat type="invalid">128</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq"> 37</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">123</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4509" intrvl="numeric" files="h2008">
+      <labl>verluste steuerlich absetzen, betrag</labl>
+      <sumStat type="Min.">150</sumStat>
+      <sumStat type="1st Qu.">600</sumStat>
+      <sumStat type="Median">800</sumStat>
+      <sumStat type="Mean">12470</sumStat>
+      <sumStat type="3rd Qu.">800</sumStat>
+      <sumStat type="Max.">60000</sumStat>
+      <sumStat type="NA's">165</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">165</sumStat>
+    </var>
+    <var ID="yh4510" intrvl="unknown" files="h2008">
+      <labl>wertanlagen k.a.</labl>
+    </var>
+    <var ID="yh4601" intrvl="numeric" files="h2008">
+      <labl>zins-u. dividendeneinnahmen vorjahr</labl>
+      <sumStat type="Min.">0</sumStat>
+      <sumStat type="1st Qu.">70</sumStat>
+      <sumStat type="Median">225</sumStat>
+      <sumStat type="Mean">1036</sumStat>
+      <sumStat type="3rd Qu.">1180</sumStat>
+      <sumStat type="Max.">15000</sumStat>
+      <sumStat type="NA's">104</sumStat>
+      <sumStat type="valid">66</sumStat>
+      <sumStat type="invalid">104</sumStat>
+    </var>
+    <var ID="yh4602" intrvl="labeled_numeric" files="h2008">
+      <labl>zins-u. dividendeneinnahmen geschaetzt vorjahr</labl>
+      <sumStat type="valid">67</sumStat>
+      <sumStat type="invalid">103</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>unter 250 euro</labl>
+        <catStat type="freq"> 40</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>250 bis unter 1000</labl>
+        <catStat type="freq"> 17</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">101</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>1000 bis unter 2500</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>2500 bis unter 5000</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5000 bis unter 10000</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>10000 euro und mehr</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4701" intrvl="labeled_numeric" files="h2008">
+      <labl>unerw. geldbetraege,sachw. ue.5000 dm er</labl>
+      <sumStat type="valid">169</sumStat>
+      <sumStat type="invalid">1</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">162</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4702" intrvl="labeled_numeric" files="h2008">
+      <labl>erbschaft</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">165</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">165</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4703" intrvl="labeled_numeric" files="h2008">
+      <labl>schenkung</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">169</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4704" intrvl="labeled_numeric" files="h2008">
+      <labl>lotteriegewinn</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">169</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4705" intrvl="unknown" files="h2008">
+      <labl>unerw.geldbetraege k.a.</labl>
+    </var>
+    <var ID="yh48" intrvl="numeric" files="h2008">
+      <labl>hoehe unerw. geldbetrage,sachw.in euro</labl>
+      <sumStat type="Min.">1000</sumStat>
+      <sumStat type="1st Qu.">5000</sumStat>
+      <sumStat type="Median">7500</sumStat>
+      <sumStat type="Mean">31830</sumStat>
+      <sumStat type="3rd Qu.">17500</sumStat>
+      <sumStat type="Max.">150000</sumStat>
+      <sumStat type="NA's">164</sumStat>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">164</sumStat>
+    </var>
+    <var ID="yh4901" intrvl="labeled_numeric" files="h2008">
+      <labl>kindergeldbezug letztes jahr</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 29</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">141</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4902" intrvl="numeric" files="h2008">
+      <labl>kindergeld letzt.j monate</labl>
+      <sumStat type="Min.">7</sumStat>
+      <sumStat type="1st Qu.">12</sumStat>
+      <sumStat type="Median">12</sumStat>
+      <sumStat type="Mean">11.62</sumStat>
+      <sumStat type="3rd Qu.">12</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">141</sumStat>
+      <sumStat type="valid">29</sumStat>
+      <sumStat type="invalid">141</sumStat>
+    </var>
+    <var ID="yh4903" intrvl="numeric" files="h2008">
+      <labl>kindergeld letzt.j betrag(monat)</labl>
+      <sumStat type="Min.">150</sumStat>
+      <sumStat type="1st Qu.">154</sumStat>
+      <sumStat type="Median">154</sumStat>
+      <sumStat type="Mean">170</sumStat>
+      <sumStat type="3rd Qu.">154</sumStat>
+      <sumStat type="Max.">308</sumStat>
+      <sumStat type="NA's">142</sumStat>
+      <sumStat type="valid">28</sumStat>
+      <sumStat type="invalid">142</sumStat>
+    </var>
+    <var ID="yh4904" intrvl="labeled_numeric" files="h2008">
+      <labl>alg2, sozialgeld im letzten jahr: bezogen</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">162</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4905" intrvl="numeric" files="h2008">
+      <labl>alg2, sozialgeld im letzten jahr: anzahl monate</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">2.75</sumStat>
+      <sumStat type="Median">12</sumStat>
+      <sumStat type="Mean">8.25</sumStat>
+      <sumStat type="3rd Qu.">12</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">162</sumStat>
+      <sumStat type="valid">8</sumStat>
+      <sumStat type="invalid">162</sumStat>
+    </var>
+    <var ID="yh4906" intrvl="numeric" files="h2008">
+      <labl>alg2, sozialgeld im letzten jahr: betrag pro monat</labl>
+      <sumStat type="Min.">345</sumStat>
+      <sumStat type="1st Qu.">345</sumStat>
+      <sumStat type="Median">624</sumStat>
+      <sumStat type="Mean">581.1</sumStat>
+      <sumStat type="3rd Qu.">654.5</sumStat>
+      <sumStat type="Max.">1100</sumStat>
+      <sumStat type="NA's">163</sumStat>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">163</sumStat>
+    </var>
+    <var ID="yh4907" intrvl="labeled_numeric" files="h2008">
+      <labl>wohngeld,lastenzuschuss vorjahr</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">163</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4908" intrvl="numeric" files="h2008">
+      <labl>im letzten jahr: monate mit wohngeld o. lastenzuschuss</labl>
+      <sumStat type="Min.">3</sumStat>
+      <sumStat type="1st Qu.">9.75</sumStat>
+      <sumStat type="Median">12</sumStat>
+      <sumStat type="Mean">10</sumStat>
+      <sumStat type="3rd Qu.">12</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">164</sumStat>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">164</sumStat>
+    </var>
+    <var ID="yh4909" intrvl="numeric" files="h2008">
+      <labl>wohngeld,lastenzuschuss pro monat</labl>
+      <sumStat type="Min.">35</sumStat>
+      <sumStat type="1st Qu.">62</sumStat>
+      <sumStat type="Median">97</sumStat>
+      <sumStat type="Mean">99.57</sumStat>
+      <sumStat type="3rd Qu.">108</sumStat>
+      <sumStat type="Max.">225</sumStat>
+      <sumStat type="NA's">163</sumStat>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">163</sumStat>
+    </var>
+    <var ID="yh4910" intrvl="labeled_numeric" files="h2008">
+      <labl>leistungen der pflegeversicherung vorjahr</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">168</catStat>
+      </catgry>
+    </var>
+    <var ID="yh4911" intrvl="numeric" files="h2008">
+      <labl>leistungen der pflegeversicherung monate</labl>
+      <sumStat type="Min.">12</sumStat>
+      <sumStat type="1st Qu.">12</sumStat>
+      <sumStat type="Median">12</sumStat>
+      <sumStat type="Mean">12</sumStat>
+      <sumStat type="3rd Qu.">12</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">168</sumStat>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">168</sumStat>
+    </var>
+    <var ID="yh4912" intrvl="numeric" files="h2008">
+      <labl>leistungen der pflegeversicherung pro monat</labl>
+      <sumStat type="Min.">200</sumStat>
+      <sumStat type="1st Qu.">201.2</sumStat>
+      <sumStat type="Median">202.5</sumStat>
+      <sumStat type="Mean">202.5</sumStat>
+      <sumStat type="3rd Qu.">203.8</sumStat>
+      <sumStat type="Max.">205</sumStat>
+      <sumStat type="NA's">168</sumStat>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">168</sumStat>
+    </var>
+    <var ID="yh4913" intrvl="labeled_numeric" files="h2008">
+      <labl>sozialhilfebezug letzt.j</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">168</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5001" intrvl="labeled_numeric" files="h2008">
+      <labl>hilfe lebensunterhalt</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">169</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5002" intrvl="numeric" files="h2008">
+      <labl>hilfe lebensunterhalt monate</labl>
+      <sumStat type="Min.">9</sumStat>
+      <sumStat type="1st Qu.">9</sumStat>
+      <sumStat type="Median">9</sumStat>
+      <sumStat type="Mean">9</sumStat>
+      <sumStat type="3rd Qu.">9</sumStat>
+      <sumStat type="Max.">9</sumStat>
+      <sumStat type="NA's">169</sumStat>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+    </var>
+    <var ID="yh5003" intrvl="numeric" files="h2008">
+      <labl>hilfe lebensunterhalt pro monat</labl>
+      <sumStat type="Min.">500</sumStat>
+      <sumStat type="1st Qu.">500</sumStat>
+      <sumStat type="Median">500</sumStat>
+      <sumStat type="Mean">500</sumStat>
+      <sumStat type="3rd Qu.">500</sumStat>
+      <sumStat type="Max.">500</sumStat>
+      <sumStat type="NA's">169</sumStat>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+    </var>
+    <var ID="yh5004" intrvl="labeled_numeric" files="h2008">
+      <labl>hilfe alter/erwerbsminderung</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">169</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5005" intrvl="numeric" files="h2008">
+      <labl>hilfe alter/erwerbsminderung monate</labl>
+      <sumStat type="Min.">12</sumStat>
+      <sumStat type="1st Qu.">12</sumStat>
+      <sumStat type="Median">12</sumStat>
+      <sumStat type="Mean">12</sumStat>
+      <sumStat type="3rd Qu.">12</sumStat>
+      <sumStat type="Max.">12</sumStat>
+      <sumStat type="NA's">169</sumStat>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+    </var>
+    <var ID="yh5006" intrvl="numeric" files="h2008">
+      <labl>hilfe alter/erwerbsminderung pro monat</labl>
+      <sumStat type="Min.">330</sumStat>
+      <sumStat type="1st Qu.">330</sumStat>
+      <sumStat type="Median">330</sumStat>
+      <sumStat type="Mean">330</sumStat>
+      <sumStat type="3rd Qu.">330</sumStat>
+      <sumStat type="Max.">330</sumStat>
+      <sumStat type="NA's">169</sumStat>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+    </var>
+    <var ID="yh5007" intrvl="unknown" files="h2008">
+      <labl>hilfe in bes.lebenslagen</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5008" intrvl="unknown" files="h2008">
+      <labl>hilfe in bes.lebenslagen monate</labl>
+    </var>
+    <var ID="yh5009" intrvl="unknown" files="h2008">
+      <labl>hilfe in bes.lebenslagen pro monat</labl>
+    </var>
+    <var ID="yh5010" intrvl="unknown" files="h2008">
+      <labl>einmalige hilfe zum lebensunterhalt</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5011" intrvl="unknown" files="h2008">
+      <labl>sozialhilfe k.a.</labl>
+    </var>
+    <var ID="yh5101" intrvl="labeled_numeric" files="h2008">
+      <labl>kindergeldbezug heute</labl>
+      <sumStat type="valid">22</sumStat>
+      <sumStat type="invalid">148</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq"> 22</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">148</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5102" intrvl="numeric" files="h2008">
+      <labl>kindergeldbezug heute betrag</labl>
+      <sumStat type="Min.">150</sumStat>
+      <sumStat type="1st Qu.">154</sumStat>
+      <sumStat type="Median">154</sumStat>
+      <sumStat type="Mean">174.9</sumStat>
+      <sumStat type="3rd Qu.">154</sumStat>
+      <sumStat type="Max.">308</sumStat>
+      <sumStat type="NA's">148</sumStat>
+      <sumStat type="valid">22</sumStat>
+      <sumStat type="invalid">148</sumStat>
+    </var>
+    <var ID="yh5103" intrvl="numeric" files="h2008">
+      <labl>anz. kinder</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.182</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="NA's">148</sumStat>
+      <sumStat type="valid">22</sumStat>
+      <sumStat type="invalid">148</sumStat>
+    </var>
+    <var ID="yh5104" intrvl="labeled_numeric" files="h2008">
+      <labl>alg ii, sozialgeld heute</labl>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">165</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  5</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">165</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5105" intrvl="numeric" files="h2008">
+      <labl>alg ii, sozialgeld heute betrag</labl>
+      <sumStat type="Min.">345</sumStat>
+      <sumStat type="1st Qu.">345</sumStat>
+      <sumStat type="Median">347</sumStat>
+      <sumStat type="Mean">552.2</sumStat>
+      <sumStat type="3rd Qu.">624</sumStat>
+      <sumStat type="Max.">1100</sumStat>
+      <sumStat type="NA's">165</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">165</sumStat>
+    </var>
+    <var ID="yh5106" intrvl="labeled_numeric" files="h2008">
+      <labl>wohngeldbezug heute</labl>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">164</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">164</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5107" intrvl="numeric" files="h2008">
+      <labl>wohngeldbezug heute betrag</labl>
+      <sumStat type="Min.">31</sumStat>
+      <sumStat type="1st Qu.">57</sumStat>
+      <sumStat type="Median">67</sumStat>
+      <sumStat type="Mean">94.2</sumStat>
+      <sumStat type="3rd Qu.">97</sumStat>
+      <sumStat type="Max.">219</sumStat>
+      <sumStat type="NA's">165</sumStat>
+      <sumStat type="valid">5</sumStat>
+      <sumStat type="invalid">165</sumStat>
+    </var>
+    <var ID="yh5108" intrvl="labeled_numeric" files="h2008">
+      <labl>pflegevers. leistungen</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5109" intrvl="numeric" files="h2008">
+      <labl>pflegevers. betrag</labl>
+      <sumStat type="Min.">203</sumStat>
+      <sumStat type="1st Qu.">209</sumStat>
+      <sumStat type="Median">215</sumStat>
+      <sumStat type="Mean">211</sumStat>
+      <sumStat type="3rd Qu.">215</sumStat>
+      <sumStat type="Max.">215</sumStat>
+      <sumStat type="NA's">167</sumStat>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+    </var>
+    <var ID="yh5110" intrvl="labeled_numeric" files="h2008">
+      <labl>alter/erwerbsminderung heute</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">169</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5111" intrvl="numeric" files="h2008">
+      <labl>alter/erwerbsminderung heute betrag</labl>
+      <sumStat type="Min.">332</sumStat>
+      <sumStat type="1st Qu.">332</sumStat>
+      <sumStat type="Median">332</sumStat>
+      <sumStat type="Mean">332</sumStat>
+      <sumStat type="3rd Qu.">332</sumStat>
+      <sumStat type="Max.">332</sumStat>
+      <sumStat type="NA's">169</sumStat>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+    </var>
+    <var ID="yh5112" intrvl="labeled_numeric" files="h2008">
+      <labl>sozialhilfebezug heute</labl>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">169</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5113" intrvl="numeric" files="h2008">
+      <labl>sozialhilfebezug heute betrag</labl>
+      <sumStat type="Min.">420</sumStat>
+      <sumStat type="1st Qu.">420</sumStat>
+      <sumStat type="Median">420</sumStat>
+      <sumStat type="Mean">420</sumStat>
+      <sumStat type="3rd Qu.">420</sumStat>
+      <sumStat type="Max.">420</sumStat>
+      <sumStat type="NA's">169</sumStat>
+      <sumStat type="valid">1</sumStat>
+      <sumStat type="invalid">169</sumStat>
+    </var>
+    <var ID="yh5114" intrvl="labeled_numeric" files="h2008">
+      <labl>keine staatl leistungen</labl>
+      <sumStat type="valid">135</sumStat>
+      <sumStat type="invalid">35</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>keine staatl. leistungen</labl>
+        <catStat type="freq">135</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 35</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5201" intrvl="numeric" files="h2008">
+      <labl>hh-nettoeinkommen</labl>
+      <sumStat type="Min.">450</sumStat>
+      <sumStat type="1st Qu.">1000</sumStat>
+      <sumStat type="Median">1550</sumStat>
+      <sumStat type="Mean">1853</sumStat>
+      <sumStat type="3rd Qu.">2300</sumStat>
+      <sumStat type="Max.">10000</sumStat>
+      <sumStat type="NA's">14</sumStat>
+      <sumStat type="valid">156</sumStat>
+      <sumStat type="invalid">14</sumStat>
+    </var>
+    <var ID="yh5202" intrvl="labeled_numeric" files="h2008">
+      <labl>hh-nettoeinkommensgruppen, nur capi</labl>
+      <sumStat type="valid">13</sumStat>
+      <sumStat type="invalid">157</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>le    750 euro</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>lt 1500 lt    o. gt     750 ka</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>13</catValu>
+        <labl>gt 1500 lt    o. gt    2500 ka</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>14</catValu>
+        <labl>gt 2500 lt    o. gt    3500 ka</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>15</catValu>
+        <labl>gt 3500 lt    o. gt    5000 ka</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>gt    750 euro und le    1500 euro</labl>
+        <catStat type="freq">  4</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">156</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>21</catValu>
+        <labl>lt  1500 euro oder gt  750 euro, ka</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>gt   1500 euro und le    2500 euro</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>31</catValu>
+        <labl>gt  1500 euro oder gt 2500 euro, ka</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>gt   2500 euro und le    3500 euro</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>41</catValu>
+        <labl>gt  2500 euro oder gt 3500 euro, ka</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>gt   3500 euro und le    5000 euro</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>51</catValu>
+        <labl>gt  3500 euro oder gt 5000 euro, ka</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>gt   5000 euro</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5301" intrvl="labeled_numeric" files="h2008">
+      <labl>sparbetrag monatlich</labl>
+      <sumStat type="valid">169</sumStat>
+      <sumStat type="invalid">1</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">86</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-1</catValu>
+        <catStat type="freq"> 1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">83</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5302" intrvl="numeric" files="h2008">
+      <labl>sparbetrag monatlich hoehe</labl>
+      <sumStat type="Min.">25</sumStat>
+      <sumStat type="1st Qu.">100</sumStat>
+      <sumStat type="Median">200</sumStat>
+      <sumStat type="Mean">367.2</sumStat>
+      <sumStat type="3rd Qu.">412.5</sumStat>
+      <sumStat type="Max.">5000</sumStat>
+      <sumStat type="NA's">90</sumStat>
+      <sumStat type="valid">80</sumStat>
+      <sumStat type="invalid">90</sumStat>
+    </var>
+    <var ID="yh5401" intrvl="labeled_numeric" files="h2008">
+      <labl>im hh auto ja/nein</labl>
+      <sumStat type="valid">75</sumStat>
+      <sumStat type="invalid">95</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">75</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">95</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5402" intrvl="labeled_numeric" files="h2008">
+      <labl>in letzten 12 mon gekauft</labl>
+      <sumStat type="valid">8</sumStat>
+      <sumStat type="invalid">162</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">162</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5403" intrvl="labeled_numeric" files="h2008">
+      <labl>motorrad,moped im hh</labl>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">163</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">163</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5404" intrvl="labeled_numeric" files="h2008">
+      <labl>motorrad,moped im hh</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5405" intrvl="labeled_numeric" files="h2008">
+      <labl>spuelmaschine im hh</labl>
+      <sumStat type="valid">85</sumStat>
+      <sumStat type="invalid">85</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">85</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">85</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5406" intrvl="labeled_numeric" files="h2008">
+      <labl>mikrowelle im hh</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">168</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">168</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5407" intrvl="labeled_numeric" files="h2008">
+      <labl>waschmaschine im hh</labl>
+      <sumStat type="valid">89</sumStat>
+      <sumStat type="invalid">81</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">89</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">81</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5408" intrvl="labeled_numeric" files="h2008">
+      <labl>in letzten 12 mon gekauft</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5409" intrvl="labeled_numeric" files="h2008">
+      <labl>waschmaschine im hh</labl>
+      <sumStat type="valid">160</sumStat>
+      <sumStat type="invalid">10</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">160</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 10</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5410" intrvl="labeled_numeric" files="h2008">
+      <labl>waschmaschine im hh</labl>
+      <sumStat type="valid">12</sumStat>
+      <sumStat type="invalid">158</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq"> 12</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">158</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5411" intrvl="labeled_numeric" files="h2008">
+      <labl>stereoanlage im hh</labl>
+      <sumStat type="valid">137</sumStat>
+      <sumStat type="invalid">33</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">137</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 33</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5412" intrvl="labeled_numeric" files="h2008">
+      <labl>stereoanlage im hh</labl>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">164</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">164</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5413" intrvl="labeled_numeric" files="h2008">
+      <labl>im hh farb-tv ja/nein</labl>
+      <sumStat type="valid">152</sumStat>
+      <sumStat type="invalid">18</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">152</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 18</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5414" intrvl="labeled_numeric" files="h2008">
+      <labl>in letzten 12 mon gekauft</labl>
+      <sumStat type="valid">16</sumStat>
+      <sumStat type="invalid">154</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq"> 16</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">154</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5415" intrvl="labeled_numeric" files="h2008">
+      <labl>stereoanlage im hh</labl>
+      <sumStat type="valid">77</sumStat>
+      <sumStat type="invalid">93</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">77</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">93</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5416" intrvl="labeled_numeric" files="h2008">
+      <labl>in letzten 12 mon gekauft</labl>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">163</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">163</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5417" intrvl="labeled_numeric" files="h2008">
+      <labl>im hh dvd-recorder ja/nein</labl>
+      <sumStat type="valid">34</sumStat>
+      <sumStat type="invalid">136</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq"> 34</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">136</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5418" intrvl="labeled_numeric" files="h2008">
+      <labl>dvd-recorder im hh</labl>
+      <sumStat type="valid">6</sumStat>
+      <sumStat type="invalid">164</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">164</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5419" intrvl="labeled_numeric" files="h2008">
+      <labl>pc im hh</labl>
+      <sumStat type="valid">127</sumStat>
+      <sumStat type="invalid">43</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">127</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 43</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5420" intrvl="labeled_numeric" files="h2008">
+      <labl>pc im hh</labl>
+      <sumStat type="valid">21</sumStat>
+      <sumStat type="invalid">149</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq"> 21</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">149</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5421" intrvl="labeled_numeric" files="h2008">
+      <labl>mikrowelle im hh</labl>
+      <sumStat type="valid">35</sumStat>
+      <sumStat type="invalid">135</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq"> 35</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">135</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5422" intrvl="labeled_numeric" files="h2008">
+      <labl>internet-anschluss (ohne dsl) im hh</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5423" intrvl="labeled_numeric" files="h2008">
+      <labl>im hh dsl-anschluss ja/nein</labl>
+      <sumStat type="valid">91</sumStat>
+      <sumStat type="invalid">79</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">91</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">79</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5424" intrvl="labeled_numeric" files="h2008">
+      <labl>dsl-anschluss im hh</labl>
+      <sumStat type="valid">17</sumStat>
+      <sumStat type="invalid">153</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq"> 17</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">153</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5425" intrvl="labeled_numeric" files="h2008">
+      <labl>telefon im hh</labl>
+      <sumStat type="valid">155</sumStat>
+      <sumStat type="invalid">15</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">155</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 15</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5426" intrvl="labeled_numeric" files="h2008">
+      <labl>telefon im hh</labl>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">163</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">163</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5427" intrvl="labeled_numeric" files="h2008">
+      <labl>mobiltelefon, handy im hh</labl>
+      <sumStat type="valid">145</sumStat>
+      <sumStat type="invalid">25</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq">145</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq"> 25</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5428" intrvl="labeled_numeric" files="h2008">
+      <labl>mobiltelefon, handy im hh</labl>
+      <sumStat type="valid">17</sumStat>
+      <sumStat type="invalid">153</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq"> 17</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">153</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5429" intrvl="labeled_numeric" files="h2008">
+      <labl>isdn-anschluss</labl>
+      <sumStat type="valid">37</sumStat>
+      <sumStat type="invalid">133</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq"> 37</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">133</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5430" intrvl="labeled_numeric" files="h2008">
+      <labl>in letzten 12 mon gekauft</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5431" intrvl="labeled_numeric" files="h2008">
+      <labl>isdn-anschluss im hh</labl>
+      <sumStat type="valid">34</sumStat>
+      <sumStat type="invalid">136</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, vorhanden</labl>
+        <catStat type="freq"> 34</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">136</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5432" intrvl="labeled_numeric" files="h2008">
+      <labl>isdn-anschluss im hh</labl>
+      <sumStat type="valid">7</sumStat>
+      <sumStat type="invalid">163</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, in letzten 12 mon gekauft</labl>
+        <catStat type="freq">  7</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">163</catStat>
+      </catgry>
+    </var>
+    <var ID="yh55" intrvl="labeled_numeric" files="h2008">
+      <labl>putz-,haushaltshilfe beschaeftigt</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja, regelmaessig</labl>
+        <catStat type="freq"> 10</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>ja, gelegentlich</labl>
+        <catStat type="freq">  6</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">154</catStat>
+      </catgry>
+    </var>
+    <var ID="yh56" intrvl="labeled_numeric" files="h2008">
+      <labl>hilfe-,pflegebeduerft. person im hh</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5701" intrvl="numeric" files="h2008">
+      <labl>pnr hilfebeduerfige person</labl>
+      <sumStat type="Min.">2</sumStat>
+      <sumStat type="1st Qu.">2</sumStat>
+      <sumStat type="Median">2</sumStat>
+      <sumStat type="Mean">2</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">2</sumStat>
+      <sumStat type="NA's">167</sumStat>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+    </var>
+    <var ID="yh5702" intrvl="labeled_numeric" files="h2008">
+      <labl>hilfe bei besorgungen ausser hh</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5703" intrvl="labeled_numeric" files="h2008">
+      <labl>hilfe bei haushaltsfuehrung</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5704" intrvl="labeled_numeric" files="h2008">
+      <labl>hilfe bei einfacher pflegetaetigkeit</labl>
+      <sumStat type="valid">2</sumStat>
+      <sumStat type="invalid">168</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  2</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">168</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5705" intrvl="unknown" files="h2008">
+      <labl>hilfe bei schwieriger pflegetaetigkeit</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5706" intrvl="unknown" files="h2008">
+      <labl>hilfe k.a.</labl>
+    </var>
+    <var ID="yh5801" intrvl="labeled_numeric" files="h2008">
+      <labl>leistungen der pflegeversicherung</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5802" intrvl="labeled_numeric" files="h2008">
+      <labl>pflegestufe</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>pflegestufe 1</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>pflegestufe 2</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>pflegestufe 3</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5901" intrvl="labeled_numeric" files="h2008">
+      <labl>hilfe v.schwester,sozialhelfer</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  3</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5902" intrvl="numeric" files="h2008">
+      <labl>pnr der hauptpflegeperson im hh</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1</sumStat>
+      <sumStat type="3rd Qu.">1</sumStat>
+      <sumStat type="Max.">1</sumStat>
+      <sumStat type="NA's">167</sumStat>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+    </var>
+    <var ID="yh5903" intrvl="unknown" files="h2008">
+      <labl>hilfe v. schwester,sozialhelfer</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5904" intrvl="unknown" files="h2008">
+      <labl>hilfe v.priv.pflegedienst</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5905" intrvl="unknown" files="h2008">
+      <labl>hilfe v.nachbarn</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5906" intrvl="unknown" files="h2008">
+      <labl>hilfe v. nachbarn</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5907" intrvl="unknown" files="h2008">
+      <labl>hilfe v. angehoerige ausser hh</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5908" intrvl="unknown" files="h2008">
+      <labl>hilfe v.  k.a.</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh5909" intrvl="unknown" files="h2008">
+      <labl>person erhaelt bezahlung</labl>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">NA</catStat>
+      </catgry>
+    </var>
+    <var ID="yh60" intrvl="labeled_numeric" files="h2008">
+      <labl>zufriedenh. vorh. pflegemoeglichk.</labl>
+      <sumStat type="valid">3</sumStat>
+      <sumStat type="invalid">167</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>0 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>1 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>10 zufrieden: skala 0-niedrig bis 10-hoc</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>2 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="TRUE">
+        <catValu>-2</catValu>
+        <catStat type="freq">167</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>3 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>4 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>5 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>6 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>7 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  1</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>8 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>9 zufrieden: skala 0-niedrig bis 10-hoch</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+    </var>
+    <var ID="yh61" intrvl="labeled_numeric" files="h2008">
+      <labl>kinder unter 16 jahren im haushalt</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>ja</labl>
+        <catStat type="freq">  8</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>nein</labl>
+        <catStat type="freq">162</catStat>
+      </catgry>
+    </var>
+    <var ID="yhivform" intrvl="labeled_numeric" files="h2008">
+      <labl>durchfuehrung der befragung</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>0</catValu>
+        <labl>telefonisch</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>muendl. interview</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>schriftl.m.interver.</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>schriftl.o.interver.</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>teils-teils</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>proxy</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>schriftlich</labl>
+        <catStat type="freq">  0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>capi</labl>
+        <catStat type="freq">170</catStat>
+      </catgry>
+    </var>
+    <var ID="yhhdaer1" intrvl="numeric" files="h2008">
+      <labl>interviewdauer muendlich</labl>
+      <sumStat type="Min.">6</sumStat>
+      <sumStat type="1st Qu.">12</sumStat>
+      <sumStat type="Median">15</sumStat>
+      <sumStat type="Mean">16.69</sumStat>
+      <sumStat type="3rd Qu.">20</sumStat>
+      <sumStat type="Max.">40</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="yhhdaer2" intrvl="unknown" files="h2008">
+      <labl>interviewdauer schriftlich</labl>
+    </var>
+    <var ID="yhhtagin" intrvl="numeric" files="h2008">
+      <labl>tag des interviews</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">7</sumStat>
+      <sumStat type="Median">11</sumStat>
+      <sumStat type="Mean">13.19</sumStat>
+      <sumStat type="3rd Qu.">18.75</sumStat>
+      <sumStat type="Max.">31</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="yhhmonin" intrvl="labeled_numeric" files="h2008">
+      <labl>monat des interviews</labl>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+      <catgry missing="FALSE">
+        <catValu>1</catValu>
+        <labl>januar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>2</catValu>
+        <labl>februar</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>3</catValu>
+        <labl>maerz</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>4</catValu>
+        <labl>april</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>5</catValu>
+        <labl>mai</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>6</catValu>
+        <labl>juni</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>7</catValu>
+        <labl>juli</labl>
+        <catStat type="freq">88</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>8</catValu>
+        <labl>august</labl>
+        <catStat type="freq">82</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>9</catValu>
+        <labl>september</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>10</catValu>
+        <labl>oktober</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>11</catValu>
+        <labl>november</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+      <catgry missing="FALSE">
+        <catValu>12</catValu>
+        <labl>dezember</labl>
+        <catStat type="freq"> 0</catStat>
+      </catgry>
+    </var>
+    <var ID="yhintnr" intrvl="numeric" files="h2008">
+      <labl>interviewnummer</labl>
+      <sumStat type="Min.">11040</sumStat>
+      <sumStat type="1st Qu.">262500</sumStat>
+      <sumStat type="Median">296500</sumStat>
+      <sumStat type="Mean">255400</sumStat>
+      <sumStat type="3rd Qu.">304300</sumStat>
+      <sumStat type="Max.">309200</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="yhpmax" intrvl="numeric" files="h2008">
+      <labl>hoechste vergebene pnr im haushalt</labl>
+      <sumStat type="Min.">1</sumStat>
+      <sumStat type="1st Qu.">1</sumStat>
+      <sumStat type="Median">1</sumStat>
+      <sumStat type="Mean">1.571</sumStat>
+      <sumStat type="3rd Qu.">2</sumStat>
+      <sumStat type="Max.">4</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+    <var ID="hhnr" intrvl="numeric" files="h2008">
+      <labl>ursprungshaushaltsnummer</labl>
+      <sumStat type="Min.">630000</sumStat>
+      <sumStat type="1st Qu.">630500</sumStat>
+      <sumStat type="Median">631000</sumStat>
+      <sumStat type="Mean">631000</sumStat>
+      <sumStat type="3rd Qu.">631500</sumStat>
+      <sumStat type="Max.">632000</sumStat>
+      <sumStat type="valid">170</sumStat>
+      <sumStat type="invalid">0</sumStat>
+    </var>
+  </dataDscr>
+  <fileDscr ID="h2008"/>
+</codebook>
