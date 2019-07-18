@@ -16,10 +16,7 @@ config:
 * Boeckenhoff et al., 2013. The Socio-Economic Module of the Berlin Aging Study II (SOEP-BASE): Description, Structure, and Questionnaire, SOEPpapers on Multidisciplinary Panel Data Research 568.
 * **Persistent identifier (e.g. DOI):** NA
 * **Investigators/authors:** Gert G. Wagner; Martin Kroh
-
-* **URL:** [BASE-II] (https://www.base2.mpg.de/en)|    
-
-* **URL:**[BASE-II](https://www.base2.mpg.de/en)|    
+* **URL:** [BASE-II](https://www.base2.mpg.de/en)
 
 ## Study Info
 
