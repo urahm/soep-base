@@ -112,7 +112,6 @@ class Parser:
             if sub_type == "nan":
                 sub_type = None
             var_dict["sub_type"] = sub_type
-            var_dict["boost"] = str(d.get("boost", "1"))
             try:
                 period = "%.0f" % d.get("period")
             except:

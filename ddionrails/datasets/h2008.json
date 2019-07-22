@@ -25,7 +25,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -60,7 +59,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -89,7 +87,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -140,7 +137,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -175,7 +171,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -210,7 +205,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -245,7 +239,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -280,7 +273,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -315,7 +307,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -350,7 +341,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -385,7 +375,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -420,7 +409,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -455,7 +443,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -490,7 +477,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -525,7 +511,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -560,7 +545,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -595,7 +579,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -630,7 +613,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -665,7 +647,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -708,7 +689,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -751,7 +731,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -794,7 +773,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -837,7 +815,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -880,7 +857,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -923,7 +899,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -966,7 +941,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1045,7 +1019,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1074,7 +1047,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1125,7 +1097,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1180,7 +1151,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1239,7 +1209,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1298,7 +1267,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1328,7 +1296,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1363,7 +1330,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1392,7 +1358,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1421,7 +1386,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1468,7 +1432,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1511,7 +1474,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1546,7 +1508,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1581,7 +1542,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1616,7 +1576,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1651,7 +1610,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1686,7 +1644,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1721,7 +1678,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1756,7 +1712,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1791,7 +1746,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1826,7 +1780,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1861,7 +1814,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1896,7 +1848,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1931,7 +1882,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -1966,7 +1916,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2001,7 +1950,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2036,7 +1984,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2071,7 +2018,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2106,7 +2052,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2153,7 +2098,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2200,7 +2144,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2235,7 +2178,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2278,7 +2220,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2310,7 +2251,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2342,7 +2282,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2385,7 +2324,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2424,7 +2362,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2471,7 +2408,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2501,7 +2437,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2529,7 +2464,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2568,7 +2502,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2598,7 +2531,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2637,7 +2569,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2680,7 +2611,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2710,7 +2640,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2749,7 +2678,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2804,7 +2732,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2859,7 +2786,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2898,7 +2824,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2928,7 +2853,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2958,7 +2882,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -2988,7 +2911,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3018,7 +2940,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3061,7 +2982,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3091,7 +3011,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3146,7 +3065,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3176,7 +3094,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3215,7 +3132,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3254,7 +3170,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3284,7 +3199,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3323,7 +3237,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3353,7 +3266,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3383,7 +3295,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3413,7 +3324,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3452,7 +3362,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3482,7 +3391,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3517,7 +3425,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3547,7 +3454,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3590,7 +3496,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3625,7 +3530,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3660,7 +3564,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3695,7 +3598,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3730,7 +3632,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3765,7 +3666,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3800,7 +3700,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3839,7 +3738,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3882,7 +3780,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3912,7 +3809,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3932,7 +3828,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -3962,7 +3857,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4021,7 +3915,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4060,7 +3953,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4095,7 +3987,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4130,7 +4021,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4165,7 +4055,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4185,7 +4074,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4215,7 +4103,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4250,7 +4137,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4280,7 +4166,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4310,7 +4195,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4345,7 +4229,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4375,7 +4258,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4405,7 +4287,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4440,7 +4321,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4470,7 +4350,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4500,7 +4379,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4535,7 +4413,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4565,7 +4442,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4595,7 +4471,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4630,7 +4505,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4665,7 +4539,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4695,7 +4568,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4725,7 +4597,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4760,7 +4631,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4790,7 +4660,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4820,7 +4689,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4848,7 +4716,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4868,7 +4735,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4888,7 +4754,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4916,7 +4781,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4936,7 +4800,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -4975,7 +4838,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5005,7 +4867,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5035,7 +4896,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5074,7 +4934,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5104,7 +4963,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5143,7 +5001,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5173,7 +5030,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5212,7 +5068,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5242,7 +5097,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5281,7 +5135,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5311,7 +5164,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5350,7 +5202,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5380,7 +5231,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5415,7 +5265,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5445,7 +5294,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5536,7 +5384,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5575,7 +5422,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5605,7 +5451,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5640,7 +5485,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5675,7 +5519,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5710,7 +5553,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5745,7 +5587,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5780,7 +5621,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5815,7 +5655,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5850,7 +5689,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5885,7 +5723,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5920,7 +5757,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5955,7 +5791,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -5990,7 +5825,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6025,7 +5859,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6060,7 +5893,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6095,7 +5927,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6130,7 +5961,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6165,7 +5995,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6200,7 +6029,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6235,7 +6063,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6270,7 +6097,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6305,7 +6131,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6340,7 +6165,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6375,7 +6199,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6410,7 +6233,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6445,7 +6267,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6480,7 +6301,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6515,7 +6335,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6550,7 +6369,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6585,7 +6403,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6620,7 +6437,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6655,7 +6471,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6690,7 +6505,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6725,7 +6539,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6764,7 +6577,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6799,7 +6611,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6829,7 +6640,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6864,7 +6674,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6899,7 +6708,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6934,7 +6742,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6962,7 +6769,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -6982,7 +6788,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7021,7 +6826,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7064,7 +6868,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7099,7 +6902,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7129,7 +6931,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7157,7 +6958,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7185,7 +6985,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7213,7 +7012,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7241,7 +7039,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7269,7 +7066,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7297,7 +7093,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7329,7 +7124,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7404,7 +7198,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7439,7 +7232,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7498,7 +7290,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7527,7 +7318,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7547,7 +7337,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7576,7 +7365,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7651,7 +7439,6 @@
     "scale": "cat",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7680,7 +7467,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7709,7 +7495,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   },
   {
@@ -7738,7 +7523,6 @@
     "scale": "",
     "analysis_unit": "h",
     "sub_type": "org/net",
-    "boost": "1",
     "period": "2008"
   }
 ]
