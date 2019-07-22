@@ -76,13 +76,11 @@ class Parser:
                 self._parse_xml_var(xml_var)
 
     def _parse_xml_var(self, xml_var):
-        dataset = xml_var.get("files").lower()
-        variable = xml_var.get("ID").lower()
+        dataset = xml_var.get("files")
+        variable = xml_var.get("ID")
         var_dict = OrderedDict()
         var_dict["study"] = self.study_name
         var_dict["name"] = variable
-        var_dict["name_cs"] = xml_var.get("ID")
-        var_dict["variable"] = variable
         var_dict["dataset"] = dataset
         var_dict["label"] = xml_var.findtext("labl", default="")
         var_dict["categories"] = self._get_categories(xml_var)
@@ -94,37 +92,11 @@ class Parser:
         # afuetterer: Create list of variables instead of dictionary
         if dataset not in self.datasets:
             self.datasets[dataset] = []
-        if self.datasets_csv is not None:
-            self._parse_dataset(var_dict)
         self.datasets[dataset].append(var_dict)
 
-    def _parse_dataset(self, var_dict):
-        try:
-            d = self.datasets_csv.ix[
-                self.datasets_csv["name"] == var_dict["dataset"]
-            ].iloc[0]
-            # afuetterer: handle not a number cells
-            analysis_unit = str(d.get("analysis_unit"))
-            if analysis_unit == "nan":
-                analysis_unit = None
-            var_dict["analysis_unit"] = analysis_unit
-            sub_type = str(d.get("conceptual_dataset"))
-            if sub_type == "nan":
-                sub_type = None
-            var_dict["sub_type"] = sub_type
-            try:
-                period = "%.0f" % d.get("period")
-            except:
-                period = str(d.get("period"))
-            if period == "nan":
-                period = None
-            var_dict["period"] = period
-        except:
-            pass
-
     def _variable_translation(self, xml_var, language):
-        dataset = xml_var.get("files").lower()
-        variable = xml_var.get("ID").lower()
+        dataset = xml_var.get("files")
+        variable = xml_var.get("ID")
         label = "label_%s" % language
         labels = "labels_%s" % language
         self.datasets[dataset][variable][label] = xml_var.findtext("labl", default="")

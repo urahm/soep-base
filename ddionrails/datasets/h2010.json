@@ -2,8 +2,6 @@
   {
     "study": "soep-base",
     "name": "jahr",
-    "name_cs": "jahr",
-    "variable": "jahr",
     "dataset": "h2010",
     "label": "",
     "categories": {
@@ -36,16 +34,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "stichu",
-    "name_cs": "stichu",
-    "variable": "stichu",
     "dataset": "h2010",
     "label": "ursprungsstichprobe",
     "categories": {
@@ -158,16 +151,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hnr",
-    "name_cs": "hnr",
-    "variable": "hnr",
     "dataset": "h2010",
     "label": "haushaltsnummer welle r",
     "categories": {
@@ -740,16 +728,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "pnr",
-    "name_cs": "pnr",
-    "variable": "pnr",
     "dataset": "h2010",
     "label": "lfd. personennummer",
     "categories": {
@@ -794,16 +777,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hvj",
-    "name_cs": "hvj",
-    "variable": "hvj",
     "dataset": "h2010",
     "label": "heute vor 1 jahr in dieser wohnung gelebt",
     "categories": {
@@ -840,16 +818,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz01",
-    "name_cs": "humz01",
-    "variable": "humz01",
     "dataset": "h2010",
     "label": "wohnungswechsel wg kuendigung",
     "categories": {
@@ -879,16 +852,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "humz02",
-    "name_cs": "humz02",
-    "variable": "humz02",
     "dataset": "h2010",
     "label": "wohnungswechsel wg erwerb eigenheim",
     "categories": {
@@ -918,16 +886,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "humz03",
-    "name_cs": "humz03",
-    "variable": "humz03",
     "dataset": "h2010",
     "label": "wohnungswechsel wg erbschaft",
     "categories": {
@@ -957,16 +920,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "humz04",
-    "name_cs": "humz04",
-    "variable": "humz04",
     "dataset": "h2010",
     "label": "wohnungswechsel wg berufliche gruende",
     "categories": {
@@ -999,16 +957,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz05",
-    "name_cs": "humz05",
-    "variable": "humz05",
     "dataset": "h2010",
     "label": "wohnungswechsel wg heirat",
     "categories": {
@@ -1038,16 +991,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "humz06",
-    "name_cs": "humz06",
-    "variable": "humz06",
     "dataset": "h2010",
     "label": "wohnungswechsel wg trennung",
     "categories": {
@@ -1080,16 +1028,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz07",
-    "name_cs": "humz07",
-    "variable": "humz07",
     "dataset": "h2010",
     "label": "wohnungswechsel wg auszug elternhaus",
     "categories": {
@@ -1122,16 +1065,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz08",
-    "name_cs": "humz08",
-    "variable": "humz08",
     "dataset": "h2010",
     "label": "wohnungswechsel wg sonst. familie",
     "categories": {
@@ -1164,16 +1102,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz09",
-    "name_cs": "humz09",
-    "variable": "humz09",
     "dataset": "h2010",
     "label": "wohnungswechsel wg wohnung zu klein",
     "categories": {
@@ -1206,16 +1139,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz10",
-    "name_cs": "humz10",
-    "variable": "humz10",
     "dataset": "h2010",
     "label": "wohnungswechsel wg wohnung zu gross",
     "categories": {
@@ -1245,16 +1173,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "humz11",
-    "name_cs": "humz11",
-    "variable": "humz11",
     "dataset": "h2010",
     "label": "wohnungswechsel wg hohe wohnungskosten",
     "categories": {
@@ -1287,16 +1210,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz12",
-    "name_cs": "humz12",
-    "variable": "humz12",
     "dataset": "h2010",
     "label": "wohnungswechsel wg schlechte ausstattung",
     "categories": {
@@ -1326,16 +1244,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "humz13",
-    "name_cs": "humz13",
-    "variable": "humz13",
     "dataset": "h2010",
     "label": "wohnungswechsel wg schlechte lage",
     "categories": {
@@ -1368,16 +1281,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz16",
-    "name_cs": "humz16",
-    "variable": "humz16",
     "dataset": "h2010",
     "label": "wohnungswechsel wg bisherige wohnung nicht alten-/behindertengerecht",
     "categories": {
@@ -1407,16 +1315,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "humz14",
-    "name_cs": "humz14",
-    "variable": "humz14",
     "dataset": "h2010",
     "label": "wohnungswechsel wg schlechtes umfeld",
     "categories": {
@@ -1449,16 +1352,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz17",
-    "name_cs": "humz17",
-    "variable": "humz17",
     "dataset": "h2010",
     "label": "wohnungswechsel wg neues wohnumfeld f\u00fcr pers. lebenssituation besser",
     "categories": {
@@ -1491,16 +1389,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humz15",
-    "name_cs": "humz15",
-    "variable": "humz15",
     "dataset": "h2010",
     "label": "wohnungswechsel wg sonstige gruende",
     "categories": {
@@ -1533,16 +1426,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn01",
-    "name_cs": "hwohn01",
-    "variable": "hwohn01",
     "dataset": "h2010",
     "label": "wohnungsvergleich finanzieller belastung",
     "categories": {
@@ -1583,16 +1471,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn02",
-    "name_cs": "hwohn02",
-    "variable": "hwohn02",
     "dataset": "h2010",
     "label": "wohnungsvergleich groesse",
     "categories": {
@@ -1633,16 +1516,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn03",
-    "name_cs": "hwohn03",
-    "variable": "hwohn03",
     "dataset": "h2010",
     "label": "wohnungsvergleich ausstattung",
     "categories": {
@@ -1683,16 +1561,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn04",
-    "name_cs": "hwohn04",
-    "variable": "hwohn04",
     "dataset": "h2010",
     "label": "wohnungsvergleich gegend",
     "categories": {
@@ -1733,16 +1606,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn05",
-    "name_cs": "hwohn05",
-    "variable": "hwohn05",
     "dataset": "h2010",
     "label": "wohnungsvergleich umwelt",
     "categories": {
@@ -1783,16 +1651,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn06",
-    "name_cs": "hwohn06",
-    "variable": "hwohn06",
     "dataset": "h2010",
     "label": "wohnungsvergleich verkehrsverbindung",
     "categories": {
@@ -1833,16 +1696,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn07",
-    "name_cs": "hwohn07",
-    "variable": "hwohn07",
     "dataset": "h2010",
     "label": "wohnungsvergleich nachbarn",
     "categories": {
@@ -1883,16 +1741,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwm",
-    "name_cs": "hwm",
-    "variable": "hwm",
     "dataset": "h2010",
     "label": "seit wann in dieser wohnung, monat",
     "categories": {
@@ -1969,16 +1822,11 @@
       "valid": "12",
       "invalid": "124"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwj",
-    "name_cs": "hwj",
-    "variable": "hwj",
     "dataset": "h2010",
     "label": "seit wann in dieser wohnung, jahr",
     "categories": {
@@ -2015,16 +1863,11 @@
       "valid": "14",
       "invalid": "122"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn08",
-    "name_cs": "hwohn08",
-    "variable": "hwohn08",
     "dataset": "h2010",
     "label": "wohngegend des zielhaushaltes",
     "categories": {
@@ -2073,16 +1916,11 @@
       "valid": "9",
       "invalid": "127"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhtyp",
-    "name_cs": "hhtyp",
-    "variable": "hhtyp",
     "dataset": "h2010",
     "label": "haustyp des zielhaushaltes",
     "categories": {
@@ -2139,16 +1977,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hheim",
-    "name_cs": "hheim",
-    "variable": "hheim",
     "dataset": "h2010",
     "label": "wohnheim",
     "categories": {
@@ -2209,16 +2042,11 @@
       "valid": "13",
       "invalid": "123"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn09",
-    "name_cs": "hwohn09",
-    "variable": "hwohn09",
     "dataset": "h2010",
     "label": "baujahr des hauses",
     "categories": {
@@ -2275,16 +2103,11 @@
       "valid": "10",
       "invalid": "126"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn09a",
-    "name_cs": "hwohn09a",
-    "variable": "hwohn09a",
     "dataset": "h2010",
     "label": "genaues baujahr (ab 1972)",
     "categories": {
@@ -2317,16 +2140,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "humb",
-    "name_cs": "humb",
-    "variable": "humb",
     "dataset": "h2010",
     "label": "aenderung wohnflaeche seit letztem jahr",
     "categories": {
@@ -2363,16 +2181,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hqm",
-    "name_cs": "hqm",
-    "variable": "hqm",
     "dataset": "h2010",
     "label": "wohnflaeche insgesamt in qm",
     "categories": {
@@ -2661,16 +2474,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hraum",
-    "name_cs": "hraum",
-    "variable": "hraum",
     "dataset": "h2010",
     "label": "anzahl der wohnraeume",
     "categories": {
@@ -2731,16 +2539,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hgr",
-    "name_cs": "hgr",
-    "variable": "hgr",
     "dataset": "h2010",
     "label": "beurteilung der wohnungsgroesse",
     "categories": {
@@ -2789,16 +2592,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hzus",
-    "name_cs": "hzus",
-    "variable": "hzus",
     "dataset": "h2010",
     "label": "zustand des hauses in dem man wohnt",
     "categories": {
@@ -2843,16 +2641,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn10",
-    "name_cs": "hwohn10",
-    "variable": "hwohn10",
     "dataset": "h2010",
     "label": "wohnung mit kueche",
     "categories": {
@@ -2889,16 +2682,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn11",
-    "name_cs": "hwohn11",
-    "variable": "hwohn11",
     "dataset": "h2010",
     "label": "wohnung mit innenbad,-dusche",
     "categories": {
@@ -2935,16 +2723,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn12",
-    "name_cs": "hwohn12",
-    "variable": "hwohn12",
     "dataset": "h2010",
     "label": "wohnung mit warmwasser,boiler",
     "categories": {
@@ -2981,16 +2764,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn14",
-    "name_cs": "hwohn14",
-    "variable": "hwohn14",
     "dataset": "h2010",
     "label": "wohnung mit zentral-,etagenheizung",
     "categories": {
@@ -3027,16 +2805,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn21",
-    "name_cs": "hwohn21",
-    "variable": "hwohn21",
     "dataset": "h2010",
     "label": "wohnung mit fussbodenheizung",
     "categories": {
@@ -3073,16 +2846,11 @@
       "valid": "120",
       "invalid": "16"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn15",
-    "name_cs": "hwohn15",
-    "variable": "hwohn15",
     "dataset": "h2010",
     "label": "wohnung mit balkon,terasse",
     "categories": {
@@ -3119,16 +2887,11 @@
       "valid": "133",
       "invalid": "3"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn16",
-    "name_cs": "hwohn16",
-    "variable": "hwohn16",
     "dataset": "h2010",
     "label": "wohnung mit keller,abstellraeume",
     "categories": {
@@ -3165,16 +2928,11 @@
       "valid": "135",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn17",
-    "name_cs": "hwohn17",
-    "variable": "hwohn17",
     "dataset": "h2010",
     "label": "wohnung mit garten,-benutzung",
     "categories": {
@@ -3211,16 +2969,11 @@
       "valid": "130",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn18",
-    "name_cs": "hwohn18",
-    "variable": "hwohn18",
     "dataset": "h2010",
     "label": "wohnung mit alarmanlage",
     "categories": {
@@ -3257,16 +3010,11 @@
       "valid": "123",
       "invalid": "13"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn19",
-    "name_cs": "hwohn19",
-    "variable": "hwohn19",
     "dataset": "h2010",
     "label": "wohnung mit klimaanlage",
     "categories": {
@@ -3303,16 +3051,11 @@
       "valid": "125",
       "invalid": "11"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn20",
-    "name_cs": "hwohn20",
-    "variable": "hwohn20",
     "dataset": "h2010",
     "label": "wohnung mit sonnenkollekt., solarenergie",
     "categories": {
@@ -3349,16 +3092,11 @@
       "valid": "124",
       "invalid": "12"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn22",
-    "name_cs": "hwohn22",
-    "variable": "hwohn22",
     "dataset": "h2010",
     "label": "wohnung mit sonst. alternativer energiequelle",
     "categories": {
@@ -3395,16 +3133,11 @@
       "valid": "124",
       "invalid": "12"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwohn23",
-    "name_cs": "hwohn23",
-    "variable": "hwohn23",
     "dataset": "h2010",
     "label": "wohnung mit aufzug/fahrstuhl",
     "categories": {
@@ -3441,16 +3174,11 @@
       "valid": "128",
       "invalid": "8"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau1",
-    "name_cs": "hbau1",
-    "variable": "hbau1",
     "dataset": "h2010",
     "label": "seit vorjahr-kueche eingebaut",
     "categories": {
@@ -3483,16 +3211,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau2",
-    "name_cs": "hbau2",
-    "variable": "hbau2",
     "dataset": "h2010",
     "label": "seit vorjahr-bad,dusche,wc eingebaut",
     "categories": {
@@ -3525,16 +3248,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau3",
-    "name_cs": "hbau3",
-    "variable": "hbau3",
     "dataset": "h2010",
     "label": "seit vorjahr-heizung eingebaut",
     "categories": {
@@ -3567,16 +3285,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau4",
-    "name_cs": "hbau4",
-    "variable": "hbau4",
     "dataset": "h2010",
     "label": "seit vorjahr-neue fenster eingebaut",
     "categories": {
@@ -3609,16 +3322,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau9",
-    "name_cs": "hbau9",
-    "variable": "hbau9",
     "dataset": "h2010",
     "label": "seit vorjahr - waermedaemmung",
     "categories": {
@@ -3651,16 +3359,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau10",
-    "name_cs": "hbau10",
-    "variable": "hbau10",
     "dataset": "h2010",
     "label": "seit vorjahr - anpassung an barrierefreies/altengerechtes wohnen",
     "categories": {
@@ -3693,16 +3396,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau5",
-    "name_cs": "hbau5",
-    "variable": "hbau5",
     "dataset": "h2010",
     "label": "seit vorjahr-sonst. groessere massnahmen",
     "categories": {
@@ -3735,16 +3433,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau6",
-    "name_cs": "hbau6",
-    "variable": "hbau6",
     "dataset": "h2010",
     "label": "seit vorjahr-keine modernisierungen",
     "categories": {
@@ -3777,16 +3470,11 @@
       "valid": "123",
       "invalid": "13"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau7",
-    "name_cs": "hbau7",
-    "variable": "hbau7",
     "dataset": "h2010",
     "label": "modernisierung auf kosten von",
     "categories": {
@@ -3827,16 +3515,11 @@
       "valid": "12",
       "invalid": "124"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau8",
-    "name_cs": "hbau8",
-    "variable": "hbau8",
     "dataset": "h2010",
     "label": "modernisierung durchgefuehrt von",
     "categories": {
@@ -3877,16 +3560,11 @@
       "valid": "7",
       "invalid": "129"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbau11",
-    "name_cs": "hbau11",
-    "variable": "hbau11",
     "dataset": "h2010",
     "label": "Hoehe der Ausgaben durch Modernisierung",
     "categories": {
@@ -3947,16 +3625,11 @@
       "valid": "8",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hew1",
-    "name_cs": "hew1",
-    "variable": "hew1",
     "dataset": "h2010",
     "label": "eigentuemerwechsel vorjahr",
     "categories": {
@@ -3993,16 +3666,11 @@
       "valid": "134",
       "invalid": "2"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hew2",
-    "name_cs": "hew2",
-    "variable": "hew2",
     "dataset": "h2010",
     "label": "eigentuemerwechsel art",
     "categories": {
@@ -4043,16 +3711,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hew3",
-    "name_cs": "hew3",
-    "variable": "hew3",
     "dataset": "h2010",
     "label": "eigentumerwerb durch",
     "categories": {
@@ -4086,16 +3749,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hew4",
-    "name_cs": "hew4",
-    "variable": "hew4",
     "dataset": "h2010",
     "label": "nicht mehr eigentuemer",
     "categories": {
@@ -4129,16 +3787,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hm01",
-    "name_cs": "hm01",
-    "variable": "hm01",
     "dataset": "h2010",
     "label": "haupt-, untermieter, eigentuemer",
     "categories": {
@@ -4183,16 +3836,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm02",
-    "name_cs": "hm02",
-    "variable": "hm02",
     "dataset": "h2010",
     "label": "v. eigentuemer verbilligt ueberl.whg",
     "categories": {
@@ -4229,16 +3877,11 @@
       "valid": "112",
       "invalid": "24"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm03",
-    "name_cs": "hm03",
-    "variable": "hm03",
     "dataset": "h2010",
     "label": "sozialwohnung",
     "categories": {
@@ -4279,16 +3922,11 @@
       "valid": "111",
       "invalid": "25"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm04",
-    "name_cs": "hm04",
-    "variable": "hm04",
     "dataset": "h2010",
     "label": "hoehe der monatlichen miete",
     "categories": {
@@ -4665,16 +4303,11 @@
       "valid": "106",
       "invalid": "30"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm05",
-    "name_cs": "hm05",
-    "variable": "hm05",
     "dataset": "h2010",
     "label": "zahle keine miete",
     "categories": {
@@ -4707,16 +4340,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm06",
-    "name_cs": "hm06",
-    "variable": "hm06",
     "dataset": "h2010",
     "label": "heizungs-,wwkosten in d. miete",
     "categories": {
@@ -4753,16 +4381,11 @@
       "valid": "103",
       "invalid": "33"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm07",
-    "name_cs": "hm07",
-    "variable": "hm07",
     "dataset": "h2010",
     "label": "monatl. heizkosten, durchschnittl.",
     "categories": {
@@ -4959,16 +4582,11 @@
       "valid": "79",
       "invalid": "57"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm08",
-    "name_cs": "hm08",
-    "variable": "hm08",
     "dataset": "h2010",
     "label": "monatl. heizkosten, durchschnittl.",
     "categories": {
@@ -5001,16 +4619,11 @@
       "valid": "24",
       "invalid": "112"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm14",
-    "name_cs": "hm14",
-    "variable": "hm14",
     "dataset": "h2010",
     "label": "durchschnittliche Stromkosten pro Monat",
     "categories": {
@@ -5207,16 +4820,11 @@
       "valid": "102",
       "invalid": "34"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm15",
-    "name_cs": "hm15",
-    "variable": "hm15",
     "dataset": "h2010",
     "label": "durchschnittliche Stromkosten pro Monat, Wei\u00df nicht",
     "categories": {
@@ -5249,16 +4857,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm09",
-    "name_cs": "hm09",
-    "variable": "hm09",
     "dataset": "h2010",
     "label": "im mietpreis umlagen enthalten",
     "categories": {
@@ -5299,16 +4902,11 @@
       "valid": "95",
       "invalid": "41"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm10",
-    "name_cs": "hm10",
-    "variable": "hm10",
     "dataset": "h2010",
     "label": "monatl hoehe der umlagen",
     "categories": {
@@ -5489,16 +5087,11 @@
       "valid": "46",
       "invalid": "90"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm11",
-    "name_cs": "hm11",
-    "variable": "hm11",
     "dataset": "h2010",
     "label": "monatl hoehe der umlagen",
     "categories": {
@@ -5531,16 +5124,11 @@
       "valid": "42",
       "invalid": "94"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm12",
-    "name_cs": "hm12",
-    "variable": "hm12",
     "dataset": "h2010",
     "label": "beurteilung der miethoehe",
     "categories": {
@@ -5589,16 +5177,11 @@
       "valid": "105",
       "invalid": "31"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hm13",
-    "name_cs": "hm13",
-    "variable": "hm13",
     "dataset": "h2010",
     "label": "eigentuemer der wohnung",
     "categories": {
@@ -5651,16 +5234,11 @@
       "valid": "105",
       "invalid": "31"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he01",
-    "name_cs": "he01",
-    "variable": "he01",
     "dataset": "h2010",
     "label": "zins-,tilgungszahlungen f wohnung",
     "categories": {
@@ -5697,16 +5275,11 @@
       "valid": "22",
       "invalid": "114"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he02",
-    "name_cs": "he02",
-    "variable": "he02",
     "dataset": "h2010",
     "label": "monatl zins-,tilgungszahlungen",
     "categories": {
@@ -5755,16 +5328,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he03",
-    "name_cs": "he03",
-    "variable": "he03",
     "dataset": "h2010",
     "label": "hoehe instandhaltungskosten letzt.j",
     "categories": {
@@ -5849,16 +5417,11 @@
       "valid": "21",
       "invalid": "115"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he04",
-    "name_cs": "he04",
-    "variable": "he04",
     "dataset": "h2010",
     "label": "hoehe heizkosten letzt.j",
     "categories": {
@@ -5959,16 +5522,11 @@
       "valid": "20",
       "invalid": "116"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he16",
-    "name_cs": "he16",
-    "variable": "he16",
     "dataset": "h2010",
     "label": "Hoehe Stromkosten im letzten Jahr",
     "categories": {
@@ -6061,16 +5619,11 @@
       "valid": "21",
       "invalid": "115"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he05",
-    "name_cs": "he05",
-    "variable": "he05",
     "dataset": "h2010",
     "label": "jaehrliche nebenkosten in euro",
     "categories": {
@@ -6171,16 +5724,11 @@
       "valid": "20",
       "invalid": "116"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he06",
-    "name_cs": "he06",
-    "variable": "he06",
     "dataset": "h2010",
     "label": "wohngeld als eigentuemer d. wohnung",
     "categories": {
@@ -6221,16 +5769,11 @@
       "valid": "22",
       "invalid": "114"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he07",
-    "name_cs": "he07",
-    "variable": "he07",
     "dataset": "h2010",
     "label": "wohngeld, betrag pro monat",
     "categories": {
@@ -6275,16 +5818,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he08",
-    "name_cs": "he08",
-    "variable": "he08",
     "dataset": "h2010",
     "label": "beurteilung - finanzielle belastung",
     "categories": {
@@ -6333,16 +5871,11 @@
       "valid": "22",
       "invalid": "114"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he09",
-    "name_cs": "he09",
-    "variable": "he09",
     "dataset": "h2010",
     "label": "geschaetzte monatl. miete ohne heizung",
     "categories": {
@@ -6435,16 +5968,11 @@
       "valid": "18",
       "invalid": "118"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he10",
-    "name_cs": "he10",
-    "variable": "he10",
     "dataset": "h2010",
     "label": "geschaetzte monatl. miete ohne heizung",
     "categories": {
@@ -6477,16 +6005,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he13",
-    "name_cs": "he13",
-    "variable": "he13",
     "dataset": "h2010",
     "label": "wohn-eigentumsfoerd.,eigenheimzulage vorjahr",
     "categories": {
@@ -6523,16 +6046,11 @@
       "valid": "22",
       "invalid": "114"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "he14",
-    "name_cs": "he14",
-    "variable": "he14",
     "dataset": "h2010",
     "label": "hoehe foerderbetrag vorjahr",
     "categories": {
@@ -6558,16 +6076,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hverm1",
-    "name_cs": "hverm1",
-    "variable": "hverm1",
     "dataset": "h2010",
     "label": "miet- u.pachteinnahmen vorjahr",
     "categories": {
@@ -6604,16 +6117,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hverm2",
-    "name_cs": "hverm2",
-    "variable": "hverm2",
     "dataset": "h2010",
     "label": "miet- u.pachteinnahmen betrag vorjahr",
     "categories": {
@@ -6666,16 +6174,11 @@
       "valid": "6",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hverm3",
-    "name_cs": "hverm3",
-    "variable": "hverm3",
     "dataset": "h2010",
     "label": "betriebs- u.instandhaltgskosten vorjahr",
     "categories": {
@@ -6724,16 +6227,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hverm4",
-    "name_cs": "hverm4",
-    "variable": "hverm4",
     "dataset": "h2010",
     "label": "tilgungs-u.zinszahlungen vorjahr",
     "categories": {
@@ -6778,16 +6276,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hverm5",
-    "name_cs": "hverm5",
-    "variable": "hverm5",
     "dataset": "h2010",
     "label": "steuerlich absetzten, vorjahr",
     "categories": {
@@ -6824,16 +6317,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hverm6",
-    "name_cs": "hverm6",
-    "variable": "hverm6",
     "dataset": "h2010",
     "label": "steuerlich absetzten, betrag vorjahr",
     "categories": {
@@ -6874,16 +6362,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hkred1",
-    "name_cs": "hkred1",
-    "variable": "hkred1",
     "dataset": "h2010",
     "label": "abzahlung kredite",
     "categories": {
@@ -6920,16 +6403,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hkred2",
-    "name_cs": "hkred2",
-    "variable": "hkred2",
     "dataset": "h2010",
     "label": "abzahlung kredite hoehe",
     "categories": {
@@ -7030,16 +6508,11 @@
       "valid": "21",
       "invalid": "115"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hkred3",
-    "name_cs": "hkred3",
-    "variable": "hkred3",
     "dataset": "h2010",
     "label": "belastung durch rueckzahlung kredite",
     "categories": {
@@ -7080,16 +6553,11 @@
       "valid": "21",
       "invalid": "115"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwa1",
-    "name_cs": "hwa1",
-    "variable": "hwa1",
     "dataset": "h2010",
     "label": "sparbuch vorjahr",
     "categories": {
@@ -7122,16 +6590,11 @@
       "valid": "87",
       "invalid": "49"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwa2",
-    "name_cs": "hwa2",
-    "variable": "hwa2",
     "dataset": "h2010",
     "label": "bausparvertrag vorjahr",
     "categories": {
@@ -7164,16 +6627,11 @@
       "valid": "38",
       "invalid": "98"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwa3",
-    "name_cs": "hwa3",
-    "variable": "hwa3",
     "dataset": "h2010",
     "label": "lebensversicherung vorjahr",
     "categories": {
@@ -7206,16 +6664,11 @@
       "valid": "36",
       "invalid": "100"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwa4",
-    "name_cs": "hwa4",
-    "variable": "hwa4",
     "dataset": "h2010",
     "label": "festverzinsl. wertpapiere vorjahr",
     "categories": {
@@ -7248,16 +6701,11 @@
       "valid": "18",
       "invalid": "118"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwa5",
-    "name_cs": "hwa5",
-    "variable": "hwa5",
     "dataset": "h2010",
     "label": "sonstige wertpapiere vorjahr",
     "categories": {
@@ -7290,16 +6738,11 @@
       "valid": "37",
       "invalid": "99"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwa6",
-    "name_cs": "hwa6",
-    "variable": "hwa6",
     "dataset": "h2010",
     "label": "betriebsvermoegen vorjahr",
     "categories": {
@@ -7332,16 +6775,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwa7",
-    "name_cs": "hwa7",
-    "variable": "hwa7",
     "dataset": "h2010",
     "label": "keine wertanlagen vorjahr",
     "categories": {
@@ -7374,16 +6812,11 @@
       "valid": "26",
       "invalid": "110"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwa8",
-    "name_cs": "hwa8",
-    "variable": "hwa8",
     "dataset": "h2010",
     "label": "verluste steuerlich absetzen",
     "categories": {
@@ -7420,16 +6853,11 @@
       "valid": "36",
       "invalid": "100"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwa9",
-    "name_cs": "hwa9",
-    "variable": "hwa9",
     "dataset": "h2010",
     "label": "verluste steuerlich absetzen, betrag",
     "categories": {
@@ -7470,16 +6898,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hwaka",
-    "name_cs": "hwaka",
-    "variable": "hwaka",
     "dataset": "h2010",
     "label": "wertanlagen k.a.",
     "categories": {
@@ -7505,16 +6928,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hzins1",
-    "name_cs": "hzins1",
-    "variable": "hzins1",
     "dataset": "h2010",
     "label": "zins-u. dividendeneinnahmen vorjahr",
     "categories": {
@@ -7615,16 +7033,11 @@
       "valid": "21",
       "invalid": "115"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hzins2",
-    "name_cs": "hzins2",
-    "variable": "hzins2",
     "dataset": "h2010",
     "label": "zins-u. dividendeneinnahmen geschaetzt vorjahr",
     "categories": {
@@ -7677,16 +7090,11 @@
       "valid": "84",
       "invalid": "52"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlos1",
-    "name_cs": "hlos1",
-    "variable": "hlos1",
     "dataset": "h2010",
     "label": "unerw. geldbetraege,sachw. ue.5000 dm er",
     "categories": {
@@ -7723,16 +7131,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlos2",
-    "name_cs": "hlos2",
-    "variable": "hlos2",
     "dataset": "h2010",
     "label": "erbschaft",
     "categories": {
@@ -7765,16 +7168,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlos3",
-    "name_cs": "hlos3",
-    "variable": "hlos3",
     "dataset": "h2010",
     "label": "schenkung",
     "categories": {
@@ -7807,16 +7205,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlos4",
-    "name_cs": "hlos4",
-    "variable": "hlos4",
     "dataset": "h2010",
     "label": "lotteriegewinn",
     "categories": {
@@ -7846,16 +7239,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hloska",
-    "name_cs": "hloska",
-    "variable": "hloska",
     "dataset": "h2010",
     "label": "unerw.geldbetraege k.a.",
     "categories": {
@@ -7881,16 +7269,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hlos5",
-    "name_cs": "hlos5",
-    "variable": "hlos5",
     "dataset": "h2010",
     "label": "hoehe unerw. geldbetrage,sachw.in euro",
     "categories": {
@@ -7951,16 +7334,11 @@
       "valid": "10",
       "invalid": "126"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlkg1",
-    "name_cs": "hlkg1",
-    "variable": "hlkg1",
     "dataset": "h2010",
     "label": "kindergeldbezug letztes jahr",
     "categories": {
@@ -7997,16 +7375,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlkg2",
-    "name_cs": "hlkg2",
-    "variable": "hlkg2",
     "dataset": "h2010",
     "label": "kindergeld letzt.j monate",
     "categories": {
@@ -8047,16 +7420,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlkg3",
-    "name_cs": "hlkg3",
-    "variable": "hlkg3",
     "dataset": "h2010",
     "label": "kindergeld letzt.j betrag(monat)",
     "categories": {
@@ -8117,16 +7485,11 @@
       "valid": "10",
       "invalid": "126"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlkz1",
-    "name_cs": "hlkz1",
-    "variable": "hlkz1",
     "dataset": "h2010",
     "label": "Kinderzuschlag letztes Jahr",
     "categories": {
@@ -8163,16 +7526,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlkz2",
-    "name_cs": "hlkz2",
-    "variable": "hlkz2",
     "dataset": "h2010",
     "label": "Kinderzuschlag letztes Jahr, Monate",
     "categories": {
@@ -8209,16 +7567,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlkz3",
-    "name_cs": "hlkz3",
-    "variable": "hlkz3",
     "dataset": "h2010",
     "label": "Kinderzuschlag letztes Jahr, Betrag (Monat)",
     "categories": {
@@ -8255,16 +7608,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlag1",
-    "name_cs": "hlag1",
-    "variable": "hlag1",
     "dataset": "h2010",
     "label": "alg2, sozialgeld im letzten jahr: bezogen",
     "categories": {
@@ -8301,16 +7649,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlag2",
-    "name_cs": "hlag2",
-    "variable": "hlag2",
     "dataset": "h2010",
     "label": "alg2, sozialgeld im letzten jahr: anzahl monate",
     "categories": {
@@ -8351,16 +7694,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlag3",
-    "name_cs": "hlag3",
-    "variable": "hlag3",
     "dataset": "h2010",
     "label": "alg2, sozialgeld im letzten jahr: betrag pro monat",
     "categories": {
@@ -8401,16 +7739,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlpg1",
-    "name_cs": "hlpg1",
-    "variable": "hlpg1",
     "dataset": "h2010",
     "label": "leistungen der pflegeversicherung vorjahr",
     "categories": {
@@ -8447,16 +7780,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlpg2",
-    "name_cs": "hlpg2",
-    "variable": "hlpg2",
     "dataset": "h2010",
     "label": "leistungen der pflegeversicherung monate",
     "categories": {
@@ -8493,16 +7821,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlpg3",
-    "name_cs": "hlpg3",
-    "variable": "hlpg3",
     "dataset": "h2010",
     "label": "leistungen der pflegeversicherung pro monat",
     "categories": {
@@ -8539,16 +7862,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlsh1",
-    "name_cs": "hlsh1",
-    "variable": "hlsh1",
     "dataset": "h2010",
     "label": "Laufende Hilfe zum Lebensunterhalt",
     "categories": {
@@ -8585,16 +7903,11 @@
       "valid": "133",
       "invalid": "3"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlsh2",
-    "name_cs": "hlsh2",
-    "variable": "hlsh2",
     "dataset": "h2010",
     "label": "Laufende Hilfe zum Lebensunterhalt, Monate",
     "categories": {
@@ -8620,16 +7933,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hlsh3",
-    "name_cs": "hlsh3",
-    "variable": "hlsh3",
     "dataset": "h2010",
     "label": "Laufende Hilfe zum Lebensunterhalt, Betrag(Monat)",
     "categories": {
@@ -8655,16 +7963,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hlgs1",
-    "name_cs": "hlgs1",
-    "variable": "hlgs1",
     "dataset": "h2010",
     "label": "Grundsicherung im Alter/bei Erwerbsminderung im letzten Jahr",
     "categories": {
@@ -8701,16 +8004,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlgs2",
-    "name_cs": "hlgs2",
-    "variable": "hlgs2",
     "dataset": "h2010",
     "label": "Grundsicherung im Alter/bei Erwerbsminderung, Monate",
     "categories": {
@@ -8747,16 +8045,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlgs3",
-    "name_cs": "hlgs3",
-    "variable": "hlgs3",
     "dataset": "h2010",
     "label": "Grundsicherung im Alter/bei Erwerbsminderung, Betrag(Monat)",
     "categories": {
@@ -8793,16 +8086,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlwg1",
-    "name_cs": "hlwg1",
-    "variable": "hlwg1",
     "dataset": "h2010",
     "label": "wohngeld,lastenzuschuss vorjahr",
     "categories": {
@@ -8839,16 +8127,11 @@
       "valid": "135",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlwg2",
-    "name_cs": "hlwg2",
-    "variable": "hlwg2",
     "dataset": "h2010",
     "label": "im letzten jahr: monate mit wohngeld o. lastenzuschuss",
     "categories": {
@@ -8889,16 +8172,11 @@
       "valid": "9",
       "invalid": "127"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hlwg3",
-    "name_cs": "hlwg3",
-    "variable": "hlwg3",
     "dataset": "h2010",
     "label": "wohngeld,lastenzuschuss pro monat",
     "categories": {
@@ -8963,16 +8241,11 @@
       "valid": "9",
       "invalid": "127"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdkg1",
-    "name_cs": "hdkg1",
-    "variable": "hdkg1",
     "dataset": "h2010",
     "label": "kindergeldbezug heute",
     "categories": {
@@ -9009,16 +8282,11 @@
       "valid": "135",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdkg2",
-    "name_cs": "hdkg2",
-    "variable": "hdkg2",
     "dataset": "h2010",
     "label": "kindergeldbezug heute betrag",
     "categories": {
@@ -9063,16 +8331,11 @@
       "valid": "7",
       "invalid": "129"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdkg3",
-    "name_cs": "hdkg3",
-    "variable": "hdkg3",
     "dataset": "h2010",
     "label": "anz. kinder",
     "categories": {
@@ -9109,16 +8372,11 @@
       "valid": "7",
       "invalid": "129"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdkz1",
-    "name_cs": "hdkz1",
-    "variable": "hdkz1",
     "dataset": "h2010",
     "label": "Kinderzuschlag heute",
     "categories": {
@@ -9155,16 +8413,11 @@
       "valid": "130",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdkz2",
-    "name_cs": "hdkz2",
-    "variable": "hdkz2",
     "dataset": "h2010",
     "label": "Kinderzuschlag heute, Betrag(Monat)",
     "categories": {
@@ -9197,16 +8450,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdag1",
-    "name_cs": "hdag1",
-    "variable": "hdag1",
     "dataset": "h2010",
     "label": "alg ii, sozialgeld heute",
     "categories": {
@@ -9243,16 +8491,11 @@
       "valid": "129",
       "invalid": "7"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdag2",
-    "name_cs": "hdag2",
-    "variable": "hdag2",
     "dataset": "h2010",
     "label": "alg ii, sozialgeld heute betrag",
     "categories": {
@@ -9289,16 +8532,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdpg1",
-    "name_cs": "hdpg1",
-    "variable": "hdpg1",
     "dataset": "h2010",
     "label": "pflegevers. leistungen",
     "categories": {
@@ -9335,16 +8573,11 @@
       "valid": "130",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdpg2",
-    "name_cs": "hdpg2",
-    "variable": "hdpg2",
     "dataset": "h2010",
     "label": "pflegevers. betrag",
     "categories": {
@@ -9377,16 +8610,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdsh1",
-    "name_cs": "hdsh1",
-    "variable": "hdsh1",
     "dataset": "h2010",
     "label": "sozialhilfebezug heute",
     "categories": {
@@ -9423,16 +8651,11 @@
       "valid": "130",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdsh2",
-    "name_cs": "hdsh2",
-    "variable": "hdsh2",
     "dataset": "h2010",
     "label": "sozialhilfebezug heute betrag",
     "categories": {
@@ -9458,16 +8681,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hdgs1",
-    "name_cs": "hdgs1",
-    "variable": "hdgs1",
     "dataset": "h2010",
     "label": "alter/erwerbsminderung heute",
     "categories": {
@@ -9504,16 +8722,11 @@
       "valid": "129",
       "invalid": "7"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdgs2",
-    "name_cs": "hdgs2",
-    "variable": "hdgs2",
     "dataset": "h2010",
     "label": "alter/erwerbsminderung heute betrag",
     "categories": {
@@ -9550,16 +8763,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdwg1",
-    "name_cs": "hdwg1",
-    "variable": "hdwg1",
     "dataset": "h2010",
     "label": "wohngeldbezug heute",
     "categories": {
@@ -9596,16 +8804,11 @@
       "valid": "131",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdwg2",
-    "name_cs": "hdwg2",
-    "variable": "hdwg2",
     "dataset": "h2010",
     "label": "wohngeldbezug heute betrag",
     "categories": {
@@ -9662,16 +8865,11 @@
       "valid": "8",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hunt1",
-    "name_cs": "hunt1",
-    "variable": "hunt1",
     "dataset": "h2010",
     "label": "Unterhalt erhalten derzeit",
     "categories": {
@@ -9708,16 +8906,11 @@
       "valid": "135",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hunt2",
-    "name_cs": "hunt2",
-    "variable": "hunt2",
     "dataset": "h2010",
     "label": "Unterhalt erhalten derzeit, Betrag(Monat)",
     "categories": {
@@ -9790,16 +8983,11 @@
       "valid": "13",
       "invalid": "123"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hnetto",
-    "name_cs": "hnetto",
-    "variable": "hnetto",
     "dataset": "h2010",
     "label": "hh-nettoeinkommen",
     "categories": {
@@ -10104,16 +9292,11 @@
       "valid": "130",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "znetto",
-    "name_cs": "znetto",
-    "variable": "znetto",
     "dataset": "h2010",
     "label": "hh-nettoeinkommensgruppen, nur capi",
     "categories": {
@@ -10195,16 +9378,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hunt3",
-    "name_cs": "hunt3",
-    "variable": "hunt3",
     "dataset": "h2010",
     "label": "Unterhalt leisten derzeit",
     "categories": {
@@ -10241,16 +9419,11 @@
       "valid": "134",
       "invalid": "2"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hunt4",
-    "name_cs": "hunt4",
-    "variable": "hunt4",
     "dataset": "h2010",
     "label": "Unterhalt leisten derzeit, Betrag(Monat)",
     "categories": {
@@ -10311,16 +9484,11 @@
       "valid": "8",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hspar1",
-    "name_cs": "hspar1",
-    "variable": "hspar1",
     "dataset": "h2010",
     "label": "sparbetrag monatlich",
     "categories": {
@@ -10357,16 +9525,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hspar2",
-    "name_cs": "hspar2",
-    "variable": "hspar2",
     "dataset": "h2010",
     "label": "sparbetrag monatlich hoehe",
     "categories": {
@@ -10459,16 +9622,11 @@
       "valid": "68",
       "invalid": "68"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hspar3",
-    "name_cs": "hspar3",
-    "variable": "hspar3",
     "dataset": "h2010",
     "label": "Verhaeltnis Einnamen-Ausgaben im letzten Jahr",
     "categories": {
@@ -10509,16 +9667,11 @@
       "valid": "133",
       "invalid": "3"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hspar4",
-    "name_cs": "hspar4",
-    "variable": "hspar4",
     "dataset": "h2010",
     "label": "Hoehe Ersparnisse im letzten Jahr",
     "categories": {
@@ -10643,16 +9796,11 @@
       "valid": "30",
       "invalid": "106"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hspar5",
-    "name_cs": "hspar5",
-    "variable": "hspar5",
     "dataset": "h2010",
     "label": "Wei\u00df nicht, Hoehe Ersparnisse im letzten Jahr",
     "categories": {
@@ -10685,16 +9833,11 @@
       "valid": "8",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hspar6",
-    "name_cs": "hspar6",
-    "variable": "hspar6",
     "dataset": "h2010",
     "label": "Hoehe Fehlbetrag im letzten Jahr",
     "categories": {
@@ -10771,16 +9914,11 @@
       "valid": "17",
       "invalid": "119"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hspar7",
-    "name_cs": "hspar7",
-    "variable": "hspar7",
     "dataset": "h2010",
     "label": "Wei\u00df nicht, Hoehe Fehlbetrag im letzten Jahr",
     "categories": {
@@ -10813,16 +9951,11 @@
       "valid": "8",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hspar8",
-    "name_cs": "hspar8",
-    "variable": "hspar8",
     "dataset": "h2010",
     "label": "Deckung des Fehlbetrags im letzten Jahr",
     "categories": {
@@ -10867,16 +10000,11 @@
       "valid": "26",
       "invalid": "110"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hsparka",
-    "name_cs": "hsparka",
-    "variable": "hsparka",
     "dataset": "h2010",
     "label": "GesamtKA Ersparnisse",
     "categories": {
@@ -10902,16 +10030,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hpfleg",
-    "name_cs": "hpfleg",
-    "variable": "hpfleg",
     "dataset": "h2010",
     "label": "hilfe-,pflegebeduerft. person im hh",
     "categories": {
@@ -10948,16 +10071,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hpnr",
-    "name_cs": "hpnr",
-    "variable": "hpnr",
     "dataset": "h2010",
     "label": "pnr hilfebeduerfige person",
     "categories": {
@@ -10994,16 +10112,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhil1",
-    "name_cs": "hhil1",
-    "variable": "hhil1",
     "dataset": "h2010",
     "label": "hilfe bei besorgungen ausser hh",
     "categories": {
@@ -11036,16 +10149,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhil2",
-    "name_cs": "hhil2",
-    "variable": "hhil2",
     "dataset": "h2010",
     "label": "hilfe bei haushaltsfuehrung",
     "categories": {
@@ -11078,16 +10186,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhil3",
-    "name_cs": "hhil3",
-    "variable": "hhil3",
     "dataset": "h2010",
     "label": "hilfe bei einfacher pflegetaetigkeit",
     "categories": {
@@ -11120,16 +10223,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhil4",
-    "name_cs": "hhil4",
-    "variable": "hhil4",
     "dataset": "h2010",
     "label": "hilfe bei schwieriger pflegetaetigkeit",
     "categories": {
@@ -11162,16 +10260,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhilka",
-    "name_cs": "hhilka",
-    "variable": "hhilka",
     "dataset": "h2010",
     "label": "hilfe k.a.",
     "categories": {
@@ -11197,16 +10290,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hpl",
-    "name_cs": "hpl",
-    "variable": "hpl",
     "dataset": "h2010",
     "label": "leistungen der pflegeversicherung",
     "categories": {
@@ -11243,16 +10331,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hpstuf",
-    "name_cs": "hpstuf",
-    "variable": "hpstuf",
     "dataset": "h2010",
     "label": "pflegestufe",
     "categories": {
@@ -11293,16 +10376,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhvon1",
-    "name_cs": "hhvon1",
-    "variable": "hhvon1",
     "dataset": "h2010",
     "label": "hilfe v. angehoerigen im HH",
     "categories": {
@@ -11335,16 +10413,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhnr",
-    "name_cs": "hhnr",
-    "variable": "hhnr",
     "dataset": "h2010",
     "label": "pnr der hauptpflegeperson im hh",
     "categories": {
@@ -11377,16 +10450,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhvon2",
-    "name_cs": "hhvon2",
-    "variable": "hhvon2",
     "dataset": "h2010",
     "label": "hilfe v. schwester,sozialhelfer",
     "categories": {
@@ -11416,16 +10484,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hhvon3",
-    "name_cs": "hhvon3",
-    "variable": "hhvon3",
     "dataset": "h2010",
     "label": "hilfe v.priv.pflegedienst",
     "categories": {
@@ -11455,16 +10518,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hhvon4",
-    "name_cs": "hhvon4",
-    "variable": "hhvon4",
     "dataset": "h2010",
     "label": "hilfe v. Freunden/Bekannten",
     "categories": {
@@ -11494,16 +10552,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hhvon5",
-    "name_cs": "hhvon5",
-    "variable": "hhvon5",
     "dataset": "h2010",
     "label": "hilfe v. nachbarn",
     "categories": {
@@ -11533,16 +10586,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hhvon6",
-    "name_cs": "hhvon6",
-    "variable": "hhvon6",
     "dataset": "h2010",
     "label": "hilfe v. angehoerige ausser hh",
     "categories": {
@@ -11575,16 +10623,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhvonka",
-    "name_cs": "hhvonka",
-    "variable": "hhvonka",
     "dataset": "h2010",
     "label": "hilfe v.  k.a.",
     "categories": {
@@ -11614,16 +10657,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hhbez",
-    "name_cs": "hhbez",
-    "variable": "hhbez",
     "dataset": "h2010",
     "label": "person erhaelt bezahlung",
     "categories": {
@@ -11660,16 +10698,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hpfleg2",
-    "name_cs": "hpfleg2",
-    "variable": "hpfleg2",
     "dataset": "h2010",
     "label": "Weitere pflegebeduerftige Personen im HH",
     "categories": {
@@ -11706,16 +10739,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hpfleg3",
-    "name_cs": "hpfleg3",
-    "variable": "hpfleg3",
     "dataset": "h2010",
     "label": "Anzahl weiterer pflegebedueftiger Personen im HH",
     "categories": {
@@ -11741,16 +10769,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hpfleg4",
-    "name_cs": "hpfleg4",
-    "variable": "hpfleg4",
     "dataset": "h2010",
     "label": "Regelm\u00e4\u00dfige Kosten durch Pflege",
     "categories": {
@@ -11787,16 +10810,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hpfleg5",
-    "name_cs": "hpfleg5",
-    "variable": "hpfleg5",
     "dataset": "h2010",
     "label": "Hoehe regelm\u00e4\u00dfiger Kosten durch Pflege",
     "categories": {
@@ -11822,16 +10840,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hputz",
-    "name_cs": "hputz",
-    "variable": "hputz",
     "dataset": "h2010",
     "label": "putz-,haushaltshilfe beschaeftigt",
     "categories": {
@@ -11872,16 +10885,11 @@
       "valid": "135",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hputz2",
-    "name_cs": "hputz2",
-    "variable": "hputz2",
     "dataset": "h2010",
     "label": "Hoehe Kosten durch Putz-/Haushaltshilfe",
     "categories": {
@@ -11950,16 +10958,11 @@
       "valid": "14",
       "invalid": "122"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hkind",
-    "name_cs": "hkind",
-    "variable": "hkind",
     "dataset": "h2010",
     "label": "kinder unter 16 jahren im haushalt",
     "categories": {
@@ -11996,16 +10999,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hknra",
-    "name_cs": "hknra",
-    "variable": "hknra",
     "dataset": "h2010",
     "label": "1.kind nr. des kindes",
     "categories": {
@@ -12042,16 +11040,11 @@
       "valid": "6",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hkgeba",
-    "name_cs": "hkgeba",
-    "variable": "hkgeba",
     "dataset": "h2010",
     "label": "1.kind geburtsjahr",
     "categories": {
@@ -12104,16 +11097,11 @@
       "valid": "6",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein3a",
-    "name_cs": "hein3a",
-    "variable": "hein3a",
     "dataset": "h2010",
     "label": "1. Kind Schulbesuch",
     "categories": {
@@ -12170,16 +11158,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein4a",
-    "name_cs": "hein4a",
-    "variable": "hein4a",
     "dataset": "h2010",
     "label": "1. kind besuch keiner der einrichtungen",
     "categories": {
@@ -12212,16 +11195,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein9a",
-    "name_cs": "hein9a",
-    "variable": "hein9a",
     "dataset": "h2010",
     "label": "1. Kind ganzt\u00e4giger Schulbesuch",
     "categories": {
@@ -12254,16 +11232,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein1a",
-    "name_cs": "hein1a",
-    "variable": "hein1a",
     "dataset": "h2010",
     "label": "1. Kind Besuch Betreuungseinrichtung",
     "categories": {
@@ -12300,16 +11273,11 @@
       "valid": "6",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein1sa",
-    "name_cs": "hein1sa",
-    "variable": "hein1sa",
     "dataset": "h2010",
     "label": "1. Kind Stunden in Betreuungseinrichtung",
     "categories": {
@@ -12346,16 +11314,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbet5a",
-    "name_cs": "hbet5a",
-    "variable": "hbet5a",
     "dataset": "h2010",
     "label": "1. Kind Betreuungsperson: Tagesmutter au\u00dferhalb HH",
     "categories": {
@@ -12385,16 +11348,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet3a",
-    "name_cs": "hbet3a",
-    "variable": "hbet3a",
     "dataset": "h2010",
     "label": "1. kind betreuungspers.: bezahlte betreuungsperson",
     "categories": {
@@ -12424,16 +11382,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet1a",
-    "name_cs": "hbet1a",
-    "variable": "hbet1a",
     "dataset": "h2010",
     "label": "1. kind betreuungspers.: verwandte ausserhalb des hh",
     "categories": {
@@ -12466,16 +11419,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbet2a",
-    "name_cs": "hbet2a",
-    "variable": "hbet2a",
     "dataset": "h2010",
     "label": "1. kind betreuungspers.: freunde, bekannte, nachbarn",
     "categories": {
@@ -12505,16 +11453,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet4a",
-    "name_cs": "hbet4a",
-    "variable": "hbet4a",
     "dataset": "h2010",
     "label": "1. kind betreuungspers.: keine",
     "categories": {
@@ -12547,16 +11490,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hknrb",
-    "name_cs": "hknrb",
-    "variable": "hknrb",
     "dataset": "h2010",
     "label": "2.kind nr. des kindes",
     "categories": {
@@ -12593,16 +11531,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hkgebb",
-    "name_cs": "hkgebb",
-    "variable": "hkgebb",
     "dataset": "h2010",
     "label": "2.kind geburtsjahr",
     "categories": {
@@ -12643,16 +11576,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein3b",
-    "name_cs": "hein3b",
-    "variable": "hein3b",
     "dataset": "h2010",
     "label": "2. Kind Schulbesuch",
     "categories": {
@@ -12709,16 +11637,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein4b",
-    "name_cs": "hein4b",
-    "variable": "hein4b",
     "dataset": "h2010",
     "label": "2. kind besuch keiner der einrichtungen",
     "categories": {
@@ -12751,16 +11674,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein9b",
-    "name_cs": "hein9b",
-    "variable": "hein9b",
     "dataset": "h2010",
     "label": "2. Kind ganzt\u00e4giger Schulbesuch",
     "categories": {
@@ -12793,16 +11711,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein1b",
-    "name_cs": "hein1b",
-    "variable": "hein1b",
     "dataset": "h2010",
     "label": "2. Kind Besuch Betreuungseinrichtung",
     "categories": {
@@ -12839,16 +11752,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hein1sb",
-    "name_cs": "hein1sb",
-    "variable": "hein1sb",
     "dataset": "h2010",
     "label": "2. Kind Stunden in Betreuungseinrichtung",
     "categories": {
@@ -12889,16 +11797,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbet5b",
-    "name_cs": "hbet5b",
-    "variable": "hbet5b",
     "dataset": "h2010",
     "label": "2. Kind Betreuungsperson: Tagesmutter au\u00dferhalb HH",
     "categories": {
@@ -12928,16 +11831,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet3b",
-    "name_cs": "hbet3b",
-    "variable": "hbet3b",
     "dataset": "h2010",
     "label": "2. kind betreuungspers.: bezahlte betreuungsperson",
     "categories": {
@@ -12967,16 +11865,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet1b",
-    "name_cs": "hbet1b",
-    "variable": "hbet1b",
     "dataset": "h2010",
     "label": "2. kind betreuungspers.: verwandte ausserhalb des hh",
     "categories": {
@@ -13009,16 +11902,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hbet2b",
-    "name_cs": "hbet2b",
-    "variable": "hbet2b",
     "dataset": "h2010",
     "label": "2. kind betreuungspers.: freunde, bekannte, nachbarn",
     "categories": {
@@ -13048,16 +11936,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet4b",
-    "name_cs": "hbet4b",
-    "variable": "hbet4b",
     "dataset": "h2010",
     "label": "2. kind betreuungspers.: keine",
     "categories": {
@@ -13090,16 +11973,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hknrc",
-    "name_cs": "hknrc",
-    "variable": "hknrc",
     "dataset": "h2010",
     "label": "3.kind nr. des kindes",
     "categories": {
@@ -13125,16 +12003,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hkgebc",
-    "name_cs": "hkgebc",
-    "variable": "hkgebc",
     "dataset": "h2010",
     "label": "3.kind geburtsjahr",
     "categories": {
@@ -13160,16 +12033,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein3c",
-    "name_cs": "hein3c",
-    "variable": "hein3c",
     "dataset": "h2010",
     "label": "3. Kind Schulbesuch",
     "categories": {
@@ -13223,16 +12091,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein4c",
-    "name_cs": "hein4c",
-    "variable": "hein4c",
     "dataset": "h2010",
     "label": "3. kind besuch keiner der einrichtungen",
     "categories": {
@@ -13258,16 +12121,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein9c",
-    "name_cs": "hein9c",
-    "variable": "hein9c",
     "dataset": "h2010",
     "label": "3. Kind ganzt\u00e4giger Schulbesuch",
     "categories": {
@@ -13293,16 +12151,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein1c",
-    "name_cs": "hein1c",
-    "variable": "hein1c",
     "dataset": "h2010",
     "label": "3. Kind Besuch Betreuungseinrichtung",
     "categories": {
@@ -13336,16 +12189,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein1sc",
-    "name_cs": "hein1sc",
-    "variable": "hein1sc",
     "dataset": "h2010",
     "label": "3. Kind Stunden in Betreuungseinrichtung",
     "categories": {
@@ -13371,16 +12219,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet5c",
-    "name_cs": "hbet5c",
-    "variable": "hbet5c",
     "dataset": "h2010",
     "label": "3. Kind Betreuungsperson: Tagesmutter au\u00dferhalb HH",
     "categories": {
@@ -13410,16 +12253,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet3c",
-    "name_cs": "hbet3c",
-    "variable": "hbet3c",
     "dataset": "h2010",
     "label": "3. kind betreuungspers.: bezahlte betreuungsperson",
     "categories": {
@@ -13449,16 +12287,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet1c",
-    "name_cs": "hbet1c",
-    "variable": "hbet1c",
     "dataset": "h2010",
     "label": "3. kind betreuungspers.: verwandte ausserhalb des hh",
     "categories": {
@@ -13488,16 +12321,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet2c",
-    "name_cs": "hbet2c",
-    "variable": "hbet2c",
     "dataset": "h2010",
     "label": "3. kind betreuungspers.: freunde, bekannte, nachbarn",
     "categories": {
@@ -13527,16 +12355,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet4c",
-    "name_cs": "hbet4c",
-    "variable": "hbet4c",
     "dataset": "h2010",
     "label": "3. kind betreuungspers.: keine",
     "categories": {
@@ -13566,16 +12389,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hknrd",
-    "name_cs": "hknrd",
-    "variable": "hknrd",
     "dataset": "h2010",
     "label": "4.kind nr. des kindes",
     "categories": {
@@ -13601,16 +12419,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hkgebd",
-    "name_cs": "hkgebd",
-    "variable": "hkgebd",
     "dataset": "h2010",
     "label": "4.kind geburtsjahr",
     "categories": {
@@ -13636,16 +12449,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein3d",
-    "name_cs": "hein3d",
-    "variable": "hein3d",
     "dataset": "h2010",
     "label": "4. Kind Schulbesuch",
     "categories": {
@@ -13699,16 +12507,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein4d",
-    "name_cs": "hein4d",
-    "variable": "hein4d",
     "dataset": "h2010",
     "label": "4. kind besuch keiner der einrichtungen",
     "categories": {
@@ -13734,16 +12537,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein9d",
-    "name_cs": "hein9d",
-    "variable": "hein9d",
     "dataset": "h2010",
     "label": "4. Kind ganzt\u00e4giger Schulbesuch",
     "categories": {
@@ -13769,16 +12567,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein1d",
-    "name_cs": "hein1d",
-    "variable": "hein1d",
     "dataset": "h2010",
     "label": "4. Kind Besuch Betreuungseinrichtung",
     "categories": {
@@ -13812,16 +12605,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hein1sd",
-    "name_cs": "hein1sd",
-    "variable": "hein1sd",
     "dataset": "h2010",
     "label": "4. Kind Stunden in Betreuungseinrichtung",
     "categories": {
@@ -13847,16 +12635,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet5d",
-    "name_cs": "hbet5d",
-    "variable": "hbet5d",
     "dataset": "h2010",
     "label": "4. Kind Betreuungsperson: Tagesmutter au\u00dferhalb HH",
     "categories": {
@@ -13886,16 +12669,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet3d",
-    "name_cs": "hbet3d",
-    "variable": "hbet3d",
     "dataset": "h2010",
     "label": "4. kind betreuungspers.: bezahlte betreuungsperson",
     "categories": {
@@ -13925,16 +12703,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet1d",
-    "name_cs": "hbet1d",
-    "variable": "hbet1d",
     "dataset": "h2010",
     "label": "4. kind betreuungspers.: verwandte ausserhalb des hh",
     "categories": {
@@ -13964,16 +12737,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet2d",
-    "name_cs": "hbet2d",
-    "variable": "hbet2d",
     "dataset": "h2010",
     "label": "4. kind betreuungspers.: freunde, bekannte, nachbarn",
     "categories": {
@@ -14003,16 +12771,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hbet4d",
-    "name_cs": "hbet4d",
-    "variable": "hbet4d",
     "dataset": "h2010",
     "label": "4. kind betreuungspers.: keine",
     "categories": {
@@ -14042,16 +12805,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt01a",
-    "name_cs": "hakt01a",
-    "variable": "hakt01a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Vorschule: Kinderurnen, -sport,-schwimmen",
     "categories": {
@@ -14084,16 +12842,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt02a",
-    "name_cs": "hakt02a",
-    "variable": "hakt02a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Vorschule: Fr\u00fchkindliche Musikerziehung",
     "categories": {
@@ -14126,16 +12879,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt03a",
-    "name_cs": "hakt03a",
-    "variable": "hakt03a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Vorschule: Malen f\u00fcr Kinder",
     "categories": {
@@ -14168,16 +12916,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt04a",
-    "name_cs": "hakt04a",
-    "variable": "hakt04a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Vorschule: Sonstige Eltern-Kind-Gruppe",
     "categories": {
@@ -14210,16 +12953,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt05a",
-    "name_cs": "hakt05a",
-    "variable": "hakt05a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Vorschule: Nichts davon",
     "categories": {
@@ -14249,16 +12987,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt06a",
-    "name_cs": "hakt06a",
-    "variable": "hakt06a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Schule: Sport-AG",
     "categories": {
@@ -14288,16 +13021,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt07a",
-    "name_cs": "hakt07a",
-    "variable": "hakt07a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Schule: Musik-AG",
     "categories": {
@@ -14327,16 +13055,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt08a",
-    "name_cs": "hakt08a",
-    "variable": "hakt08a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Schule: Kunst-AG",
     "categories": {
@@ -14366,16 +13089,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt09a",
-    "name_cs": "hakt09a",
-    "variable": "hakt09a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Schule: Theater-AG",
     "categories": {
@@ -14405,16 +13123,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt10a",
-    "name_cs": "hakt10a",
-    "variable": "hakt10a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t Schule: Sonstige AG",
     "categories": {
@@ -14447,16 +13160,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt11a",
-    "name_cs": "hakt11a",
-    "variable": "hakt11a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Sport, Tanzen, Gymnastik, Ballett",
     "categories": {
@@ -14489,16 +13197,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt12a",
-    "name_cs": "hakt12a",
-    "variable": "hakt12a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Musik-, Gesangsunterricht",
     "categories": {
@@ -14531,16 +13234,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt13a",
-    "name_cs": "hakt13a",
-    "variable": "hakt13a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Kunsterziehung, Malen",
     "categories": {
@@ -14573,16 +13271,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt14a",
-    "name_cs": "hakt14a",
-    "variable": "hakt14a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Jugendfeuerwehr, Rotes Kreuz o.\u00e4. Hilfso",
     "categories": {
@@ -14612,16 +13305,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt15a",
-    "name_cs": "hakt15a",
-    "variable": "hakt15a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Jugendgruppen, z.B. Pfadfinder/Falken",
     "categories": {
@@ -14651,16 +13339,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt16a",
-    "name_cs": "hakt16a",
-    "variable": "hakt16a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Regelm\u00e4\u00dfiger Besuch von Jugendzentren/-h",
     "categories": {
@@ -14690,16 +13373,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt17a",
-    "name_cs": "hakt17a",
-    "variable": "hakt17a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Nichts davon",
     "categories": {
@@ -14729,16 +13407,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt18a",
-    "name_cs": "hakt18a",
-    "variable": "hakt18a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t: Durchschnittl. monatl. Kosten",
     "categories": {
@@ -14791,16 +13464,11 @@
       "valid": "6",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt19a",
-    "name_cs": "hakt19a",
-    "variable": "hakt19a",
     "dataset": "h2010",
     "label": "1. Kind Aktivit\u00e4t: Keine Kosten",
     "categories": {
@@ -14830,16 +13498,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt01b",
-    "name_cs": "hakt01b",
-    "variable": "hakt01b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Vorschule: Kinderurnen, -sport,-schwimmen",
     "categories": {
@@ -14869,16 +13532,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt02b",
-    "name_cs": "hakt02b",
-    "variable": "hakt02b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Vorschule: Fr\u00fchkindliche Musikerziehung",
     "categories": {
@@ -14911,16 +13569,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt03b",
-    "name_cs": "hakt03b",
-    "variable": "hakt03b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Vorschule: Malen f\u00fcr Kinder",
     "categories": {
@@ -14953,16 +13606,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt04b",
-    "name_cs": "hakt04b",
-    "variable": "hakt04b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Vorschule: Sonstige Eltern-Kind-Gruppe",
     "categories": {
@@ -14992,16 +13640,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt05b",
-    "name_cs": "hakt05b",
-    "variable": "hakt05b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Vorschule: Nichts davon",
     "categories": {
@@ -15034,16 +13677,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt06b",
-    "name_cs": "hakt06b",
-    "variable": "hakt06b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Schule: Sport-AG",
     "categories": {
@@ -15073,16 +13711,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt07b",
-    "name_cs": "hakt07b",
-    "variable": "hakt07b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Schule: Musik-AG",
     "categories": {
@@ -15112,16 +13745,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt08b",
-    "name_cs": "hakt08b",
-    "variable": "hakt08b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Schule: Kunst-AG",
     "categories": {
@@ -15151,16 +13779,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt09b",
-    "name_cs": "hakt09b",
-    "variable": "hakt09b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Schule: Theater-AG",
     "categories": {
@@ -15190,16 +13813,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt10b",
-    "name_cs": "hakt10b",
-    "variable": "hakt10b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t Schule: Sonstige AG",
     "categories": {
@@ -15229,16 +13847,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt11b",
-    "name_cs": "hakt11b",
-    "variable": "hakt11b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Sport, Tanzen, Gymnastik, Ballett",
     "categories": {
@@ -15268,16 +13881,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt12b",
-    "name_cs": "hakt12b",
-    "variable": "hakt12b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Musik-, Gesangsunterricht",
     "categories": {
@@ -15310,16 +13918,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt13b",
-    "name_cs": "hakt13b",
-    "variable": "hakt13b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Kunsterziehung, Malen",
     "categories": {
@@ -15349,16 +13952,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt14b",
-    "name_cs": "hakt14b",
-    "variable": "hakt14b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Jugendfeuerwehr, Rotes Kreuz o.\u00e4. Hilfso",
     "categories": {
@@ -15388,16 +13986,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt15b",
-    "name_cs": "hakt15b",
-    "variable": "hakt15b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Jugendgruppen, z.B. Pfadfinder/Falken",
     "categories": {
@@ -15427,16 +14020,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt16b",
-    "name_cs": "hakt16b",
-    "variable": "hakt16b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Regelm\u00e4\u00dfiger Besuch von Jugendzentren/-h",
     "categories": {
@@ -15466,16 +14054,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt17b",
-    "name_cs": "hakt17b",
-    "variable": "hakt17b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Nichts davon",
     "categories": {
@@ -15505,16 +14088,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt18b",
-    "name_cs": "hakt18b",
-    "variable": "hakt18b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t: Durchschnittl. monatl. Kosten",
     "categories": {
@@ -15547,16 +14125,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt19b",
-    "name_cs": "hakt19b",
-    "variable": "hakt19b",
     "dataset": "h2010",
     "label": "2. Kind Aktivit\u00e4t: Keine Kosten",
     "categories": {
@@ -15589,16 +14162,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hakt01c",
-    "name_cs": "hakt01c",
-    "variable": "hakt01c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Vorschule: Kinderurnen, -sport,-schwimmen",
     "categories": {
@@ -15628,16 +14196,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt02c",
-    "name_cs": "hakt02c",
-    "variable": "hakt02c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Vorschule: Fr\u00fchkindliche Musikerziehung",
     "categories": {
@@ -15667,16 +14230,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt03c",
-    "name_cs": "hakt03c",
-    "variable": "hakt03c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Vorschule: Malen f\u00fcr Kinder",
     "categories": {
@@ -15706,16 +14264,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt04c",
-    "name_cs": "hakt04c",
-    "variable": "hakt04c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Vorschule: Sonstige Eltern-Kind-Gruppe",
     "categories": {
@@ -15745,16 +14298,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt05c",
-    "name_cs": "hakt05c",
-    "variable": "hakt05c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Vorschule: Nichts davon",
     "categories": {
@@ -15784,16 +14332,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt06c",
-    "name_cs": "hakt06c",
-    "variable": "hakt06c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Schule: Sport-AG",
     "categories": {
@@ -15823,16 +14366,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt07c",
-    "name_cs": "hakt07c",
-    "variable": "hakt07c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Schule: Musik-AG",
     "categories": {
@@ -15862,16 +14400,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt08c",
-    "name_cs": "hakt08c",
-    "variable": "hakt08c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Schule: Kunst-AG",
     "categories": {
@@ -15901,16 +14434,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt09c",
-    "name_cs": "hakt09c",
-    "variable": "hakt09c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Schule: Theater-AG",
     "categories": {
@@ -15940,16 +14468,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt10c",
-    "name_cs": "hakt10c",
-    "variable": "hakt10c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t Schule: Sonstige AG",
     "categories": {
@@ -15979,16 +14502,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt11c",
-    "name_cs": "hakt11c",
-    "variable": "hakt11c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Sport, Tanzen, Gymnastik, Ballett",
     "categories": {
@@ -16018,16 +14536,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt12c",
-    "name_cs": "hakt12c",
-    "variable": "hakt12c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Musik-, Gesangsunterricht",
     "categories": {
@@ -16057,16 +14570,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt13c",
-    "name_cs": "hakt13c",
-    "variable": "hakt13c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Kunsterziehung, Malen",
     "categories": {
@@ -16096,16 +14604,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt14c",
-    "name_cs": "hakt14c",
-    "variable": "hakt14c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Jugendfeuerwehr, Rotes Kreuz o.\u00e4. Hilfso",
     "categories": {
@@ -16135,16 +14638,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt15c",
-    "name_cs": "hakt15c",
-    "variable": "hakt15c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Jugendgruppen, z.B. Pfadfinder/Falken",
     "categories": {
@@ -16174,16 +14672,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt16c",
-    "name_cs": "hakt16c",
-    "variable": "hakt16c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Regelm\u00e4\u00dfiger Besuch von Jugendzentren/-h",
     "categories": {
@@ -16213,16 +14706,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt17c",
-    "name_cs": "hakt17c",
-    "variable": "hakt17c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Nichts davon",
     "categories": {
@@ -16252,16 +14740,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt18c",
-    "name_cs": "hakt18c",
-    "variable": "hakt18c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t: Durchschnittl. monatl. Kosten",
     "categories": {
@@ -16287,16 +14770,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt19c",
-    "name_cs": "hakt19c",
-    "variable": "hakt19c",
     "dataset": "h2010",
     "label": "3. Kind Aktivit\u00e4t: Keine Kosten",
     "categories": {
@@ -16326,16 +14804,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt01d",
-    "name_cs": "hakt01d",
-    "variable": "hakt01d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Vorschule: Kinderurnen, -sport,-schwimmen",
     "categories": {
@@ -16365,16 +14838,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt02d",
-    "name_cs": "hakt02d",
-    "variable": "hakt02d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Vorschule: Fr\u00fchkindliche Musikerziehung",
     "categories": {
@@ -16404,16 +14872,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt03d",
-    "name_cs": "hakt03d",
-    "variable": "hakt03d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Vorschule: Malen f\u00fcr Kinder",
     "categories": {
@@ -16443,16 +14906,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt04d",
-    "name_cs": "hakt04d",
-    "variable": "hakt04d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Vorschule: Sonstige Eltern-Kind-Gruppe",
     "categories": {
@@ -16482,16 +14940,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt05d",
-    "name_cs": "hakt05d",
-    "variable": "hakt05d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Vorschule: Nichts davon",
     "categories": {
@@ -16521,16 +14974,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt06d",
-    "name_cs": "hakt06d",
-    "variable": "hakt06d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Schule: Sport-AG",
     "categories": {
@@ -16560,16 +15008,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt07d",
-    "name_cs": "hakt07d",
-    "variable": "hakt07d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Schule: Musik-AG",
     "categories": {
@@ -16599,16 +15042,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt08d",
-    "name_cs": "hakt08d",
-    "variable": "hakt08d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Schule: Kunst-AG",
     "categories": {
@@ -16638,16 +15076,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt09d",
-    "name_cs": "hakt09d",
-    "variable": "hakt09d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Schule: Theater-AG",
     "categories": {
@@ -16677,16 +15110,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt10d",
-    "name_cs": "hakt10d",
-    "variable": "hakt10d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t Schule: Sonstige AG",
     "categories": {
@@ -16716,16 +15144,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt11d",
-    "name_cs": "hakt11d",
-    "variable": "hakt11d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Sport, Tanzen, Gymnastik, Ballett",
     "categories": {
@@ -16755,16 +15178,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt12d",
-    "name_cs": "hakt12d",
-    "variable": "hakt12d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Musik-, Gesangsunterricht",
     "categories": {
@@ -16794,16 +15212,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt13d",
-    "name_cs": "hakt13d",
-    "variable": "hakt13d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Kunsterziehung, Malen",
     "categories": {
@@ -16833,16 +15246,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt14d",
-    "name_cs": "hakt14d",
-    "variable": "hakt14d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Jugendfeuerwehr, Rotes Kreuz o.\u00e4. Hilfso",
     "categories": {
@@ -16872,16 +15280,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt15d",
-    "name_cs": "hakt15d",
-    "variable": "hakt15d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Jugendgruppen, z.B. Pfadfinder/Falken",
     "categories": {
@@ -16911,16 +15314,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt16d",
-    "name_cs": "hakt16d",
-    "variable": "hakt16d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Regelm\u00e4\u00dfiger Besuch von Jugendzentren/-h",
     "categories": {
@@ -16950,16 +15348,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt17d",
-    "name_cs": "hakt17d",
-    "variable": "hakt17d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t au\u00dferhalb der Schule: Nichts davon",
     "categories": {
@@ -16989,16 +15382,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt18d",
-    "name_cs": "hakt18d",
-    "variable": "hakt18d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t: Durchschnittl. monatl. Kosten",
     "categories": {
@@ -17024,16 +15412,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hakt19d",
-    "name_cs": "hakt19d",
-    "variable": "hakt19d",
     "dataset": "h2010",
     "label": "4. Kind Aktivit\u00e4t: Keine Kosten",
     "categories": {
@@ -17063,16 +15446,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi01",
-    "name_cs": "hi01",
-    "variable": "hi01",
     "dataset": "h2010",
     "label": "Auto im HH vorhanden",
     "categories": {
@@ -17105,16 +15483,11 @@
       "valid": "65",
       "invalid": "71"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi01a",
-    "name_cs": "hi01a",
-    "variable": "hi01a",
     "dataset": "h2010",
     "label": "Auto im letzten Jahr gekauft",
     "categories": {
@@ -17147,16 +15520,11 @@
       "valid": "7",
       "invalid": "129"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi01b",
-    "name_cs": "hi01b",
-    "variable": "hi01b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Auto im letzten Jahr gekauft",
     "categories": {
@@ -17209,16 +15577,11 @@
       "valid": "6",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi01c",
-    "name_cs": "hi01c",
-    "variable": "hi01c",
     "dataset": "h2010",
     "label": "Inanspruchnahme Abwrackpr\u00e4mie",
     "categories": {
@@ -17255,16 +15618,11 @@
       "valid": "44",
       "invalid": "92"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi02",
-    "name_cs": "hi02",
-    "variable": "hi02",
     "dataset": "h2010",
     "label": "Motorad/Moped im HH vorhanden",
     "categories": {
@@ -17297,16 +15655,11 @@
       "valid": "8",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi02a",
-    "name_cs": "hi02a",
-    "variable": "hi02a",
     "dataset": "h2010",
     "label": "Motorad/Moped im letzten Jahr gekauft",
     "categories": {
@@ -17336,16 +15689,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi02b",
-    "name_cs": "hi02b",
-    "variable": "hi02b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Motorad/Moped im letzten Jahr gekauft",
     "categories": {
@@ -17371,16 +15719,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi09",
-    "name_cs": "hi09",
-    "variable": "hi09",
     "dataset": "h2010",
     "label": "Mikrowelle im HH vorhanden",
     "categories": {
@@ -17413,16 +15756,11 @@
       "valid": "60",
       "invalid": "76"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi09a",
-    "name_cs": "hi09a",
-    "variable": "hi09a",
     "dataset": "h2010",
     "label": "Mikrowelle im letzten Jahr gekauft",
     "categories": {
@@ -17455,16 +15793,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi09b",
-    "name_cs": "hi09b",
-    "variable": "hi09b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Mikrowelle im letzten Jahr gekauft",
     "categories": {
@@ -17505,16 +15838,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi10",
-    "name_cs": "hi10",
-    "variable": "hi10",
     "dataset": "h2010",
     "label": "Geschirrsp\u00fclmaschine im HH vorhanden",
     "categories": {
@@ -17547,16 +15875,11 @@
       "valid": "77",
       "invalid": "59"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi10a",
-    "name_cs": "hi10a",
-    "variable": "hi10a",
     "dataset": "h2010",
     "label": "Geschirrsp\u00fclmaschine im letzten Jahr gekauft",
     "categories": {
@@ -17589,16 +15912,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi10b",
-    "name_cs": "hi10b",
-    "variable": "hi10b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Geschirrsp\u00fclmaschine im letzten Jahr gekauft",
     "categories": {
@@ -17659,16 +15977,11 @@
       "valid": "10",
       "invalid": "126"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi18",
-    "name_cs": "hi18",
-    "variable": "hi18",
     "dataset": "h2010",
     "label": "Tiefk\u00fchlschrank im HH vorhanden",
     "categories": {
@@ -17701,16 +16014,11 @@
       "valid": "86",
       "invalid": "50"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi18a",
-    "name_cs": "hi18a",
-    "variable": "hi18a",
     "dataset": "h2010",
     "label": "Tiefk\u00fchlschrank im letzten Jahr gekauft",
     "categories": {
@@ -17743,16 +16051,11 @@
       "valid": "6",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi18b",
-    "name_cs": "hi18b",
-    "variable": "hi18b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Tiefk\u00fchlschrank im letzten Jahr gekauft",
     "categories": {
@@ -17789,16 +16092,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi11",
-    "name_cs": "hi11",
-    "variable": "hi11",
     "dataset": "h2010",
     "label": "Waschmaschine im HH vorhanden",
     "categories": {
@@ -17831,16 +16129,11 @@
       "valid": "117",
       "invalid": "19"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi11a",
-    "name_cs": "hi11a",
-    "variable": "hi11a",
     "dataset": "h2010",
     "label": "Waschmaschine im letzten Jahr gekauft",
     "categories": {
@@ -17873,16 +16166,11 @@
       "valid": "10",
       "invalid": "126"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi11b",
-    "name_cs": "hi11b",
-    "variable": "hi11b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Waschmaschine im letzten Jahr gekauft",
     "categories": {
@@ -17943,16 +16231,11 @@
       "valid": "8",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi19",
-    "name_cs": "hi19",
-    "variable": "hi19",
     "dataset": "h2010",
     "label": "W\u00e4schetrockner im HH vorhanden",
     "categories": {
@@ -17985,16 +16268,11 @@
       "valid": "17",
       "invalid": "119"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi19a",
-    "name_cs": "hi19a",
-    "variable": "hi19a",
     "dataset": "h2010",
     "label": "W\u00e4schetrockner im letzten Jahr gekauft",
     "categories": {
@@ -18027,16 +16305,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi19b",
-    "name_cs": "hi19b",
-    "variable": "hi19b",
     "dataset": "h2010",
     "label": "Gesamtbetrag W\u00e4schetrockner im letzten Jahr gekauft",
     "categories": {
@@ -18069,16 +16342,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi06",
-    "name_cs": "hi06",
-    "variable": "hi06",
     "dataset": "h2010",
     "label": "Stereoanlage im HH vorhanden",
     "categories": {
@@ -18111,16 +16379,11 @@
       "valid": "81",
       "invalid": "55"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi06a",
-    "name_cs": "hi06a",
-    "variable": "hi06a",
     "dataset": "h2010",
     "label": "Stereoanlage im letzten Jahr gekauft",
     "categories": {
@@ -18153,16 +16416,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi06b",
-    "name_cs": "hi06b",
-    "variable": "hi06b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Stereoanlage im letzten Jahr gekauft",
     "categories": {
@@ -18188,16 +16446,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi03",
-    "name_cs": "hi03",
-    "variable": "hi03",
     "dataset": "h2010",
     "label": "Farbfernseher im HH vorhanden",
     "categories": {
@@ -18230,16 +16483,11 @@
       "valid": "111",
       "invalid": "25"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi03a",
-    "name_cs": "hi03a",
-    "variable": "hi03a",
     "dataset": "h2010",
     "label": "Farbfernseher im letzten Jahr gekauft",
     "categories": {
@@ -18272,16 +16520,11 @@
       "valid": "14",
       "invalid": "122"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi03b",
-    "name_cs": "hi03b",
-    "variable": "hi03b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Farbfernseher im letzten Jahr gekauft",
     "categories": {
@@ -18354,16 +16597,11 @@
       "valid": "11",
       "invalid": "125"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi05",
-    "name_cs": "hi05",
-    "variable": "hi05",
     "dataset": "h2010",
     "label": "DVD-Spieler ohne Recorder im HH vorhanden",
     "categories": {
@@ -18396,16 +16634,11 @@
       "valid": "55",
       "invalid": "81"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi05a",
-    "name_cs": "hi05a",
-    "variable": "hi05a",
     "dataset": "h2010",
     "label": "DVD-Spieler ohne Recorder im letzten Jahr gekauft",
     "categories": {
@@ -18438,16 +16671,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi05b",
-    "name_cs": "hi05b",
-    "variable": "hi05b",
     "dataset": "h2010",
     "label": "Gesamtbetrag DVD-Spieler ohne Recorder im letzten Jahr gekauft",
     "categories": {
@@ -18488,16 +16716,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi16",
-    "name_cs": "hi16",
-    "variable": "hi16",
     "dataset": "h2010",
     "label": "DVD-Recorder im HH vorhanden",
     "categories": {
@@ -18530,16 +16753,11 @@
       "valid": "28",
       "invalid": "108"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi16a",
-    "name_cs": "hi16a",
-    "variable": "hi16a",
     "dataset": "h2010",
     "label": "DVD-Recorder im letzten Jahr gekauft",
     "categories": {
@@ -18572,16 +16790,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi16b",
-    "name_cs": "hi16b",
-    "variable": "hi16b",
     "dataset": "h2010",
     "label": "Gesamtbetrag DVD-Recorder im letzten Jahr gekauft",
     "categories": {
@@ -18618,16 +16831,11 @@
       "valid": "2",
       "invalid": "134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi07",
-    "name_cs": "hi07",
-    "variable": "hi07",
     "dataset": "h2010",
     "label": "PC/laptop im HH vorhanden",
     "categories": {
@@ -18660,16 +16868,11 @@
       "valid": "93",
       "invalid": "43"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi07a",
-    "name_cs": "hi07a",
-    "variable": "hi07a",
     "dataset": "h2010",
     "label": "PC/laptop im letzten Jahr gekauft",
     "categories": {
@@ -18702,16 +16905,11 @@
       "valid": "19",
       "invalid": "117"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi07b",
-    "name_cs": "hi07b",
-    "variable": "hi07b",
     "dataset": "h2010",
     "label": "Gesamtbetrag PC/laptop im letzten Jahr gekauft",
     "categories": {
@@ -18796,16 +16994,11 @@
       "valid": "18",
       "invalid": "118"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi17",
-    "name_cs": "hi17",
-    "variable": "hi17",
     "dataset": "h2010",
     "label": "Breitband-Internetanschluss im HH vorhanden",
     "categories": {
@@ -18838,16 +17031,11 @@
       "valid": "84",
       "invalid": "52"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi17a",
-    "name_cs": "hi17a",
-    "variable": "hi17a",
     "dataset": "h2010",
     "label": "Breitband-Internetanschluss im letzten Jahr gekauft",
     "categories": {
@@ -18880,16 +17068,11 @@
       "valid": "7",
       "invalid": "129"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi17b",
-    "name_cs": "hi17b",
-    "variable": "hi17b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Breitband-Internetanschluss im letzten Jahr gekauft",
     "categories": {
@@ -18938,16 +17121,11 @@
       "valid": "5",
       "invalid": "131"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi08",
-    "name_cs": "hi08",
-    "variable": "hi08",
     "dataset": "h2010",
     "label": "Anderer, langsamer Internetanschluss im HH vorhanden",
     "categories": {
@@ -18980,16 +17158,11 @@
       "valid": "8",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi08a",
-    "name_cs": "hi08a",
-    "variable": "hi08a",
     "dataset": "h2010",
     "label": "Anderer, langsamer Internetanschluss im letzten Jahr gekauft",
     "categories": {
@@ -19019,16 +17192,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi08b",
-    "name_cs": "hi08b",
-    "variable": "hi08b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Anderer, langsamer Internetanschluss im letzten Jahr gekauft",
     "categories": {
@@ -19054,16 +17222,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi12",
-    "name_cs": "hi12",
-    "variable": "hi12",
     "dataset": "h2010",
     "label": "Telefon (Festnetz) im HH vorhanden",
     "categories": {
@@ -19096,16 +17259,11 @@
       "valid": "114",
       "invalid": "22"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi12a",
-    "name_cs": "hi12a",
-    "variable": "hi12a",
     "dataset": "h2010",
     "label": "Telefon (Festnetz) im letzten Jahr gekauft",
     "categories": {
@@ -19138,16 +17296,11 @@
       "valid": "6",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi12b",
-    "name_cs": "hi12b",
-    "variable": "hi12b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Telefon (Festnetz) im letzten Jahr gekauft",
     "categories": {
@@ -19192,16 +17345,11 @@
       "valid": "4",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi13",
-    "name_cs": "hi13",
-    "variable": "hi13",
     "dataset": "h2010",
     "label": "Handy (Mobiltelefon) im HH vorhanden",
     "categories": {
@@ -19234,16 +17382,11 @@
       "valid": "112",
       "invalid": "24"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi13a",
-    "name_cs": "hi13a",
-    "variable": "hi13a",
     "dataset": "h2010",
     "label": "Handy (Mobiltelefon) im letzten Jahr gekauft",
     "categories": {
@@ -19276,16 +17419,11 @@
       "valid": "6",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi13b",
-    "name_cs": "hi13b",
-    "variable": "hi13b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Handy (Mobiltelefon)  im letzten Jahr gekauft",
     "categories": {
@@ -19326,16 +17464,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi14",
-    "name_cs": "hi14",
-    "variable": "hi14",
     "dataset": "h2010",
     "label": "Faxger\u00e4t im HH vorhanden",
     "categories": {
@@ -19368,16 +17501,11 @@
       "valid": "28",
       "invalid": "108"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi14a",
-    "name_cs": "hi14a",
-    "variable": "hi14a",
     "dataset": "h2010",
     "label": "Faxger\u00e4t im letzten Jahr gekauft",
     "categories": {
@@ -19407,16 +17535,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi14b",
-    "name_cs": "hi14b",
-    "variable": "hi14b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Faxger\u00e4t  im letzten Jahr gekauft",
     "categories": {
@@ -19442,16 +17565,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi15",
-    "name_cs": "hi15",
-    "variable": "hi15",
     "dataset": "h2010",
     "label": "ISDN-Anschluss im HH vorhanden",
     "categories": {
@@ -19484,16 +17602,11 @@
       "valid": "34",
       "invalid": "102"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi15a",
-    "name_cs": "hi15a",
-    "variable": "hi15a",
     "dataset": "h2010",
     "label": "ISDN-Anschluss im letzten Jahr gekauft",
     "categories": {
@@ -19526,16 +17639,11 @@
       "valid": "1",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi15b",
-    "name_cs": "hi15b",
-    "variable": "hi15b",
     "dataset": "h2010",
     "label": "Gesamtbetrag ISDN-Anschluss  im letzten Jahr gekauft",
     "categories": {
@@ -19561,16 +17669,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi20",
-    "name_cs": "hi20",
-    "variable": "hi20",
     "dataset": "h2010",
     "label": "Ferienhaus/Ferienwohnung im HH vorhanden",
     "categories": {
@@ -19603,16 +17706,11 @@
       "valid": "3",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hi20a",
-    "name_cs": "hi20a",
-    "variable": "hi20a",
     "dataset": "h2010",
     "label": "Ferienhaus/Ferienwohnung im letzten Jahr gekauft",
     "categories": {
@@ -19642,16 +17740,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hi20b",
-    "name_cs": "hi20b",
-    "variable": "hi20b",
     "dataset": "h2010",
     "label": "Gesamtbetrag Ferienhaus/Ferienwohnung  im letzten Jahr gekauft",
     "categories": {
@@ -19677,16 +17770,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus01a",
-    "name_cs": "haus01a",
-    "variable": "haus01a",
     "dataset": "h2010",
     "label": "Ausgaben Lebensmittel, Nahrungsmittel zu Hause",
     "categories": {
@@ -19723,16 +17811,11 @@
       "valid": "131",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus01b",
-    "name_cs": "haus01b",
-    "variable": "haus01b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Lebensmittel, Nahrungsmittel zu Hause",
     "categories": {
@@ -19877,16 +17960,11 @@
       "valid": "110",
       "invalid": "26"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus01c",
-    "name_cs": "haus01c",
-    "variable": "haus01c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Lebensmittel, Nahrungsmittel zu Hause",
     "categories": {
@@ -20003,16 +18081,11 @@
       "valid": "30",
       "invalid": "106"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus01ka",
-    "name_cs": "haus01ka",
-    "variable": "haus01ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Lebensmittel, Nahrungsmittel zu Hause",
     "categories": {
@@ -20038,16 +18111,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus02a",
-    "name_cs": "haus02a",
-    "variable": "haus02a",
     "dataset": "h2010",
     "label": "Ausgaben Speisen/Getr\u00e4nke au\u00dfer Haus",
     "categories": {
@@ -20084,16 +18152,11 @@
       "valid": "128",
       "invalid": "8"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus02b",
-    "name_cs": "haus02b",
-    "variable": "haus02b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Speisen/Getr\u00e4nke au\u00dfer Haus",
     "categories": {
@@ -20190,16 +18253,11 @@
       "valid": "77",
       "invalid": "59"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus02c",
-    "name_cs": "haus02c",
-    "variable": "haus02c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Speisen/Getr\u00e4nke au\u00dfer Haus",
     "categories": {
@@ -20332,16 +18390,11 @@
       "valid": "37",
       "invalid": "99"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus02ka",
-    "name_cs": "haus02ka",
-    "variable": "haus02ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Speisen/Getr\u00e4nke au\u00dfer Haus",
     "categories": {
@@ -20367,16 +18420,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus03a",
-    "name_cs": "haus03a",
-    "variable": "haus03a",
     "dataset": "h2010",
     "label": "Ausgaben Bekleidung/Schuhe",
     "categories": {
@@ -20413,16 +18461,11 @@
       "valid": "131",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus03b",
-    "name_cs": "haus03b",
-    "variable": "haus03b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Bekleidung/Schuhe",
     "categories": {
@@ -20515,16 +18558,11 @@
       "valid": "61",
       "invalid": "75"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus03c",
-    "name_cs": "haus03c",
-    "variable": "haus03c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Bekleidung/Schuhe",
     "categories": {
@@ -20677,16 +18715,11 @@
       "valid": "70",
       "invalid": "66"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus03ka",
-    "name_cs": "haus03ka",
-    "variable": "haus03ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Bekleidung/Schuhe",
     "categories": {
@@ -20712,16 +18745,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus04a",
-    "name_cs": "haus04a",
-    "variable": "haus04a",
     "dataset": "h2010",
     "label": "Ausgaben Koerperpflege/Kosmetik",
     "categories": {
@@ -20758,16 +18786,11 @@
       "valid": "131",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus04b",
-    "name_cs": "haus04b",
-    "variable": "haus04b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Koerperpflege/Kosmetik",
     "categories": {
@@ -20872,16 +18895,11 @@
       "valid": "86",
       "invalid": "50"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus04c",
-    "name_cs": "haus04c",
-    "variable": "haus04c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Koerperpflege/Kosmetik",
     "categories": {
@@ -21006,16 +19024,11 @@
       "valid": "49",
       "invalid": "87"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus04ka",
-    "name_cs": "haus04ka",
-    "variable": "haus04ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Koerperpflege/Kosmetik",
     "categories": {
@@ -21041,16 +19054,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus05a",
-    "name_cs": "haus05a",
-    "variable": "haus05a",
     "dataset": "h2010",
     "label": "Ausgaben Gesundheit",
     "categories": {
@@ -21087,16 +19095,11 @@
       "valid": "128",
       "invalid": "8"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus05b",
-    "name_cs": "haus05b",
-    "variable": "haus05b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Gesundheit",
     "categories": {
@@ -21205,16 +19208,11 @@
       "valid": "62",
       "invalid": "74"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus05c",
-    "name_cs": "haus05c",
-    "variable": "haus05c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Gesundheit",
     "categories": {
@@ -21371,16 +19369,11 @@
       "valid": "66",
       "invalid": "70"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus05ka",
-    "name_cs": "haus05ka",
-    "variable": "haus05ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Gesundheit",
     "categories": {
@@ -21406,16 +19399,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus06a",
-    "name_cs": "haus06a",
-    "variable": "haus06a",
     "dataset": "h2010",
     "label": "Ausgaben Telekommunikation",
     "categories": {
@@ -21452,16 +19440,11 @@
       "valid": "131",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus06b",
-    "name_cs": "haus06b",
-    "variable": "haus06b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Telekommunikation",
     "categories": {
@@ -21582,16 +19565,11 @@
       "valid": "102",
       "invalid": "34"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus06c",
-    "name_cs": "haus06c",
-    "variable": "haus06c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Telekommunikation",
     "categories": {
@@ -21716,16 +19694,11 @@
       "valid": "35",
       "invalid": "101"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus06ka",
-    "name_cs": "haus06ka",
-    "variable": "haus06ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Telekommunikation",
     "categories": {
@@ -21751,16 +19724,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus07a",
-    "name_cs": "haus07a",
-    "variable": "haus07a",
     "dataset": "h2010",
     "label": "Ausgaben Bildung/Weiterbildung",
     "categories": {
@@ -21797,16 +19765,11 @@
       "valid": "122",
       "invalid": "14"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus07b",
-    "name_cs": "haus07b",
-    "variable": "haus07b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Bildung/Weiterbildung",
     "categories": {
@@ -21887,16 +19850,11 @@
       "valid": "28",
       "invalid": "108"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus07c",
-    "name_cs": "haus07c",
-    "variable": "haus07c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Bildung/Weiterbildung",
     "categories": {
@@ -21993,16 +19951,11 @@
       "valid": "25",
       "invalid": "111"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus07ka",
-    "name_cs": "haus07ka",
-    "variable": "haus07ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Bildung/Weiterbildung",
     "categories": {
@@ -22028,16 +19981,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus08a",
-    "name_cs": "haus08a",
-    "variable": "haus08a",
     "dataset": "h2010",
     "label": "Ausgaben Kultur",
     "categories": {
@@ -22074,16 +20022,11 @@
       "valid": "129",
       "invalid": "7"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus08b",
-    "name_cs": "haus08b",
-    "variable": "haus08b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Kultur",
     "categories": {
@@ -22164,16 +20107,11 @@
       "valid": "64",
       "invalid": "72"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus08c",
-    "name_cs": "haus08c",
-    "variable": "haus08c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Kultur",
     "categories": {
@@ -22298,16 +20236,11 @@
       "valid": "50",
       "invalid": "86"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus08ka",
-    "name_cs": "haus08ka",
-    "variable": "haus08ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Kultur",
     "categories": {
@@ -22333,16 +20266,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus09a",
-    "name_cs": "haus09a",
-    "variable": "haus09a",
     "dataset": "h2010",
     "label": "Ausgaben Freizeit, Hobbies, Sport, Garten, Tiere",
     "categories": {
@@ -22379,16 +20307,11 @@
       "valid": "127",
       "invalid": "9"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus09b",
-    "name_cs": "haus09b",
-    "variable": "haus09b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Freizeit, Hobbies, Sport, Garten, Tiere",
     "categories": {
@@ -22481,16 +20404,11 @@
       "valid": "55",
       "invalid": "81"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus09c",
-    "name_cs": "haus09c",
-    "variable": "haus09c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Freizeit, Hobbies, Sport, Garten, Tiere",
     "categories": {
@@ -22619,16 +20537,11 @@
       "valid": "42",
       "invalid": "94"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus09ka",
-    "name_cs": "haus09ka",
-    "variable": "haus09ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Freizeit, Hobbies, Sport, Garten, Tiere",
     "categories": {
@@ -22654,16 +20567,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus10a",
-    "name_cs": "haus10a",
-    "variable": "haus10a",
     "dataset": "h2010",
     "label": "Ausgaben Urlaubsreisen",
     "categories": {
@@ -22700,16 +20608,11 @@
       "valid": "125",
       "invalid": "11"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus10b",
-    "name_cs": "haus10b",
-    "variable": "haus10b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Urlaubsreisen",
     "categories": {
@@ -22790,16 +20693,11 @@
       "valid": "18",
       "invalid": "118"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus10c",
-    "name_cs": "haus10c",
-    "variable": "haus10c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Urlaubsreisen",
     "categories": {
@@ -22952,16 +20850,11 @@
       "valid": "83",
       "invalid": "53"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus10ka",
-    "name_cs": "haus10ka",
-    "variable": "haus10ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Urlaubsreisen",
     "categories": {
@@ -22987,16 +20880,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus11a",
-    "name_cs": "haus11a",
-    "variable": "haus11a",
     "dataset": "h2010",
     "label": "Ausgaben Lebensversicherung, private Rentenversicherung",
     "categories": {
@@ -23033,16 +20921,11 @@
       "valid": "119",
       "invalid": "17"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus11b",
-    "name_cs": "haus11b",
-    "variable": "haus11b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Lebensversicherung, private Rentenversicherung",
     "categories": {
@@ -23135,16 +21018,11 @@
       "valid": "24",
       "invalid": "112"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus11c",
-    "name_cs": "haus11c",
-    "variable": "haus11c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Lebensversicherung, private Rentenversicherung",
     "categories": {
@@ -23229,16 +21107,11 @@
       "valid": "16",
       "invalid": "120"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus11ka",
-    "name_cs": "haus11ka",
-    "variable": "haus11ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Lebensversicherung, private Rentenversicherung",
     "categories": {
@@ -23264,16 +21137,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus12a",
-    "name_cs": "haus12a",
-    "variable": "haus12a",
     "dataset": "h2010",
     "label": "Ausgaben andere Versicherungen",
     "categories": {
@@ -23310,16 +21178,11 @@
       "valid": "129",
       "invalid": "7"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus12b",
-    "name_cs": "haus12b",
-    "variable": "haus12b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat andere Versicherungen",
     "categories": {
@@ -23436,16 +21299,11 @@
       "valid": "40",
       "invalid": "96"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus12c",
-    "name_cs": "haus12c",
-    "variable": "haus12c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr andere Versicherungen",
     "categories": {
@@ -23670,16 +21528,11 @@
       "valid": "75",
       "invalid": "61"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus12ka",
-    "name_cs": "haus12ka",
-    "variable": "haus12ka",
     "dataset": "h2010",
     "label": "KA Ausgaben andere Versicherungen",
     "categories": {
@@ -23705,16 +21558,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus13a",
-    "name_cs": "haus13a",
-    "variable": "haus13a",
     "dataset": "h2010",
     "label": "Ausgaben KFZ-Reparaturen",
     "categories": {
@@ -23751,16 +21599,11 @@
       "valid": "122",
       "invalid": "14"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus13b",
-    "name_cs": "haus13b",
-    "variable": "haus13b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat KFZ-Reparaturen",
     "categories": {
@@ -23821,16 +21664,11 @@
       "valid": "13",
       "invalid": "123"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus13c",
-    "name_cs": "haus13c",
-    "variable": "haus13c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr KFZ-Reparaturen",
     "categories": {
@@ -23939,16 +21777,11 @@
       "valid": "43",
       "invalid": "93"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus13ka",
-    "name_cs": "haus13ka",
-    "variable": "haus13ka",
     "dataset": "h2010",
     "label": "KA Ausgaben KFZ-Reparaturen",
     "categories": {
@@ -23974,16 +21807,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus14a",
-    "name_cs": "haus14a",
-    "variable": "haus14a",
     "dataset": "h2010",
     "label": "Ausgaben Verkehrsmittel",
     "categories": {
@@ -24020,16 +21848,11 @@
       "valid": "129",
       "invalid": "7"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus14b",
-    "name_cs": "haus14b",
-    "variable": "haus14b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat Verkehrsmittel",
     "categories": {
@@ -24162,16 +21985,11 @@
       "valid": "67",
       "invalid": "69"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus14c",
-    "name_cs": "haus14c",
-    "variable": "haus14c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr Verkehrsmittel",
     "categories": {
@@ -24360,16 +22178,11 @@
       "valid": "56",
       "invalid": "80"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus14ka",
-    "name_cs": "haus14ka",
-    "variable": "haus14ka",
     "dataset": "h2010",
     "label": "KA Ausgaben Verkehrsmittel",
     "categories": {
@@ -24395,16 +22208,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus15a",
-    "name_cs": "haus15a",
-    "variable": "haus15a",
     "dataset": "h2010",
     "label": "Ausgaben M\u00f6bel, Haushaltsger\u00e4te",
     "categories": {
@@ -24441,16 +22249,11 @@
       "valid": "123",
       "invalid": "13"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus15b",
-    "name_cs": "haus15b",
-    "variable": "haus15b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat M\u00f6bel, Haushaltsger\u00e4te",
     "categories": {
@@ -24507,16 +22310,11 @@
       "valid": "7",
       "invalid": "129"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus15c",
-    "name_cs": "haus15c",
-    "variable": "haus15c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr M\u00f6bel, Haushaltsger\u00e4te",
     "categories": {
@@ -24625,16 +22423,11 @@
       "valid": "31",
       "invalid": "105"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus15ka",
-    "name_cs": "haus15ka",
-    "variable": "haus15ka",
     "dataset": "h2010",
     "label": "KA Ausgaben M\u00f6bel, Haushaltsger\u00e4te",
     "categories": {
@@ -24660,16 +22453,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "haus16a",
-    "name_cs": "haus16a",
-    "variable": "haus16a",
     "dataset": "h2010",
     "label": "Ausgaben sonstiges",
     "categories": {
@@ -24706,16 +22494,11 @@
       "valid": "111",
       "invalid": "25"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus16b",
-    "name_cs": "haus16b",
-    "variable": "haus16b",
     "dataset": "h2010",
     "label": "Ausgaben pro Monat sonstiges",
     "categories": {
@@ -24792,16 +22575,11 @@
       "valid": "15",
       "invalid": "121"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus16c",
-    "name_cs": "haus16c",
-    "variable": "haus16c",
     "dataset": "h2010",
     "label": "Ausgaben pro Jahr sonstiges",
     "categories": {
@@ -24902,16 +22680,11 @@
       "valid": "27",
       "invalid": "109"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "haus16ka",
-    "name_cs": "haus16ka",
-    "variable": "haus16ka",
     "dataset": "h2010",
     "label": "KA Ausgaben sonstiges",
     "categories": {
@@ -24937,16 +22710,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hform",
-    "name_cs": "hform",
-    "variable": "hform",
     "dataset": "h2010",
     "label": "durchfuehrung der befragung",
     "categories": {
@@ -25007,16 +22775,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdauer1",
-    "name_cs": "hdauer1",
-    "variable": "hdauer1",
     "dataset": "h2010",
     "label": "interviewdauer muendlich",
     "categories": {
@@ -25042,16 +22805,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hdauer2",
-    "name_cs": "hdauer2",
-    "variable": "hdauer2",
     "dataset": "h2010",
     "label": "interviewdauer schriftlich",
     "categories": {
@@ -25077,16 +22835,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hdatt",
-    "name_cs": "hdatt",
-    "variable": "hdatt",
     "dataset": "h2010",
     "label": "tag des interviews",
     "categories": {
@@ -25195,16 +22948,11 @@
       "valid": "45",
       "invalid": "91"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hdatm",
-    "name_cs": "hdatm",
-    "variable": "hdatm",
     "dataset": "h2010",
     "label": "monat des interviews",
     "categories": {
@@ -25281,16 +23029,11 @@
       "valid": "45",
       "invalid": "91"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hpmax",
-    "name_cs": "hpmax",
-    "variable": "hpmax",
     "dataset": "h2010",
     "label": "hoechste vergebene pnr im haushalt",
     "categories": {
@@ -25335,16 +23078,11 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "urhh",
-    "name_cs": "urhh",
-    "variable": "urhh",
     "dataset": "h2010",
     "label": "ursprungshaushaltsnummer",
     "categories": {
@@ -25913,9 +23651,6 @@
       "valid": "136",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2010"
+    "scale": "cat"
   }
 ]

@@ -2,8 +2,6 @@
   {
     "study": "soep-base",
     "name": "welle",
-    "name_cs": "welle",
-    "variable": "welle",
     "dataset": "h2008",
     "label": "erhebungsjahr",
     "categories": {
@@ -22,16 +20,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "sample1",
-    "name_cs": "sample1",
-    "variable": "sample1",
     "dataset": "h2008",
     "label": "ursprungsstichprobe",
     "categories": {
@@ -56,16 +49,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "hhnrakt",
-    "name_cs": "hhnrakt",
-    "variable": "hhnrakt",
     "dataset": "h2008",
     "label": "Aktuelle Haushaltsnummer",
     "categories": {
@@ -84,16 +72,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yausku",
-    "name_cs": "yausku",
-    "variable": "yausku",
     "dataset": "h2008",
     "label": "Auskunftsperson Nummer (PNR)",
     "categories": {
@@ -134,16 +117,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0201",
-    "name_cs": "yh0201",
-    "variable": "yh0201",
     "dataset": "h2008",
     "label": "wohnungswechsel wg kuendigung",
     "categories": {
@@ -168,16 +146,11 @@
       "valid": "2",
       "invalid": "168"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0202",
-    "name_cs": "yh0202",
-    "variable": "yh0202",
     "dataset": "h2008",
     "label": "wohnungswechsel wg erwerb eigenheim",
     "categories": {
@@ -202,16 +175,11 @@
       "valid": "9",
       "invalid": "161"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0203",
-    "name_cs": "yh0203",
-    "variable": "yh0203",
     "dataset": "h2008",
     "label": "wohnungswechsel wg erbschaft",
     "categories": {
@@ -236,16 +204,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0204",
-    "name_cs": "yh0204",
-    "variable": "yh0204",
     "dataset": "h2008",
     "label": "wohnungswechsel wg berufliche gruende",
     "categories": {
@@ -270,16 +233,11 @@
       "valid": "13",
       "invalid": "157"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0205",
-    "name_cs": "yh0205",
-    "variable": "yh0205",
     "dataset": "h2008",
     "label": "wohnungswechsel wg heirat",
     "categories": {
@@ -304,16 +262,11 @@
       "valid": "8",
       "invalid": "162"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0206",
-    "name_cs": "yh0206",
-    "variable": "yh0206",
     "dataset": "h2008",
     "label": "wohnungswechsel wg trennung",
     "categories": {
@@ -338,16 +291,11 @@
       "valid": "9",
       "invalid": "161"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0207",
-    "name_cs": "yh0207",
-    "variable": "yh0207",
     "dataset": "h2008",
     "label": "wohnungswechsel wg auszug elternhaus",
     "categories": {
@@ -372,16 +320,11 @@
       "valid": "9",
       "invalid": "161"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0208",
-    "name_cs": "yh0208",
-    "variable": "yh0208",
     "dataset": "h2008",
     "label": "wohnungswechsel wg sonst. familie",
     "categories": {
@@ -406,16 +349,11 @@
       "valid": "38",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0209",
-    "name_cs": "yh0209",
-    "variable": "yh0209",
     "dataset": "h2008",
     "label": "wohnungswechsel wg wohnung zu klein",
     "categories": {
@@ -440,16 +378,11 @@
       "valid": "38",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0210",
-    "name_cs": "yh0210",
-    "variable": "yh0210",
     "dataset": "h2008",
     "label": "wohnungswechsel wg wohnung zu gross",
     "categories": {
@@ -474,16 +407,11 @@
       "valid": "16",
       "invalid": "154"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0211",
-    "name_cs": "yh0211",
-    "variable": "yh0211",
     "dataset": "h2008",
     "label": "wohnungswechsel wg hohe wohnungskosten",
     "categories": {
@@ -508,16 +436,11 @@
       "valid": "16",
       "invalid": "154"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0212",
-    "name_cs": "yh0212",
-    "variable": "yh0212",
     "dataset": "h2008",
     "label": "wohnungswechsel wg schlechte ausstattung",
     "categories": {
@@ -542,16 +465,11 @@
       "valid": "24",
       "invalid": "146"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0213",
-    "name_cs": "yh0213",
-    "variable": "yh0213",
     "dataset": "h2008",
     "label": "wohnungswechsel wg schlechte lage",
     "categories": {
@@ -576,16 +494,11 @@
       "valid": "17",
       "invalid": "153"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0214",
-    "name_cs": "yh0214",
-    "variable": "yh0214",
     "dataset": "h2008",
     "label": "wohnungswechsel wg schlechtes umfeld",
     "categories": {
@@ -610,16 +523,11 @@
       "valid": "20",
       "invalid": "150"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0215",
-    "name_cs": "yh0215",
-    "variable": "yh0215",
     "dataset": "h2008",
     "label": "wohnungswechsel wg sonstige gruende",
     "categories": {
@@ -644,16 +552,11 @@
       "valid": "38",
       "invalid": "132"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0301",
-    "name_cs": "yh0301",
-    "variable": "yh0301",
     "dataset": "h2008",
     "label": "wohnungsvergleich finanzieller belastung",
     "categories": {
@@ -686,16 +589,11 @@
       "valid": "157",
       "invalid": "13"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0302",
-    "name_cs": "yh0302",
-    "variable": "yh0302",
     "dataset": "h2008",
     "label": "wohnungsvergleich groesse",
     "categories": {
@@ -728,16 +626,11 @@
       "valid": "165",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0303",
-    "name_cs": "yh0303",
-    "variable": "yh0303",
     "dataset": "h2008",
     "label": "wohnungsvergleich ausstattung",
     "categories": {
@@ -770,16 +663,11 @@
       "valid": "165",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0304",
-    "name_cs": "yh0304",
-    "variable": "yh0304",
     "dataset": "h2008",
     "label": "wohnungsvergleich gegend",
     "categories": {
@@ -812,16 +700,11 @@
       "valid": "164",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0305",
-    "name_cs": "yh0305",
-    "variable": "yh0305",
     "dataset": "h2008",
     "label": "wohnungsvergleich umwelt",
     "categories": {
@@ -854,16 +737,11 @@
       "valid": "165",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0306",
-    "name_cs": "yh0306",
-    "variable": "yh0306",
     "dataset": "h2008",
     "label": "wohnungsvergleich verkehrsverbindung",
     "categories": {
@@ -896,16 +774,11 @@
       "valid": "165",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0307",
-    "name_cs": "yh0307",
-    "variable": "yh0307",
     "dataset": "h2008",
     "label": "wohnungsvergleich nachbarn",
     "categories": {
@@ -938,16 +811,11 @@
       "valid": "164",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0401",
-    "name_cs": "yh0401",
-    "variable": "yh0401",
     "dataset": "h2008",
     "label": "seit wann in dieser wohnung, monat",
     "categories": {
@@ -1016,16 +884,11 @@
       "valid": "168",
       "invalid": "2"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0402",
-    "name_cs": "yh0402",
-    "variable": "yh0402",
     "dataset": "h2008",
     "label": "seit wann in dieser wohnung, jahr",
     "categories": {
@@ -1044,16 +907,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh05",
-    "name_cs": "yh05",
-    "variable": "yh05",
     "dataset": "h2008",
     "label": "wohngegend des zielhaushaltes",
     "categories": {
@@ -1094,16 +952,11 @@
       "valid": "169",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh06",
-    "name_cs": "yh06",
-    "variable": "yh06",
     "dataset": "h2008",
     "label": "haustyp des zielhaushaltes",
     "categories": {
@@ -1148,16 +1001,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh07",
-    "name_cs": "yh07",
-    "variable": "yh07",
     "dataset": "h2008",
     "label": "wohnheim",
     "categories": {
@@ -1206,16 +1054,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0801",
-    "name_cs": "yh0801",
-    "variable": "yh0801",
     "dataset": "h2008",
     "label": "baujahr des hauses",
     "categories": {
@@ -1264,16 +1107,11 @@
       "valid": "166",
       "invalid": "4"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh0802",
-    "name_cs": "yh0802",
-    "variable": "yh0802",
     "dataset": "h2008",
     "label": "genaues baujahr (ab 1972)",
     "categories": {
@@ -1293,16 +1131,11 @@
       "valid": "38",
       "invalid": "132"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh09",
-    "name_cs": "yh09",
-    "variable": "yh09",
     "dataset": "h2008",
     "label": "aenderung wohnflaeche seit letztem jahr",
     "categories": {
@@ -1327,16 +1160,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh10",
-    "name_cs": "yh10",
-    "variable": "yh10",
     "dataset": "h2008",
     "label": "wohnflaeche insgesamt in qm",
     "categories": {
@@ -1355,16 +1183,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh11",
-    "name_cs": "yh11",
-    "variable": "yh11",
     "dataset": "h2008",
     "label": "anzahl der wohnraeume",
     "categories": {
@@ -1383,16 +1206,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh12",
-    "name_cs": "yh12",
-    "variable": "yh12",
     "dataset": "h2008",
     "label": "beurteilung der wohnungsgroesse",
     "categories": {
@@ -1429,16 +1247,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh13",
-    "name_cs": "yh13",
-    "variable": "yh13",
     "dataset": "h2008",
     "label": "zustand des hauses in dem man wohnt",
     "categories": {
@@ -1471,16 +1284,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1401",
-    "name_cs": "yh1401",
-    "variable": "yh1401",
     "dataset": "h2008",
     "label": "wohnung mit kueche",
     "categories": {
@@ -1505,16 +1313,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1402",
-    "name_cs": "yh1402",
-    "variable": "yh1402",
     "dataset": "h2008",
     "label": "wohnung mit innenbad,-dusche",
     "categories": {
@@ -1539,16 +1342,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1403",
-    "name_cs": "yh1403",
-    "variable": "yh1403",
     "dataset": "h2008",
     "label": "wohnung mit warmwasser,boiler",
     "categories": {
@@ -1573,16 +1371,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1404",
-    "name_cs": "yh1404",
-    "variable": "yh1404",
     "dataset": "h2008",
     "label": "wohnung mit innen-wc",
     "categories": {
@@ -1607,16 +1400,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1405",
-    "name_cs": "yh1405",
-    "variable": "yh1405",
     "dataset": "h2008",
     "label": "wohnung mit zentral-,etagenheizung",
     "categories": {
@@ -1641,16 +1429,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1406",
-    "name_cs": "yh1406",
-    "variable": "yh1406",
     "dataset": "h2008",
     "label": "wohnung mit balkon,terasse",
     "categories": {
@@ -1675,16 +1458,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1407",
-    "name_cs": "yh1407",
-    "variable": "yh1407",
     "dataset": "h2008",
     "label": "wohnung mit keller,abstellraeume",
     "categories": {
@@ -1709,16 +1487,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1408",
-    "name_cs": "yh1408",
-    "variable": "yh1408",
     "dataset": "h2008",
     "label": "wohnung mit garten,-benutzung",
     "categories": {
@@ -1743,16 +1516,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1409",
-    "name_cs": "yh1409",
-    "variable": "yh1409",
     "dataset": "h2008",
     "label": "wohnung mit alarmanlage",
     "categories": {
@@ -1777,16 +1545,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1410",
-    "name_cs": "yh1410",
-    "variable": "yh1410",
     "dataset": "h2008",
     "label": "wohnung mit klimaanlage",
     "categories": {
@@ -1811,16 +1574,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1411",
-    "name_cs": "yh1411",
-    "variable": "yh1411",
     "dataset": "h2008",
     "label": "wohnung mit sonnenkollekt., solarenergie",
     "categories": {
@@ -1845,16 +1603,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1501",
-    "name_cs": "yh1501",
-    "variable": "yh1501",
     "dataset": "h2008",
     "label": "seit vorjahr-kueche eingebaut",
     "categories": {
@@ -1879,16 +1632,11 @@
       "valid": "5",
       "invalid": "165"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1502",
-    "name_cs": "yh1502",
-    "variable": "yh1502",
     "dataset": "h2008",
     "label": "seit vorjahr-bad,dusche,wc eingebaut",
     "categories": {
@@ -1913,16 +1661,11 @@
       "valid": "7",
       "invalid": "163"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1503",
-    "name_cs": "yh1503",
-    "variable": "yh1503",
     "dataset": "h2008",
     "label": "seit vorjahr-heizung eingebaut",
     "categories": {
@@ -1947,16 +1690,11 @@
       "valid": "5",
       "invalid": "165"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1504",
-    "name_cs": "yh1504",
-    "variable": "yh1504",
     "dataset": "h2008",
     "label": "seit vorjahr-neue fenster eingebaut",
     "categories": {
@@ -1981,16 +1719,11 @@
       "valid": "10",
       "invalid": "160"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1505",
-    "name_cs": "yh1505",
-    "variable": "yh1505",
     "dataset": "h2008",
     "label": "seit vorjahr-sonst. groessere massnahmen",
     "categories": {
@@ -2015,16 +1748,11 @@
       "valid": "11",
       "invalid": "159"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1506",
-    "name_cs": "yh1506",
-    "variable": "yh1506",
     "dataset": "h2008",
     "label": "seit vorjahr-keine modernisierungen",
     "categories": {
@@ -2049,16 +1777,11 @@
       "valid": "144",
       "invalid": "26"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh16",
-    "name_cs": "yh16",
-    "variable": "yh16",
     "dataset": "h2008",
     "label": "modernisierung auf kosten von",
     "categories": {
@@ -2095,16 +1818,11 @@
       "valid": "25",
       "invalid": "145"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh17",
-    "name_cs": "yh17",
-    "variable": "yh17",
     "dataset": "h2008",
     "label": "modernisierung durchgefuehrt von",
     "categories": {
@@ -2141,16 +1859,11 @@
       "valid": "14",
       "invalid": "156"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh18",
-    "name_cs": "yh18",
-    "variable": "yh18",
     "dataset": "h2008",
     "label": "eigentuemerwechsel vorjahr",
     "categories": {
@@ -2175,16 +1888,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1901",
-    "name_cs": "yh1901",
-    "variable": "yh1901",
     "dataset": "h2008",
     "label": "eigentuemerwechsel art",
     "categories": {
@@ -2217,16 +1925,11 @@
       "valid": "19",
       "invalid": "151"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh1902",
-    "name_cs": "yh1902",
-    "variable": "yh1902",
     "dataset": "h2008",
     "label": "eigentumerwerb durch",
     "categories": {
@@ -2248,16 +1951,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh1903",
-    "name_cs": "yh1903",
-    "variable": "yh1903",
     "dataset": "h2008",
     "label": "nicht mehr eigentuemer",
     "categories": {
@@ -2279,16 +1977,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh20",
-    "name_cs": "yh20",
-    "variable": "yh20",
     "dataset": "h2008",
     "label": "haupt-, untermieter, eigentuemer",
     "categories": {
@@ -2321,16 +2014,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh21",
-    "name_cs": "yh21",
-    "variable": "yh21",
     "dataset": "h2008",
     "label": "v. eigentuemer verbilligt ueberl.whg",
     "categories": {
@@ -2359,16 +2047,11 @@
       "valid": "141",
       "invalid": "29"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh22",
-    "name_cs": "yh22",
-    "variable": "yh22",
     "dataset": "h2008",
     "label": "sozialwohnung",
     "categories": {
@@ -2405,16 +2088,11 @@
       "valid": "140",
       "invalid": "30"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh2301",
-    "name_cs": "yh2301",
-    "variable": "yh2301",
     "dataset": "h2008",
     "label": "hoehe der monatlichen miete",
     "categories": {
@@ -2434,16 +2112,11 @@
       "valid": "139",
       "invalid": "31"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh2302",
-    "name_cs": "yh2302",
-    "variable": "yh2302",
     "dataset": "h2008",
     "label": "zahle keine miete",
     "categories": {
@@ -2461,16 +2134,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh24",
-    "name_cs": "yh24",
-    "variable": "yh24",
     "dataset": "h2008",
     "label": "heizungs-,wwkosten in d. miete",
     "categories": {
@@ -2499,16 +2167,11 @@
       "valid": "139",
       "invalid": "31"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh25",
-    "name_cs": "yh25",
-    "variable": "yh25",
     "dataset": "h2008",
     "label": "monatl. heizkosten, durchschnittl.",
     "categories": {
@@ -2528,16 +2191,11 @@
       "valid": "97",
       "invalid": "73"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh2601",
-    "name_cs": "yh2601",
-    "variable": "yh2601",
     "dataset": "h2008",
     "label": "monatl. heizkosten, durchschnittl.",
     "categories": {
@@ -2566,16 +2224,11 @@
       "valid": "40",
       "invalid": "130"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh2602",
-    "name_cs": "yh2602",
-    "variable": "yh2602",
     "dataset": "h2008",
     "label": "im mietpreis umlagen enthalten",
     "categories": {
@@ -2608,16 +2261,11 @@
       "valid": "139",
       "invalid": "31"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh2603",
-    "name_cs": "yh2603",
-    "variable": "yh2603",
     "dataset": "h2008",
     "label": "monatl hoehe der umlagen",
     "categories": {
@@ -2637,16 +2285,11 @@
       "valid": "55",
       "invalid": "115"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh2604",
-    "name_cs": "yh2604",
-    "variable": "yh2604",
     "dataset": "h2008",
     "label": "monatl hoehe der umlagen",
     "categories": {
@@ -2675,16 +2318,11 @@
       "valid": "72",
       "invalid": "98"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh27",
-    "name_cs": "yh27",
-    "variable": "yh27",
     "dataset": "h2008",
     "label": "beurteilung der miethoehe",
     "categories": {
@@ -2729,16 +2367,11 @@
       "valid": "138",
       "invalid": "32"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh28",
-    "name_cs": "yh28",
-    "variable": "yh28",
     "dataset": "h2008",
     "label": "eigentuemer der wohnung",
     "categories": {
@@ -2783,16 +2416,11 @@
       "valid": "139",
       "invalid": "31"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh29",
-    "name_cs": "yh29",
-    "variable": "yh29",
     "dataset": "h2008",
     "label": "zins-,tilgungszahlungen f wohnung",
     "categories": {
@@ -2821,16 +2449,11 @@
       "valid": "29",
       "invalid": "141"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh30",
-    "name_cs": "yh30",
-    "variable": "yh30",
     "dataset": "h2008",
     "label": "monatl zins-,tilgungszahlungen",
     "categories": {
@@ -2850,16 +2473,11 @@
       "valid": "5",
       "invalid": "165"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh31",
-    "name_cs": "yh31",
-    "variable": "yh31",
     "dataset": "h2008",
     "label": "hoehe instandhaltungskosten letzt.j",
     "categories": {
@@ -2879,16 +2497,11 @@
       "valid": "26",
       "invalid": "144"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh32",
-    "name_cs": "yh32",
-    "variable": "yh32",
     "dataset": "h2008",
     "label": "hoehe heizkosten letzt.j",
     "categories": {
@@ -2908,16 +2521,11 @@
       "valid": "26",
       "invalid": "144"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh33",
-    "name_cs": "yh33",
-    "variable": "yh33",
     "dataset": "h2008",
     "label": "jaehrliche nebenkosten in euro",
     "categories": {
@@ -2937,16 +2545,11 @@
       "valid": "25",
       "invalid": "145"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh3401",
-    "name_cs": "yh3401",
-    "variable": "yh3401",
     "dataset": "h2008",
     "label": "wohngeld als eigentuemer d. wohnung",
     "categories": {
@@ -2979,16 +2582,11 @@
       "valid": "29",
       "invalid": "141"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh3402",
-    "name_cs": "yh3402",
-    "variable": "yh3402",
     "dataset": "h2008",
     "label": "wohngeld, betrag pro monat",
     "categories": {
@@ -3008,16 +2606,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh35",
-    "name_cs": "yh35",
-    "variable": "yh35",
     "dataset": "h2008",
     "label": "beurteilung - finanzielle belastung",
     "categories": {
@@ -3062,16 +2655,11 @@
       "valid": "28",
       "invalid": "142"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh3601",
-    "name_cs": "yh3601",
-    "variable": "yh3601",
     "dataset": "h2008",
     "label": "geschaetzte monatl. miete ohne heizung",
     "categories": {
@@ -3091,16 +2679,11 @@
       "valid": "25",
       "invalid": "145"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh3602",
-    "name_cs": "yh3602",
-    "variable": "yh3602",
     "dataset": "h2008",
     "label": "geschaetzte monatl. miete ohne heizung",
     "categories": {
@@ -3129,16 +2712,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh3701",
-    "name_cs": "yh3701",
-    "variable": "yh3701",
     "dataset": "h2008",
     "label": "wohn-eigentumsfoerd.,eigenheimzulage vorjahr",
     "categories": {
@@ -3167,16 +2745,11 @@
       "valid": "29",
       "invalid": "141"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh3702",
-    "name_cs": "yh3702",
-    "variable": "yh3702",
     "dataset": "h2008",
     "label": "hoehe foerderbetrag vorjahr",
     "categories": {
@@ -3196,16 +2769,11 @@
       "valid": "2",
       "invalid": "168"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh38",
-    "name_cs": "yh38",
-    "variable": "yh38",
     "dataset": "h2008",
     "label": "miet- u.pachteinnahmen vorjahr",
     "categories": {
@@ -3234,16 +2802,11 @@
       "valid": "169",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh39",
-    "name_cs": "yh39",
-    "variable": "yh39",
     "dataset": "h2008",
     "label": "miet- u.pachteinnahmen betrag vorjahr",
     "categories": {
@@ -3263,16 +2826,11 @@
       "valid": "6",
       "invalid": "164"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4001",
-    "name_cs": "yh4001",
-    "variable": "yh4001",
     "dataset": "h2008",
     "label": "betriebs- u.instandhaltgskosten vorjahr",
     "categories": {
@@ -3292,16 +2850,11 @@
       "valid": "7",
       "invalid": "163"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4002",
-    "name_cs": "yh4002",
-    "variable": "yh4002",
     "dataset": "h2008",
     "label": "tilgungs-u.zinszahlungen vorjahr",
     "categories": {
@@ -3321,16 +2874,11 @@
       "valid": "6",
       "invalid": "164"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4101",
-    "name_cs": "yh4101",
-    "variable": "yh4101",
     "dataset": "h2008",
     "label": "steuerlich absetzten, vorjahr",
     "categories": {
@@ -3359,16 +2907,11 @@
       "valid": "7",
       "invalid": "163"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4102",
-    "name_cs": "yh4102",
-    "variable": "yh4102",
     "dataset": "h2008",
     "label": "steuerlich absetzten, betrag vorjahr",
     "categories": {
@@ -3388,16 +2931,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh42",
-    "name_cs": "yh42",
-    "variable": "yh42",
     "dataset": "h2008",
     "label": "abzahlung kredite",
     "categories": {
@@ -3422,16 +2960,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh43",
-    "name_cs": "yh43",
-    "variable": "yh43",
     "dataset": "h2008",
     "label": "abzahlung kredite hoehe",
     "categories": {
@@ -3451,16 +2984,11 @@
       "valid": "16",
       "invalid": "154"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh44",
-    "name_cs": "yh44",
-    "variable": "yh44",
     "dataset": "h2008",
     "label": "belastung durch rueckzahlung kredite",
     "categories": {
@@ -3493,16 +3021,11 @@
       "valid": "17",
       "invalid": "153"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4501",
-    "name_cs": "yh4501",
-    "variable": "yh4501",
     "dataset": "h2008",
     "label": "sparbuch vorjahr",
     "categories": {
@@ -3527,16 +3050,11 @@
       "valid": "107",
       "invalid": "63"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4502",
-    "name_cs": "yh4502",
-    "variable": "yh4502",
     "dataset": "h2008",
     "label": "bausparvertrag vorjahr",
     "categories": {
@@ -3561,16 +3079,11 @@
       "valid": "46",
       "invalid": "124"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4503",
-    "name_cs": "yh4503",
-    "variable": "yh4503",
     "dataset": "h2008",
     "label": "lebensversicherung vorjahr",
     "categories": {
@@ -3595,16 +3108,11 @@
       "valid": "43",
       "invalid": "127"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4504",
-    "name_cs": "yh4504",
-    "variable": "yh4504",
     "dataset": "h2008",
     "label": "festverzinsl. wertpapiere vorjahr",
     "categories": {
@@ -3629,16 +3137,11 @@
       "valid": "30",
       "invalid": "140"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4505",
-    "name_cs": "yh4505",
-    "variable": "yh4505",
     "dataset": "h2008",
     "label": "sonstige wertpapiere vorjahr",
     "categories": {
@@ -3663,16 +3166,11 @@
       "valid": "44",
       "invalid": "126"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4506",
-    "name_cs": "yh4506",
-    "variable": "yh4506",
     "dataset": "h2008",
     "label": "betriebsvermoegen vorjahr",
     "categories": {
@@ -3697,16 +3195,11 @@
       "valid": "4",
       "invalid": "166"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4507",
-    "name_cs": "yh4507",
-    "variable": "yh4507",
     "dataset": "h2008",
     "label": "keine wertanlagen vorjahr",
     "categories": {
@@ -3735,16 +3228,11 @@
       "valid": "29",
       "invalid": "141"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4508",
-    "name_cs": "yh4508",
-    "variable": "yh4508",
     "dataset": "h2008",
     "label": "verluste steuerlich absetzen",
     "categories": {
@@ -3777,16 +3265,11 @@
       "valid": "42",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4509",
-    "name_cs": "yh4509",
-    "variable": "yh4509",
     "dataset": "h2008",
     "label": "verluste steuerlich absetzen, betrag",
     "categories": {
@@ -3806,16 +3289,11 @@
       "valid": "5",
       "invalid": "165"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4510",
-    "name_cs": "yh4510",
-    "variable": "yh4510",
     "dataset": "h2008",
     "label": "wertanlagen k.a.",
     "categories": {
@@ -3825,16 +3303,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4601",
-    "name_cs": "yh4601",
-    "variable": "yh4601",
     "dataset": "h2008",
     "label": "zins-u. dividendeneinnahmen vorjahr",
     "categories": {
@@ -3854,16 +3327,11 @@
       "valid": "66",
       "invalid": "104"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4602",
-    "name_cs": "yh4602",
-    "variable": "yh4602",
     "dataset": "h2008",
     "label": "zins-u. dividendeneinnahmen geschaetzt vorjahr",
     "categories": {
@@ -3912,16 +3380,11 @@
       "valid": "67",
       "invalid": "103"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4701",
-    "name_cs": "yh4701",
-    "variable": "yh4701",
     "dataset": "h2008",
     "label": "unerw. geldbetraege,sachw. ue.5000 dm er",
     "categories": {
@@ -3950,16 +3413,11 @@
       "valid": "169",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4702",
-    "name_cs": "yh4702",
-    "variable": "yh4702",
     "dataset": "h2008",
     "label": "erbschaft",
     "categories": {
@@ -3984,16 +3442,11 @@
       "valid": "5",
       "invalid": "165"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4703",
-    "name_cs": "yh4703",
-    "variable": "yh4703",
     "dataset": "h2008",
     "label": "schenkung",
     "categories": {
@@ -4018,16 +3471,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4704",
-    "name_cs": "yh4704",
-    "variable": "yh4704",
     "dataset": "h2008",
     "label": "lotteriegewinn",
     "categories": {
@@ -4052,16 +3500,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4705",
-    "name_cs": "yh4705",
-    "variable": "yh4705",
     "dataset": "h2008",
     "label": "unerw.geldbetraege k.a.",
     "categories": {
@@ -4071,16 +3514,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh48",
-    "name_cs": "yh48",
-    "variable": "yh48",
     "dataset": "h2008",
     "label": "hoehe unerw. geldbetrage,sachw.in euro",
     "categories": {
@@ -4100,16 +3538,11 @@
       "valid": "6",
       "invalid": "164"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4901",
-    "name_cs": "yh4901",
-    "variable": "yh4901",
     "dataset": "h2008",
     "label": "kindergeldbezug letztes jahr",
     "categories": {
@@ -4134,16 +3567,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4902",
-    "name_cs": "yh4902",
-    "variable": "yh4902",
     "dataset": "h2008",
     "label": "kindergeld letzt.j monate",
     "categories": {
@@ -4163,16 +3591,11 @@
       "valid": "29",
       "invalid": "141"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4903",
-    "name_cs": "yh4903",
-    "variable": "yh4903",
     "dataset": "h2008",
     "label": "kindergeld letzt.j betrag(monat)",
     "categories": {
@@ -4192,16 +3615,11 @@
       "valid": "28",
       "invalid": "142"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4904",
-    "name_cs": "yh4904",
-    "variable": "yh4904",
     "dataset": "h2008",
     "label": "alg2, sozialgeld im letzten jahr: bezogen",
     "categories": {
@@ -4226,16 +3644,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4905",
-    "name_cs": "yh4905",
-    "variable": "yh4905",
     "dataset": "h2008",
     "label": "alg2, sozialgeld im letzten jahr: anzahl monate",
     "categories": {
@@ -4255,16 +3668,11 @@
       "valid": "8",
       "invalid": "162"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4906",
-    "name_cs": "yh4906",
-    "variable": "yh4906",
     "dataset": "h2008",
     "label": "alg2, sozialgeld im letzten jahr: betrag pro monat",
     "categories": {
@@ -4284,16 +3692,11 @@
       "valid": "7",
       "invalid": "163"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4907",
-    "name_cs": "yh4907",
-    "variable": "yh4907",
     "dataset": "h2008",
     "label": "wohngeld,lastenzuschuss vorjahr",
     "categories": {
@@ -4318,16 +3721,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4908",
-    "name_cs": "yh4908",
-    "variable": "yh4908",
     "dataset": "h2008",
     "label": "im letzten jahr: monate mit wohngeld o. lastenzuschuss",
     "categories": {
@@ -4347,16 +3745,11 @@
       "valid": "6",
       "invalid": "164"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4909",
-    "name_cs": "yh4909",
-    "variable": "yh4909",
     "dataset": "h2008",
     "label": "wohngeld,lastenzuschuss pro monat",
     "categories": {
@@ -4376,16 +3769,11 @@
       "valid": "7",
       "invalid": "163"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4910",
-    "name_cs": "yh4910",
-    "variable": "yh4910",
     "dataset": "h2008",
     "label": "leistungen der pflegeversicherung vorjahr",
     "categories": {
@@ -4410,16 +3798,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh4911",
-    "name_cs": "yh4911",
-    "variable": "yh4911",
     "dataset": "h2008",
     "label": "leistungen der pflegeversicherung monate",
     "categories": {
@@ -4439,16 +3822,11 @@
       "valid": "2",
       "invalid": "168"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4912",
-    "name_cs": "yh4912",
-    "variable": "yh4912",
     "dataset": "h2008",
     "label": "leistungen der pflegeversicherung pro monat",
     "categories": {
@@ -4468,16 +3846,11 @@
       "valid": "2",
       "invalid": "168"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh4913",
-    "name_cs": "yh4913",
-    "variable": "yh4913",
     "dataset": "h2008",
     "label": "sozialhilfebezug letzt.j",
     "categories": {
@@ -4502,16 +3875,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5001",
-    "name_cs": "yh5001",
-    "variable": "yh5001",
     "dataset": "h2008",
     "label": "hilfe lebensunterhalt",
     "categories": {
@@ -4536,16 +3904,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5002",
-    "name_cs": "yh5002",
-    "variable": "yh5002",
     "dataset": "h2008",
     "label": "hilfe lebensunterhalt monate",
     "categories": {
@@ -4565,16 +3928,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5003",
-    "name_cs": "yh5003",
-    "variable": "yh5003",
     "dataset": "h2008",
     "label": "hilfe lebensunterhalt pro monat",
     "categories": {
@@ -4594,16 +3952,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5004",
-    "name_cs": "yh5004",
-    "variable": "yh5004",
     "dataset": "h2008",
     "label": "hilfe alter/erwerbsminderung",
     "categories": {
@@ -4628,16 +3981,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5005",
-    "name_cs": "yh5005",
-    "variable": "yh5005",
     "dataset": "h2008",
     "label": "hilfe alter/erwerbsminderung monate",
     "categories": {
@@ -4657,16 +4005,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5006",
-    "name_cs": "yh5006",
-    "variable": "yh5006",
     "dataset": "h2008",
     "label": "hilfe alter/erwerbsminderung pro monat",
     "categories": {
@@ -4686,16 +4029,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5007",
-    "name_cs": "yh5007",
-    "variable": "yh5007",
     "dataset": "h2008",
     "label": "hilfe in bes.lebenslagen",
     "categories": {
@@ -4713,16 +4051,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5008",
-    "name_cs": "yh5008",
-    "variable": "yh5008",
     "dataset": "h2008",
     "label": "hilfe in bes.lebenslagen monate",
     "categories": {
@@ -4732,16 +4065,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5009",
-    "name_cs": "yh5009",
-    "variable": "yh5009",
     "dataset": "h2008",
     "label": "hilfe in bes.lebenslagen pro monat",
     "categories": {
@@ -4751,16 +4079,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5010",
-    "name_cs": "yh5010",
-    "variable": "yh5010",
     "dataset": "h2008",
     "label": "einmalige hilfe zum lebensunterhalt",
     "categories": {
@@ -4778,16 +4101,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5011",
-    "name_cs": "yh5011",
-    "variable": "yh5011",
     "dataset": "h2008",
     "label": "sozialhilfe k.a.",
     "categories": {
@@ -4797,16 +4115,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5101",
-    "name_cs": "yh5101",
-    "variable": "yh5101",
     "dataset": "h2008",
     "label": "kindergeldbezug heute",
     "categories": {
@@ -4835,16 +4148,11 @@
       "valid": "22",
       "invalid": "148"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5102",
-    "name_cs": "yh5102",
-    "variable": "yh5102",
     "dataset": "h2008",
     "label": "kindergeldbezug heute betrag",
     "categories": {
@@ -4864,16 +4172,11 @@
       "valid": "22",
       "invalid": "148"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5103",
-    "name_cs": "yh5103",
-    "variable": "yh5103",
     "dataset": "h2008",
     "label": "anz. kinder",
     "categories": {
@@ -4893,16 +4196,11 @@
       "valid": "22",
       "invalid": "148"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5104",
-    "name_cs": "yh5104",
-    "variable": "yh5104",
     "dataset": "h2008",
     "label": "alg ii, sozialgeld heute",
     "categories": {
@@ -4931,16 +4229,11 @@
       "valid": "5",
       "invalid": "165"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5105",
-    "name_cs": "yh5105",
-    "variable": "yh5105",
     "dataset": "h2008",
     "label": "alg ii, sozialgeld heute betrag",
     "categories": {
@@ -4960,16 +4253,11 @@
       "valid": "5",
       "invalid": "165"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5106",
-    "name_cs": "yh5106",
-    "variable": "yh5106",
     "dataset": "h2008",
     "label": "wohngeldbezug heute",
     "categories": {
@@ -4998,16 +4286,11 @@
       "valid": "6",
       "invalid": "164"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5107",
-    "name_cs": "yh5107",
-    "variable": "yh5107",
     "dataset": "h2008",
     "label": "wohngeldbezug heute betrag",
     "categories": {
@@ -5027,16 +4310,11 @@
       "valid": "5",
       "invalid": "165"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5108",
-    "name_cs": "yh5108",
-    "variable": "yh5108",
     "dataset": "h2008",
     "label": "pflegevers. leistungen",
     "categories": {
@@ -5065,16 +4343,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5109",
-    "name_cs": "yh5109",
-    "variable": "yh5109",
     "dataset": "h2008",
     "label": "pflegevers. betrag",
     "categories": {
@@ -5094,16 +4367,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5110",
-    "name_cs": "yh5110",
-    "variable": "yh5110",
     "dataset": "h2008",
     "label": "alter/erwerbsminderung heute",
     "categories": {
@@ -5132,16 +4400,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5111",
-    "name_cs": "yh5111",
-    "variable": "yh5111",
     "dataset": "h2008",
     "label": "alter/erwerbsminderung heute betrag",
     "categories": {
@@ -5161,16 +4424,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5112",
-    "name_cs": "yh5112",
-    "variable": "yh5112",
     "dataset": "h2008",
     "label": "sozialhilfebezug heute",
     "categories": {
@@ -5199,16 +4457,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5113",
-    "name_cs": "yh5113",
-    "variable": "yh5113",
     "dataset": "h2008",
     "label": "sozialhilfebezug heute betrag",
     "categories": {
@@ -5228,16 +4481,11 @@
       "valid": "1",
       "invalid": "169"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5114",
-    "name_cs": "yh5114",
-    "variable": "yh5114",
     "dataset": "h2008",
     "label": "keine staatl leistungen",
     "categories": {
@@ -5262,16 +4510,11 @@
       "valid": "135",
       "invalid": "35"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5201",
-    "name_cs": "yh5201",
-    "variable": "yh5201",
     "dataset": "h2008",
     "label": "hh-nettoeinkommen",
     "categories": {
@@ -5291,16 +4534,11 @@
       "valid": "156",
       "invalid": "14"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5202",
-    "name_cs": "yh5202",
-    "variable": "yh5202",
     "dataset": "h2008",
     "label": "hh-nettoeinkommensgruppen, nur capi",
     "categories": {
@@ -5381,16 +4619,11 @@
       "valid": "13",
       "invalid": "157"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5301",
-    "name_cs": "yh5301",
-    "variable": "yh5301",
     "dataset": "h2008",
     "label": "sparbetrag monatlich",
     "categories": {
@@ -5419,16 +4652,11 @@
       "valid": "169",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5302",
-    "name_cs": "yh5302",
-    "variable": "yh5302",
     "dataset": "h2008",
     "label": "sparbetrag monatlich hoehe",
     "categories": {
@@ -5448,16 +4676,11 @@
       "valid": "80",
       "invalid": "90"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5401",
-    "name_cs": "yh5401",
-    "variable": "yh5401",
     "dataset": "h2008",
     "label": "im hh auto ja/nein",
     "categories": {
@@ -5482,16 +4705,11 @@
       "valid": "75",
       "invalid": "95"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5402",
-    "name_cs": "yh5402",
-    "variable": "yh5402",
     "dataset": "h2008",
     "label": "in letzten 12 mon gekauft",
     "categories": {
@@ -5516,16 +4734,11 @@
       "valid": "8",
       "invalid": "162"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5403",
-    "name_cs": "yh5403",
-    "variable": "yh5403",
     "dataset": "h2008",
     "label": "motorrad,moped im hh",
     "categories": {
@@ -5550,16 +4763,11 @@
       "valid": "7",
       "invalid": "163"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5404",
-    "name_cs": "yh5404",
-    "variable": "yh5404",
     "dataset": "h2008",
     "label": "motorrad,moped im hh",
     "categories": {
@@ -5584,16 +4792,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5405",
-    "name_cs": "yh5405",
-    "variable": "yh5405",
     "dataset": "h2008",
     "label": "spuelmaschine im hh",
     "categories": {
@@ -5618,16 +4821,11 @@
       "valid": "85",
       "invalid": "85"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5406",
-    "name_cs": "yh5406",
-    "variable": "yh5406",
     "dataset": "h2008",
     "label": "mikrowelle im hh",
     "categories": {
@@ -5652,16 +4850,11 @@
       "valid": "2",
       "invalid": "168"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5407",
-    "name_cs": "yh5407",
-    "variable": "yh5407",
     "dataset": "h2008",
     "label": "waschmaschine im hh",
     "categories": {
@@ -5686,16 +4879,11 @@
       "valid": "89",
       "invalid": "81"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5408",
-    "name_cs": "yh5408",
-    "variable": "yh5408",
     "dataset": "h2008",
     "label": "in letzten 12 mon gekauft",
     "categories": {
@@ -5720,16 +4908,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5409",
-    "name_cs": "yh5409",
-    "variable": "yh5409",
     "dataset": "h2008",
     "label": "waschmaschine im hh",
     "categories": {
@@ -5754,16 +4937,11 @@
       "valid": "160",
       "invalid": "10"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5410",
-    "name_cs": "yh5410",
-    "variable": "yh5410",
     "dataset": "h2008",
     "label": "waschmaschine im hh",
     "categories": {
@@ -5788,16 +4966,11 @@
       "valid": "12",
       "invalid": "158"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5411",
-    "name_cs": "yh5411",
-    "variable": "yh5411",
     "dataset": "h2008",
     "label": "stereoanlage im hh",
     "categories": {
@@ -5822,16 +4995,11 @@
       "valid": "137",
       "invalid": "33"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5412",
-    "name_cs": "yh5412",
-    "variable": "yh5412",
     "dataset": "h2008",
     "label": "stereoanlage im hh",
     "categories": {
@@ -5856,16 +5024,11 @@
       "valid": "6",
       "invalid": "164"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5413",
-    "name_cs": "yh5413",
-    "variable": "yh5413",
     "dataset": "h2008",
     "label": "im hh farb-tv ja/nein",
     "categories": {
@@ -5890,16 +5053,11 @@
       "valid": "152",
       "invalid": "18"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5414",
-    "name_cs": "yh5414",
-    "variable": "yh5414",
     "dataset": "h2008",
     "label": "in letzten 12 mon gekauft",
     "categories": {
@@ -5924,16 +5082,11 @@
       "valid": "16",
       "invalid": "154"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5415",
-    "name_cs": "yh5415",
-    "variable": "yh5415",
     "dataset": "h2008",
     "label": "stereoanlage im hh",
     "categories": {
@@ -5958,16 +5111,11 @@
       "valid": "77",
       "invalid": "93"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5416",
-    "name_cs": "yh5416",
-    "variable": "yh5416",
     "dataset": "h2008",
     "label": "in letzten 12 mon gekauft",
     "categories": {
@@ -5992,16 +5140,11 @@
       "valid": "7",
       "invalid": "163"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5417",
-    "name_cs": "yh5417",
-    "variable": "yh5417",
     "dataset": "h2008",
     "label": "im hh dvd-recorder ja/nein",
     "categories": {
@@ -6026,16 +5169,11 @@
       "valid": "34",
       "invalid": "136"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5418",
-    "name_cs": "yh5418",
-    "variable": "yh5418",
     "dataset": "h2008",
     "label": "dvd-recorder im hh",
     "categories": {
@@ -6060,16 +5198,11 @@
       "valid": "6",
       "invalid": "164"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5419",
-    "name_cs": "yh5419",
-    "variable": "yh5419",
     "dataset": "h2008",
     "label": "pc im hh",
     "categories": {
@@ -6094,16 +5227,11 @@
       "valid": "127",
       "invalid": "43"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5420",
-    "name_cs": "yh5420",
-    "variable": "yh5420",
     "dataset": "h2008",
     "label": "pc im hh",
     "categories": {
@@ -6128,16 +5256,11 @@
       "valid": "21",
       "invalid": "149"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5421",
-    "name_cs": "yh5421",
-    "variable": "yh5421",
     "dataset": "h2008",
     "label": "mikrowelle im hh",
     "categories": {
@@ -6162,16 +5285,11 @@
       "valid": "35",
       "invalid": "135"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5422",
-    "name_cs": "yh5422",
-    "variable": "yh5422",
     "dataset": "h2008",
     "label": "internet-anschluss (ohne dsl) im hh",
     "categories": {
@@ -6196,16 +5314,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5423",
-    "name_cs": "yh5423",
-    "variable": "yh5423",
     "dataset": "h2008",
     "label": "im hh dsl-anschluss ja/nein",
     "categories": {
@@ -6230,16 +5343,11 @@
       "valid": "91",
       "invalid": "79"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5424",
-    "name_cs": "yh5424",
-    "variable": "yh5424",
     "dataset": "h2008",
     "label": "dsl-anschluss im hh",
     "categories": {
@@ -6264,16 +5372,11 @@
       "valid": "17",
       "invalid": "153"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5425",
-    "name_cs": "yh5425",
-    "variable": "yh5425",
     "dataset": "h2008",
     "label": "telefon im hh",
     "categories": {
@@ -6298,16 +5401,11 @@
       "valid": "155",
       "invalid": "15"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5426",
-    "name_cs": "yh5426",
-    "variable": "yh5426",
     "dataset": "h2008",
     "label": "telefon im hh",
     "categories": {
@@ -6332,16 +5430,11 @@
       "valid": "7",
       "invalid": "163"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5427",
-    "name_cs": "yh5427",
-    "variable": "yh5427",
     "dataset": "h2008",
     "label": "mobiltelefon, handy im hh",
     "categories": {
@@ -6366,16 +5459,11 @@
       "valid": "145",
       "invalid": "25"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5428",
-    "name_cs": "yh5428",
-    "variable": "yh5428",
     "dataset": "h2008",
     "label": "mobiltelefon, handy im hh",
     "categories": {
@@ -6400,16 +5488,11 @@
       "valid": "17",
       "invalid": "153"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5429",
-    "name_cs": "yh5429",
-    "variable": "yh5429",
     "dataset": "h2008",
     "label": "isdn-anschluss",
     "categories": {
@@ -6434,16 +5517,11 @@
       "valid": "37",
       "invalid": "133"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5430",
-    "name_cs": "yh5430",
-    "variable": "yh5430",
     "dataset": "h2008",
     "label": "in letzten 12 mon gekauft",
     "categories": {
@@ -6468,16 +5546,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5431",
-    "name_cs": "yh5431",
-    "variable": "yh5431",
     "dataset": "h2008",
     "label": "isdn-anschluss im hh",
     "categories": {
@@ -6502,16 +5575,11 @@
       "valid": "34",
       "invalid": "136"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5432",
-    "name_cs": "yh5432",
-    "variable": "yh5432",
     "dataset": "h2008",
     "label": "isdn-anschluss im hh",
     "categories": {
@@ -6536,16 +5604,11 @@
       "valid": "7",
       "invalid": "163"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh55",
-    "name_cs": "yh55",
-    "variable": "yh55",
     "dataset": "h2008",
     "label": "putz-,haushaltshilfe beschaeftigt",
     "categories": {
@@ -6574,16 +5637,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh56",
-    "name_cs": "yh56",
-    "variable": "yh56",
     "dataset": "h2008",
     "label": "hilfe-,pflegebeduerft. person im hh",
     "categories": {
@@ -6608,16 +5666,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5701",
-    "name_cs": "yh5701",
-    "variable": "yh5701",
     "dataset": "h2008",
     "label": "pnr hilfebeduerfige person",
     "categories": {
@@ -6637,16 +5690,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5702",
-    "name_cs": "yh5702",
-    "variable": "yh5702",
     "dataset": "h2008",
     "label": "hilfe bei besorgungen ausser hh",
     "categories": {
@@ -6671,16 +5719,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5703",
-    "name_cs": "yh5703",
-    "variable": "yh5703",
     "dataset": "h2008",
     "label": "hilfe bei haushaltsfuehrung",
     "categories": {
@@ -6705,16 +5748,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5704",
-    "name_cs": "yh5704",
-    "variable": "yh5704",
     "dataset": "h2008",
     "label": "hilfe bei einfacher pflegetaetigkeit",
     "categories": {
@@ -6739,16 +5777,11 @@
       "valid": "2",
       "invalid": "168"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5705",
-    "name_cs": "yh5705",
-    "variable": "yh5705",
     "dataset": "h2008",
     "label": "hilfe bei schwieriger pflegetaetigkeit",
     "categories": {
@@ -6766,16 +5799,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5706",
-    "name_cs": "yh5706",
-    "variable": "yh5706",
     "dataset": "h2008",
     "label": "hilfe k.a.",
     "categories": {
@@ -6785,16 +5813,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5801",
-    "name_cs": "yh5801",
-    "variable": "yh5801",
     "dataset": "h2008",
     "label": "leistungen der pflegeversicherung",
     "categories": {
@@ -6823,16 +5846,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5802",
-    "name_cs": "yh5802",
-    "variable": "yh5802",
     "dataset": "h2008",
     "label": "pflegestufe",
     "categories": {
@@ -6865,16 +5883,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5901",
-    "name_cs": "yh5901",
-    "variable": "yh5901",
     "dataset": "h2008",
     "label": "hilfe v.schwester,sozialhelfer",
     "categories": {
@@ -6899,16 +5912,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh5902",
-    "name_cs": "yh5902",
-    "variable": "yh5902",
     "dataset": "h2008",
     "label": "pnr der hauptpflegeperson im hh",
     "categories": {
@@ -6928,16 +5936,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5903",
-    "name_cs": "yh5903",
-    "variable": "yh5903",
     "dataset": "h2008",
     "label": "hilfe v. schwester,sozialhelfer",
     "categories": {
@@ -6955,16 +5958,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5904",
-    "name_cs": "yh5904",
-    "variable": "yh5904",
     "dataset": "h2008",
     "label": "hilfe v.priv.pflegedienst",
     "categories": {
@@ -6982,16 +5980,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5905",
-    "name_cs": "yh5905",
-    "variable": "yh5905",
     "dataset": "h2008",
     "label": "hilfe v.nachbarn",
     "categories": {
@@ -7009,16 +6002,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5906",
-    "name_cs": "yh5906",
-    "variable": "yh5906",
     "dataset": "h2008",
     "label": "hilfe v. nachbarn",
     "categories": {
@@ -7036,16 +6024,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5907",
-    "name_cs": "yh5907",
-    "variable": "yh5907",
     "dataset": "h2008",
     "label": "hilfe v. angehoerige ausser hh",
     "categories": {
@@ -7063,16 +6046,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5908",
-    "name_cs": "yh5908",
-    "variable": "yh5908",
     "dataset": "h2008",
     "label": "hilfe v.  k.a.",
     "categories": {
@@ -7090,16 +6068,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh5909",
-    "name_cs": "yh5909",
-    "variable": "yh5909",
     "dataset": "h2008",
     "label": "person erhaelt bezahlung",
     "categories": {
@@ -7121,16 +6094,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yh60",
-    "name_cs": "yh60",
-    "variable": "yh60",
     "dataset": "h2008",
     "label": "zufriedenh. vorh. pflegemoeglichk.",
     "categories": {
@@ -7195,16 +6163,11 @@
       "valid": "3",
       "invalid": "167"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yh61",
-    "name_cs": "yh61",
-    "variable": "yh61",
     "dataset": "h2008",
     "label": "kinder unter 16 jahren im haushalt",
     "categories": {
@@ -7229,16 +6192,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yhivform",
-    "name_cs": "yhivform",
-    "variable": "yhivform",
     "dataset": "h2008",
     "label": "durchfuehrung der befragung",
     "categories": {
@@ -7287,16 +6245,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yhhdaer1",
-    "name_cs": "yhhdaer1",
-    "variable": "yhhdaer1",
     "dataset": "h2008",
     "label": "interviewdauer muendlich",
     "categories": {
@@ -7315,16 +6268,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yhhdaer2",
-    "name_cs": "yhhdaer2",
-    "variable": "yhhdaer2",
     "dataset": "h2008",
     "label": "interviewdauer schriftlich",
     "categories": {
@@ -7334,16 +6282,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yhhtagin",
-    "name_cs": "yhhtagin",
-    "variable": "yhhtagin",
     "dataset": "h2008",
     "label": "tag des interviews",
     "categories": {
@@ -7362,16 +6305,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yhhmonin",
-    "name_cs": "yhhmonin",
-    "variable": "yhhmonin",
     "dataset": "h2008",
     "label": "monat des interviews",
     "categories": {
@@ -7436,16 +6374,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "yhintnr",
-    "name_cs": "yhintnr",
-    "variable": "yhintnr",
     "dataset": "h2008",
     "label": "interviewnummer",
     "categories": {
@@ -7464,16 +6397,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "yhpmax",
-    "name_cs": "yhpmax",
-    "variable": "yhpmax",
     "dataset": "h2008",
     "label": "hoechste vergebene pnr im haushalt",
     "categories": {
@@ -7492,16 +6420,11 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hhnr",
-    "name_cs": "hhnr",
-    "variable": "hhnr",
     "dataset": "h2008",
     "label": "ursprungshaushaltsnummer",
     "categories": {
@@ -7520,9 +6443,6 @@
       "valid": "170",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2008"
+    "scale": ""
   }
 ]

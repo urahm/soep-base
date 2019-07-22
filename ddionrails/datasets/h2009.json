@@ -2,8 +2,6 @@
   {
     "study": "soep-base",
     "name": "welle",
-    "name_cs": "welle",
-    "variable": "welle",
     "dataset": "h2009",
     "label": "erhebungsjahr",
     "categories": {
@@ -22,16 +20,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "sample1",
-    "name_cs": "sample1",
-    "variable": "sample1",
     "dataset": "h2009",
     "label": "ursprungsstichprobe",
     "categories": {
@@ -56,16 +49,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zhhnr",
-    "name_cs": "zhhnr",
-    "variable": "zhhnr",
     "dataset": "h2009",
     "label": "Aktuelle Haushaltsnummer",
     "categories": {
@@ -84,16 +72,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zausku",
-    "name_cs": "zausku",
-    "variable": "zausku",
     "dataset": "h2009",
     "label": "Auskunftsperson Nummer (PNR)",
     "categories": {
@@ -134,16 +117,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh01",
-    "name_cs": "zh01",
-    "variable": "zh01",
     "dataset": "h2009",
     "label": "heute vor 1 jahr in dieser wohnung gelebt",
     "categories": {
@@ -172,16 +150,11 @@
       "valid": "1318",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0201",
-    "name_cs": "zh0201",
-    "variable": "zh0201",
     "dataset": "h2009",
     "label": "wohnungswechsel wg kuendigung",
     "categories": {
@@ -206,16 +179,11 @@
       "valid": "5",
       "invalid": "1314"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0202",
-    "name_cs": "zh0202",
-    "variable": "zh0202",
     "dataset": "h2009",
     "label": "wohnungswechsel wg erwerb eigenheim",
     "categories": {
@@ -240,16 +208,11 @@
       "valid": "6",
       "invalid": "1313"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0203",
-    "name_cs": "zh0203",
-    "variable": "zh0203",
     "dataset": "h2009",
     "label": "wohnungswechsel wg erbschaft",
     "categories": {
@@ -267,16 +230,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh0204",
-    "name_cs": "zh0204",
-    "variable": "zh0204",
     "dataset": "h2009",
     "label": "wohnungswechsel wg berufliche gruende",
     "categories": {
@@ -301,16 +259,11 @@
       "valid": "12",
       "invalid": "1307"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0205",
-    "name_cs": "zh0205",
-    "variable": "zh0205",
     "dataset": "h2009",
     "label": "wohnungswechsel wg heirat",
     "categories": {
@@ -335,16 +288,11 @@
       "valid": "1",
       "invalid": "1318"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0206",
-    "name_cs": "zh0206",
-    "variable": "zh0206",
     "dataset": "h2009",
     "label": "wohnungswechsel wg trennung",
     "categories": {
@@ -369,16 +317,11 @@
       "valid": "7",
       "invalid": "1312"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0207",
-    "name_cs": "zh0207",
-    "variable": "zh0207",
     "dataset": "h2009",
     "label": "wohnungswechsel wg auszug elternhaus",
     "categories": {
@@ -403,16 +346,11 @@
       "valid": "9",
       "invalid": "1310"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0208",
-    "name_cs": "zh0208",
-    "variable": "zh0208",
     "dataset": "h2009",
     "label": "wohnungswechsel wg sonst. familie",
     "categories": {
@@ -437,16 +375,11 @@
       "valid": "16",
       "invalid": "1303"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0209",
-    "name_cs": "zh0209",
-    "variable": "zh0209",
     "dataset": "h2009",
     "label": "wohnungswechsel wg wohnung zu klein",
     "categories": {
@@ -471,16 +404,11 @@
       "valid": "21",
       "invalid": "1298"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0210",
-    "name_cs": "zh0210",
-    "variable": "zh0210",
     "dataset": "h2009",
     "label": "wohnungswechsel wg wohnung zu gross",
     "categories": {
@@ -505,16 +433,11 @@
       "valid": "11",
       "invalid": "1308"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0211",
-    "name_cs": "zh0211",
-    "variable": "zh0211",
     "dataset": "h2009",
     "label": "wohnungswechsel wg hohe wohnungskosten",
     "categories": {
@@ -539,16 +462,11 @@
       "valid": "19",
       "invalid": "1300"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0212",
-    "name_cs": "zh0212",
-    "variable": "zh0212",
     "dataset": "h2009",
     "label": "wohnungswechsel wg schlechte ausstattung",
     "categories": {
@@ -573,16 +491,11 @@
       "valid": "9",
       "invalid": "1310"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0213",
-    "name_cs": "zh0213",
-    "variable": "zh0213",
     "dataset": "h2009",
     "label": "wohnungswechsel wg schlechte lage",
     "categories": {
@@ -607,16 +520,11 @@
       "valid": "7",
       "invalid": "1312"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0214",
-    "name_cs": "zh0214",
-    "variable": "zh0214",
     "dataset": "h2009",
     "label": "wohnungswechsel wg alten-/behindertenungerecht.",
     "categories": {
@@ -641,16 +549,11 @@
       "valid": "3",
       "invalid": "1316"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0215",
-    "name_cs": "zh0215",
-    "variable": "zh0215",
     "dataset": "h2009",
     "label": "wohnungswechsel wg schlechtes umfeld",
     "categories": {
@@ -675,16 +578,11 @@
       "valid": "8",
       "invalid": "1311"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0216",
-    "name_cs": "zh0216",
-    "variable": "zh0216",
     "dataset": "h2009",
     "label": "wohnungswechsel wg neuem,besseren wohnumfeld",
     "categories": {
@@ -709,16 +607,11 @@
       "valid": "31",
       "invalid": "1288"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0217",
-    "name_cs": "zh0217",
-    "variable": "zh0217",
     "dataset": "h2009",
     "label": "wohnungswechsel wg sonstige gruende",
     "categories": {
@@ -743,16 +636,11 @@
       "valid": "19",
       "invalid": "1300"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0301",
-    "name_cs": "zh0301",
-    "variable": "zh0301",
     "dataset": "h2009",
     "label": "wohnungsvergleich finanzieller belastung",
     "categories": {
@@ -785,16 +673,11 @@
       "valid": "97",
       "invalid": "1222"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0302",
-    "name_cs": "zh0302",
-    "variable": "zh0302",
     "dataset": "h2009",
     "label": "wohnungsvergleich groesse",
     "categories": {
@@ -827,16 +710,11 @@
       "valid": "97",
       "invalid": "1222"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0303",
-    "name_cs": "zh0303",
-    "variable": "zh0303",
     "dataset": "h2009",
     "label": "wohnungsvergleich ausstattung",
     "categories": {
@@ -873,16 +751,11 @@
       "valid": "96",
       "invalid": "1223"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0304",
-    "name_cs": "zh0304",
-    "variable": "zh0304",
     "dataset": "h2009",
     "label": "wohnungsvergleich gegend",
     "categories": {
@@ -915,16 +788,11 @@
       "valid": "97",
       "invalid": "1222"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0305",
-    "name_cs": "zh0305",
-    "variable": "zh0305",
     "dataset": "h2009",
     "label": "wohnungsvergleich umwelt",
     "categories": {
@@ -957,16 +825,11 @@
       "valid": "97",
       "invalid": "1222"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0306",
-    "name_cs": "zh0306",
-    "variable": "zh0306",
     "dataset": "h2009",
     "label": "wohnungsvergleich verkehrsverbindung",
     "categories": {
@@ -1003,16 +866,11 @@
       "valid": "96",
       "invalid": "1223"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0307",
-    "name_cs": "zh0307",
-    "variable": "zh0307",
     "dataset": "h2009",
     "label": "wohnungsvergleich nachbarn",
     "categories": {
@@ -1049,16 +907,11 @@
       "valid": "96",
       "invalid": "1223"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0401",
-    "name_cs": "zh0401",
-    "variable": "zh0401",
     "dataset": "h2009",
     "label": "seit wann in dieser wohnung, monat",
     "categories": {
@@ -1131,16 +984,11 @@
       "valid": "1163",
       "invalid": "156"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0402",
-    "name_cs": "zh0402",
-    "variable": "zh0402",
     "dataset": "h2009",
     "label": "seit wann in dieser wohnung, jahr",
     "categories": {
@@ -1160,16 +1008,11 @@
       "valid": "1168",
       "invalid": "151"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh05",
-    "name_cs": "zh05",
-    "variable": "zh05",
     "dataset": "h2009",
     "label": "wohngegend des zielhaushaltes",
     "categories": {
@@ -1214,16 +1057,11 @@
       "valid": "903",
       "invalid": "416"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh06",
-    "name_cs": "zh06",
-    "variable": "zh06",
     "dataset": "h2009",
     "label": "haustyp des zielhaushaltes",
     "categories": {
@@ -1276,16 +1114,11 @@
       "valid": "911",
       "invalid": "408"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh07",
-    "name_cs": "zh07",
-    "variable": "zh07",
     "dataset": "h2009",
     "label": "wohnheim",
     "categories": {
@@ -1338,16 +1171,11 @@
       "valid": "1176",
       "invalid": "143"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0801",
-    "name_cs": "zh0801",
-    "variable": "zh0801",
     "dataset": "h2009",
     "label": "baujahr des hauses",
     "categories": {
@@ -1400,16 +1228,11 @@
       "valid": "912",
       "invalid": "407"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh0802",
-    "name_cs": "zh0802",
-    "variable": "zh0802",
     "dataset": "h2009",
     "label": "genaues baujahr (ab 1972)",
     "categories": {
@@ -1429,16 +1252,11 @@
       "valid": "274",
       "invalid": "1045"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh09",
-    "name_cs": "zh09",
-    "variable": "zh09",
     "dataset": "h2009",
     "label": "aenderung wohnflaeche seit letztem jahr",
     "categories": {
@@ -1467,16 +1285,11 @@
       "valid": "1315",
       "invalid": "4"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh10",
-    "name_cs": "zh10",
-    "variable": "zh10",
     "dataset": "h2009",
     "label": "wohnflaeche insgesamt in qm",
     "categories": {
@@ -1496,16 +1309,11 @@
       "valid": "1307",
       "invalid": "12"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh11",
-    "name_cs": "zh11",
-    "variable": "zh11",
     "dataset": "h2009",
     "label": "anzahl der wohnraeume",
     "categories": {
@@ -1525,16 +1333,11 @@
       "valid": "1312",
       "invalid": "7"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh12",
-    "name_cs": "zh12",
-    "variable": "zh12",
     "dataset": "h2009",
     "label": "beurteilung der wohnungsgroesse",
     "categories": {
@@ -1575,16 +1378,11 @@
       "valid": "1314",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh13",
-    "name_cs": "zh13",
-    "variable": "zh13",
     "dataset": "h2009",
     "label": "zustand des hauses in dem man wohnt",
     "categories": {
@@ -1621,16 +1419,11 @@
       "valid": "1314",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1401",
-    "name_cs": "zh1401",
-    "variable": "zh1401",
     "dataset": "h2009",
     "label": "wohnung mit kueche",
     "categories": {
@@ -1659,16 +1452,11 @@
       "valid": "1313",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1402",
-    "name_cs": "zh1402",
-    "variable": "zh1402",
     "dataset": "h2009",
     "label": "wohnung mit innenbad,-dusche",
     "categories": {
@@ -1697,16 +1485,11 @@
       "valid": "1315",
       "invalid": "4"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1403",
-    "name_cs": "zh1403",
-    "variable": "zh1403",
     "dataset": "h2009",
     "label": "wohnung mit warmwasser,boiler",
     "categories": {
@@ -1735,16 +1518,11 @@
       "valid": "1309",
       "invalid": "10"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1404",
-    "name_cs": "zh1404",
-    "variable": "zh1404",
     "dataset": "h2009",
     "label": "wohnung mit zentral-,etagenheizung",
     "categories": {
@@ -1773,16 +1551,11 @@
       "valid": "1306",
       "invalid": "13"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1405",
-    "name_cs": "zh1405",
-    "variable": "zh1405",
     "dataset": "h2009",
     "label": "wohnung mit fussbodenheizung (ganz/teilweise)",
     "categories": {
@@ -1811,16 +1584,11 @@
       "valid": "1228",
       "invalid": "91"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1406",
-    "name_cs": "zh1406",
-    "variable": "zh1406",
     "dataset": "h2009",
     "label": "wohnung mit balkon,terasse",
     "categories": {
@@ -1849,16 +1617,11 @@
       "valid": "1299",
       "invalid": "20"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1407",
-    "name_cs": "zh1407",
-    "variable": "zh1407",
     "dataset": "h2009",
     "label": "wohnung mit keller,abstellraeume",
     "categories": {
@@ -1887,16 +1650,11 @@
       "valid": "1312",
       "invalid": "7"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1408",
-    "name_cs": "zh1408",
-    "variable": "zh1408",
     "dataset": "h2009",
     "label": "wohnung mit garten,-benutzung",
     "categories": {
@@ -1925,16 +1683,11 @@
       "valid": "1266",
       "invalid": "53"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1409",
-    "name_cs": "zh1409",
-    "variable": "zh1409",
     "dataset": "h2009",
     "label": "wohnung mit alarmanlage",
     "categories": {
@@ -1963,16 +1716,11 @@
       "valid": "1247",
       "invalid": "72"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1410",
-    "name_cs": "zh1410",
-    "variable": "zh1410",
     "dataset": "h2009",
     "label": "wohnung mit klimaanlage",
     "categories": {
@@ -2001,16 +1749,11 @@
       "valid": "1245",
       "invalid": "74"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1411",
-    "name_cs": "zh1411",
-    "variable": "zh1411",
     "dataset": "h2009",
     "label": "wohnung mit sonnenkollekt., solarenergie",
     "categories": {
@@ -2039,16 +1782,11 @@
       "valid": "1247",
       "invalid": "72"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1412",
-    "name_cs": "zh1412",
-    "variable": "zh1412",
     "dataset": "h2009",
     "label": "wohnung mit sonst. alternat. energiequellen",
     "categories": {
@@ -2077,16 +1815,11 @@
       "valid": "1242",
       "invalid": "77"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1413",
-    "name_cs": "zh1413",
-    "variable": "zh1413",
     "dataset": "h2009",
     "label": "wohnung mit aufzug/fahrstuhl im haus",
     "categories": {
@@ -2115,16 +1848,11 @@
       "valid": "1267",
       "invalid": "52"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1501",
-    "name_cs": "zh1501",
-    "variable": "zh1501",
     "dataset": "h2009",
     "label": "seit vorjahr-kueche eingebaut",
     "categories": {
@@ -2153,16 +1881,11 @@
       "valid": "38",
       "invalid": "1281"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1502",
-    "name_cs": "zh1502",
-    "variable": "zh1502",
     "dataset": "h2009",
     "label": "seit vorjahr-bad,dusche,wc eingebaut",
     "categories": {
@@ -2191,16 +1914,11 @@
       "valid": "33",
       "invalid": "1286"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1503",
-    "name_cs": "zh1503",
-    "variable": "zh1503",
     "dataset": "h2009",
     "label": "seit vorjahr-heizung eingebaut",
     "categories": {
@@ -2229,16 +1947,11 @@
       "valid": "19",
       "invalid": "1300"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1504",
-    "name_cs": "zh1504",
-    "variable": "zh1504",
     "dataset": "h2009",
     "label": "seit vorjahr-neue fenster eingebaut",
     "categories": {
@@ -2267,16 +1980,11 @@
       "valid": "81",
       "invalid": "1238"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1505",
-    "name_cs": "zh1505",
-    "variable": "zh1505",
     "dataset": "h2009",
     "label": "seit vorjahr-waermedaemmung eingebaut",
     "categories": {
@@ -2305,16 +2013,11 @@
       "valid": "51",
       "invalid": "1268"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1506",
-    "name_cs": "zh1506",
-    "variable": "zh1506",
     "dataset": "h2009",
     "label": "seit vorjahr-altersgerchte umbauten",
     "categories": {
@@ -2343,16 +2046,11 @@
       "valid": "9",
       "invalid": "1310"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1507",
-    "name_cs": "zh1507",
-    "variable": "zh1507",
     "dataset": "h2009",
     "label": "seit vorjahr-sonst. groessere massnahmen",
     "categories": {
@@ -2381,16 +2079,11 @@
       "valid": "49",
       "invalid": "1270"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1508",
-    "name_cs": "zh1508",
-    "variable": "zh1508",
     "dataset": "h2009",
     "label": "seit vorjahr-keine modernisierungen",
     "categories": {
@@ -2423,16 +2116,11 @@
       "valid": "1124",
       "invalid": "195"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh16",
-    "name_cs": "zh16",
-    "variable": "zh16",
     "dataset": "h2009",
     "label": "modernisierung auf kosten von",
     "categories": {
@@ -2469,16 +2157,11 @@
       "valid": "185",
       "invalid": "1134"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh17",
-    "name_cs": "zh17",
-    "variable": "zh17",
     "dataset": "h2009",
     "label": "modernisierung durchgefuehrt von",
     "categories": {
@@ -2511,16 +2194,11 @@
       "valid": "105",
       "invalid": "1214"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh18",
-    "name_cs": "zh18",
-    "variable": "zh18",
     "dataset": "h2009",
     "label": "eigentuemerwechsel vorjahr",
     "categories": {
@@ -2549,16 +2227,11 @@
       "valid": "1313",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1901",
-    "name_cs": "zh1901",
-    "variable": "zh1901",
     "dataset": "h2009",
     "label": "eigentuemerwechsel art",
     "categories": {
@@ -2595,16 +2268,11 @@
       "valid": "76",
       "invalid": "1243"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1902",
-    "name_cs": "zh1902",
-    "variable": "zh1902",
     "dataset": "h2009",
     "label": "eigentumerwerb durch",
     "categories": {
@@ -2633,16 +2301,11 @@
       "valid": "6",
       "invalid": "1313"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh1903",
-    "name_cs": "zh1903",
-    "variable": "zh1903",
     "dataset": "h2009",
     "label": "nicht mehr eigentuemer",
     "categories": {
@@ -2671,16 +2334,11 @@
       "valid": "2",
       "invalid": "1317"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh20",
-    "name_cs": "zh20",
-    "variable": "zh20",
     "dataset": "h2009",
     "label": "haupt-, untermieter, eigentuemer",
     "categories": {
@@ -2717,16 +2375,11 @@
       "valid": "1314",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh21",
-    "name_cs": "zh21",
-    "variable": "zh21",
     "dataset": "h2009",
     "label": "v. eigentuemer verbilligt ueberl.whg",
     "categories": {
@@ -2755,16 +2408,11 @@
       "valid": "968",
       "invalid": "351"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh22",
-    "name_cs": "zh22",
-    "variable": "zh22",
     "dataset": "h2009",
     "label": "sozialwohnung",
     "categories": {
@@ -2801,16 +2449,11 @@
       "valid": "962",
       "invalid": "357"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh2301",
-    "name_cs": "zh2301",
-    "variable": "zh2301",
     "dataset": "h2009",
     "label": "hoehe der monatlichen miete",
     "categories": {
@@ -2830,16 +2473,11 @@
       "valid": "943",
       "invalid": "376"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh2302",
-    "name_cs": "zh2302",
-    "variable": "zh2302",
     "dataset": "h2009",
     "label": "zahle keine miete",
     "categories": {
@@ -2872,16 +2510,11 @@
       "valid": "16",
       "invalid": "1303"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh24",
-    "name_cs": "zh24",
-    "variable": "zh24",
     "dataset": "h2009",
     "label": "heizungs-,wwkosten in d. miete",
     "categories": {
@@ -2914,16 +2547,11 @@
       "valid": "941",
       "invalid": "378"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh25",
-    "name_cs": "zh25",
-    "variable": "zh25",
     "dataset": "h2009",
     "label": "monatl. heizkosten, durchschnittl.",
     "categories": {
@@ -2943,16 +2571,11 @@
       "valid": "728",
       "invalid": "591"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh2601",
-    "name_cs": "zh2601",
-    "variable": "zh2601",
     "dataset": "h2009",
     "label": "monatl. heizkosten, durchschnittl.",
     "categories": {
@@ -2981,16 +2604,11 @@
       "valid": "208",
       "invalid": "1111"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh2602",
-    "name_cs": "zh2602",
-    "variable": "zh2602",
     "dataset": "h2009",
     "label": "im mietpreis umlagen enthalten",
     "categories": {
@@ -3027,16 +2645,11 @@
       "valid": "914",
       "invalid": "405"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh2603",
-    "name_cs": "zh2603",
-    "variable": "zh2603",
     "dataset": "h2009",
     "label": "monatl hoehe der umlagen",
     "categories": {
@@ -3056,16 +2669,11 @@
       "valid": "534",
       "invalid": "785"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh2604",
-    "name_cs": "zh2604",
-    "variable": "zh2604",
     "dataset": "h2009",
     "label": "monatl hoehe der umlagen",
     "categories": {
@@ -3094,16 +2702,11 @@
       "valid": "274",
       "invalid": "1045"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh27",
-    "name_cs": "zh27",
-    "variable": "zh27",
     "dataset": "h2009",
     "label": "beurteilung der miethoehe",
     "categories": {
@@ -3148,16 +2751,11 @@
       "valid": "941",
       "invalid": "378"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh28",
-    "name_cs": "zh28",
-    "variable": "zh28",
     "dataset": "h2009",
     "label": "eigentuemer der wohnung",
     "categories": {
@@ -3206,16 +2804,11 @@
       "valid": "909",
       "invalid": "410"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh29",
-    "name_cs": "zh29",
-    "variable": "zh29",
     "dataset": "h2009",
     "label": "zins-,tilgungszahlungen f wohnung",
     "categories": {
@@ -3244,16 +2837,11 @@
       "valid": "346",
       "invalid": "973"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh30",
-    "name_cs": "zh30",
-    "variable": "zh30",
     "dataset": "h2009",
     "label": "monatl zins-,tilgungszahlungen",
     "categories": {
@@ -3273,16 +2861,11 @@
       "valid": "131",
       "invalid": "1188"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh31",
-    "name_cs": "zh31",
-    "variable": "zh31",
     "dataset": "h2009",
     "label": "hoehe instandhaltungskosten letzt.j",
     "categories": {
@@ -3302,16 +2885,11 @@
       "valid": "329",
       "invalid": "990"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh32",
-    "name_cs": "zh32",
-    "variable": "zh32",
     "dataset": "h2009",
     "label": "hoehe heizkosten letzt.j",
     "categories": {
@@ -3331,16 +2909,11 @@
       "valid": "333",
       "invalid": "986"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh33",
-    "name_cs": "zh33",
-    "variable": "zh33",
     "dataset": "h2009",
     "label": "jaehrliche nebenkosten in euro",
     "categories": {
@@ -3360,16 +2933,11 @@
       "valid": "326",
       "invalid": "993"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh3401",
-    "name_cs": "zh3401",
-    "variable": "zh3401",
     "dataset": "h2009",
     "label": "wohngeld als eigentuemer d. wohnung",
     "categories": {
@@ -3398,16 +2966,11 @@
       "valid": "346",
       "invalid": "973"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh3402",
-    "name_cs": "zh3402",
-    "variable": "zh3402",
     "dataset": "h2009",
     "label": "wohngeld, betrag pro monat",
     "categories": {
@@ -3427,16 +2990,11 @@
       "valid": "111",
       "invalid": "1208"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh35",
-    "name_cs": "zh35",
-    "variable": "zh35",
     "dataset": "h2009",
     "label": "beurteilung - finanzielle belastung",
     "categories": {
@@ -3481,16 +3039,11 @@
       "valid": "344",
       "invalid": "975"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh3601",
-    "name_cs": "zh3601",
-    "variable": "zh3601",
     "dataset": "h2009",
     "label": "geschaetzte monatl. miete ohne heizung",
     "categories": {
@@ -3510,16 +3063,11 @@
       "valid": "273",
       "invalid": "1046"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh3602",
-    "name_cs": "zh3602",
-    "variable": "zh3602",
     "dataset": "h2009",
     "label": "geschaetzte monatl. miete ohne heizung",
     "categories": {
@@ -3548,16 +3096,11 @@
       "valid": "72",
       "invalid": "1247"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh3701",
-    "name_cs": "zh3701",
-    "variable": "zh3701",
     "dataset": "h2009",
     "label": "wohn-eigentumsfoerd.,eigenheimzulage vorjahr",
     "categories": {
@@ -3586,16 +3129,11 @@
       "valid": "346",
       "invalid": "973"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh3702",
-    "name_cs": "zh3702",
-    "variable": "zh3702",
     "dataset": "h2009",
     "label": "hoehe foerderbetrag vorjahr",
     "categories": {
@@ -3615,16 +3153,11 @@
       "valid": "31",
       "invalid": "1288"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh38",
-    "name_cs": "zh38",
-    "variable": "zh38",
     "dataset": "h2009",
     "label": "miet- u.pachteinnahmen vorjahr",
     "categories": {
@@ -3653,16 +3186,11 @@
       "valid": "1318",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh39",
-    "name_cs": "zh39",
-    "variable": "zh39",
     "dataset": "h2009",
     "label": "miet- u.pachteinnahmen betrag vorjahr",
     "categories": {
@@ -3682,16 +3210,11 @@
       "valid": "108",
       "invalid": "1211"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4001",
-    "name_cs": "zh4001",
-    "variable": "zh4001",
     "dataset": "h2009",
     "label": "betriebs- u.instandhaltgskosten vorjahr",
     "categories": {
@@ -3711,16 +3234,11 @@
       "valid": "104",
       "invalid": "1215"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4002",
-    "name_cs": "zh4002",
-    "variable": "zh4002",
     "dataset": "h2009",
     "label": "tilgungs-u.zinszahlungen vorjahr",
     "categories": {
@@ -3740,16 +3258,11 @@
       "valid": "87",
       "invalid": "1232"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4101",
-    "name_cs": "zh4101",
-    "variable": "zh4101",
     "dataset": "h2009",
     "label": "steuerlich absetzten, vorjahr",
     "categories": {
@@ -3782,16 +3295,11 @@
       "valid": "112",
       "invalid": "1207"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4102",
-    "name_cs": "zh4102",
-    "variable": "zh4102",
     "dataset": "h2009",
     "label": "steuerlich absetzten, betrag vorjahr",
     "categories": {
@@ -3811,16 +3319,11 @@
       "valid": "67",
       "invalid": "1252"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh42",
-    "name_cs": "zh42",
-    "variable": "zh42",
     "dataset": "h2009",
     "label": "abzahlung kredite",
     "categories": {
@@ -3849,16 +3352,11 @@
       "valid": "1314",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh43",
-    "name_cs": "zh43",
-    "variable": "zh43",
     "dataset": "h2009",
     "label": "abzahlung kredite hoehe",
     "categories": {
@@ -3878,16 +3376,11 @@
       "valid": "207",
       "invalid": "1112"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh44",
-    "name_cs": "zh44",
-    "variable": "zh44",
     "dataset": "h2009",
     "label": "belastung durch rueckzahlung kredite",
     "categories": {
@@ -3924,16 +3417,11 @@
       "valid": "210",
       "invalid": "1109"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4501",
-    "name_cs": "zh4501",
-    "variable": "zh4501",
     "dataset": "h2009",
     "label": "sparbuch vorjahr",
     "categories": {
@@ -3962,16 +3450,11 @@
       "valid": "840",
       "invalid": "479"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4502",
-    "name_cs": "zh4502",
-    "variable": "zh4502",
     "dataset": "h2009",
     "label": "bausparvertrag vorjahr",
     "categories": {
@@ -4000,16 +3483,11 @@
       "valid": "360",
       "invalid": "959"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4503",
-    "name_cs": "zh4503",
-    "variable": "zh4503",
     "dataset": "h2009",
     "label": "lebensversicherung vorjahr",
     "categories": {
@@ -4038,16 +3516,11 @@
       "valid": "379",
       "invalid": "940"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4504",
-    "name_cs": "zh4504",
-    "variable": "zh4504",
     "dataset": "h2009",
     "label": "festverzinsl. wertpapiere vorjahr",
     "categories": {
@@ -4076,16 +3549,11 @@
       "valid": "256",
       "invalid": "1063"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4505",
-    "name_cs": "zh4505",
-    "variable": "zh4505",
     "dataset": "h2009",
     "label": "sonstige wertpapiere vorjahr",
     "categories": {
@@ -4114,16 +3582,11 @@
       "valid": "461",
       "invalid": "858"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4506",
-    "name_cs": "zh4506",
-    "variable": "zh4506",
     "dataset": "h2009",
     "label": "betriebsvermoegen vorjahr",
     "categories": {
@@ -4152,16 +3615,11 @@
       "valid": "11",
       "invalid": "1308"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4507",
-    "name_cs": "zh4507",
-    "variable": "zh4507",
     "dataset": "h2009",
     "label": "keine wertanlagen vorjahr",
     "categories": {
@@ -4194,16 +3652,11 @@
       "valid": "241",
       "invalid": "1078"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4508",
-    "name_cs": "zh4508",
-    "variable": "zh4508",
     "dataset": "h2009",
     "label": "verluste steuerlich absetzen",
     "categories": {
@@ -4236,16 +3689,11 @@
       "valid": "455",
       "invalid": "864"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4509",
-    "name_cs": "zh4509",
-    "variable": "zh4509",
     "dataset": "h2009",
     "label": "verluste steuerlich absetzen, betrag",
     "categories": {
@@ -4265,16 +3713,11 @@
       "valid": "32",
       "invalid": "1287"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4510",
-    "name_cs": "zh4510",
-    "variable": "zh4510",
     "dataset": "h2009",
     "label": "wertanlagen k.a.",
     "categories": {
@@ -4284,16 +3727,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4601",
-    "name_cs": "zh4601",
-    "variable": "zh4601",
     "dataset": "h2009",
     "label": "zins-u. dividendeneinnahmen vorjahr",
     "categories": {
@@ -4313,16 +3751,11 @@
       "valid": "584",
       "invalid": "735"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4602",
-    "name_cs": "zh4602",
-    "variable": "zh4602",
     "dataset": "h2009",
     "label": "zins-u. dividendeneinnahmen geschaetzt vorjahr",
     "categories": {
@@ -4371,16 +3804,11 @@
       "valid": "428",
       "invalid": "891"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4701",
-    "name_cs": "zh4701",
-    "variable": "zh4701",
     "dataset": "h2009",
     "label": "unerw. geldbetraege,sachw. ue.5000 dm er",
     "categories": {
@@ -4409,16 +3837,11 @@
       "valid": "1316",
       "invalid": "3"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4702",
-    "name_cs": "zh4702",
-    "variable": "zh4702",
     "dataset": "h2009",
     "label": "erbschaft",
     "categories": {
@@ -4447,16 +3870,11 @@
       "valid": "43",
       "invalid": "1276"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4703",
-    "name_cs": "zh4703",
-    "variable": "zh4703",
     "dataset": "h2009",
     "label": "schenkung",
     "categories": {
@@ -4485,16 +3903,11 @@
       "valid": "27",
       "invalid": "1292"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4704",
-    "name_cs": "zh4704",
-    "variable": "zh4704",
     "dataset": "h2009",
     "label": "lotteriegewinn",
     "categories": {
@@ -4523,16 +3936,11 @@
       "valid": "4",
       "invalid": "1315"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4705",
-    "name_cs": "zh4705",
-    "variable": "zh4705",
     "dataset": "h2009",
     "label": "unerw.geldbetraege k.a.",
     "categories": {
@@ -4554,16 +3962,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh48",
-    "name_cs": "zh48",
-    "variable": "zh48",
     "dataset": "h2009",
     "label": "hoehe unerw. geldbetrage,sachw.in euro",
     "categories": {
@@ -4583,16 +3986,11 @@
       "valid": "70",
       "invalid": "1249"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4901",
-    "name_cs": "zh4901",
-    "variable": "zh4901",
     "dataset": "h2009",
     "label": "kindergeldbezug letztes jahr",
     "categories": {
@@ -4621,16 +4019,11 @@
       "valid": "1117",
       "invalid": "202"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4902",
-    "name_cs": "zh4902",
-    "variable": "zh4902",
     "dataset": "h2009",
     "label": "kindergeld letzt.j monate",
     "categories": {
@@ -4650,16 +4043,11 @@
       "valid": "162",
       "invalid": "1157"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4903",
-    "name_cs": "zh4903",
-    "variable": "zh4903",
     "dataset": "h2009",
     "label": "kindergeld letzt.j betrag(monat)",
     "categories": {
@@ -4679,16 +4067,11 @@
       "valid": "162",
       "invalid": "1157"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4904",
-    "name_cs": "zh4904",
-    "variable": "zh4904",
     "dataset": "h2009",
     "label": "kinderzuschlag letztes jahr",
     "categories": {
@@ -4717,16 +4100,11 @@
       "valid": "1103",
       "invalid": "216"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4905",
-    "name_cs": "zh4905",
-    "variable": "zh4905",
     "dataset": "h2009",
     "label": "kinderzuschlag anzahl monate vorjahr",
     "categories": {
@@ -4746,16 +4124,11 @@
       "valid": "14",
       "invalid": "1305"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4906",
-    "name_cs": "zh4906",
-    "variable": "zh4906",
     "dataset": "h2009",
     "label": "kinderzuschlag betrag/monat vorjahr",
     "categories": {
@@ -4775,16 +4148,11 @@
       "valid": "15",
       "invalid": "1304"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4907",
-    "name_cs": "zh4907",
-    "variable": "zh4907",
     "dataset": "h2009",
     "label": "alg2, sozialgeld im letzten jahr: bezogen",
     "categories": {
@@ -4813,16 +4181,11 @@
       "valid": "1117",
       "invalid": "202"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4908",
-    "name_cs": "zh4908",
-    "variable": "zh4908",
     "dataset": "h2009",
     "label": "alg2, sozialgeld im letzten jahr: anzahl monate",
     "categories": {
@@ -4842,16 +4205,11 @@
       "valid": "78",
       "invalid": "1241"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4909",
-    "name_cs": "zh4909",
-    "variable": "zh4909",
     "dataset": "h2009",
     "label": "alg2, sozialgeld im letzten jahr: betrag pro monat",
     "categories": {
@@ -4871,16 +4229,11 @@
       "valid": "80",
       "invalid": "1239"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4910",
-    "name_cs": "zh4910",
-    "variable": "zh4910",
     "dataset": "h2009",
     "label": "wohngeld,lastenzuschuss vorjahr",
     "categories": {
@@ -4909,16 +4262,11 @@
       "valid": "1295",
       "invalid": "24"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4911",
-    "name_cs": "zh4911",
-    "variable": "zh4911",
     "dataset": "h2009",
     "label": "im letzten jahr: monate mit wohngeld o. lastenzuschuss",
     "categories": {
@@ -4938,16 +4286,11 @@
       "valid": "28",
       "invalid": "1291"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4912",
-    "name_cs": "zh4912",
-    "variable": "zh4912",
     "dataset": "h2009",
     "label": "wohngeld,lastenzuschuss pro monat",
     "categories": {
@@ -4967,16 +4310,11 @@
       "valid": "31",
       "invalid": "1288"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4913",
-    "name_cs": "zh4913",
-    "variable": "zh4913",
     "dataset": "h2009",
     "label": "leistungen der pflegeversicherung vorjahr",
     "categories": {
@@ -5005,16 +4343,11 @@
       "valid": "1312",
       "invalid": "7"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh4914",
-    "name_cs": "zh4914",
-    "variable": "zh4914",
     "dataset": "h2009",
     "label": "leistungen der pflegeversicherung monate",
     "categories": {
@@ -5034,16 +4367,11 @@
       "valid": "12",
       "invalid": "1307"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4915",
-    "name_cs": "zh4915",
-    "variable": "zh4915",
     "dataset": "h2009",
     "label": "leistungen der pflegeversicherung pro monat",
     "categories": {
@@ -5063,16 +4391,11 @@
       "valid": "12",
       "invalid": "1307"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh4916",
-    "name_cs": "zh4916",
-    "variable": "zh4916",
     "dataset": "h2009",
     "label": "sozialhilfebezug letzt.j",
     "categories": {
@@ -5101,16 +4424,11 @@
       "valid": "1312",
       "invalid": "7"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5001",
-    "name_cs": "zh5001",
-    "variable": "zh5001",
     "dataset": "h2009",
     "label": "hilfe lebensunterhalt",
     "categories": {
@@ -5139,16 +4457,11 @@
       "valid": "18",
       "invalid": "1301"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5002",
-    "name_cs": "zh5002",
-    "variable": "zh5002",
     "dataset": "h2009",
     "label": "hilfe lebensunterhalt monate",
     "categories": {
@@ -5168,16 +4481,11 @@
       "valid": "17",
       "invalid": "1302"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5003",
-    "name_cs": "zh5003",
-    "variable": "zh5003",
     "dataset": "h2009",
     "label": "hilfe lebensunterhalt pro monat",
     "categories": {
@@ -5197,16 +4505,11 @@
       "valid": "16",
       "invalid": "1303"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5004",
-    "name_cs": "zh5004",
-    "variable": "zh5004",
     "dataset": "h2009",
     "label": "hilfe alter/erwerbsminderung",
     "categories": {
@@ -5235,16 +4538,11 @@
       "valid": "19",
       "invalid": "1300"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5005",
-    "name_cs": "zh5005",
-    "variable": "zh5005",
     "dataset": "h2009",
     "label": "hilfe alter/erwerbsminderung monate",
     "categories": {
@@ -5264,16 +4562,11 @@
       "valid": "16",
       "invalid": "1303"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5006",
-    "name_cs": "zh5006",
-    "variable": "zh5006",
     "dataset": "h2009",
     "label": "hilfe alter/erwerbsminderung pro monat",
     "categories": {
@@ -5293,16 +4586,11 @@
       "valid": "19",
       "invalid": "1300"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5007",
-    "name_cs": "zh5007",
-    "variable": "zh5007",
     "dataset": "h2009",
     "label": "hilfe in bes.lebenslagen",
     "categories": {
@@ -5324,16 +4612,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5008",
-    "name_cs": "zh5008",
-    "variable": "zh5008",
     "dataset": "h2009",
     "label": "hilfe in bes.lebenslagen monate",
     "categories": {
@@ -5343,16 +4626,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5009",
-    "name_cs": "zh5009",
-    "variable": "zh5009",
     "dataset": "h2009",
     "label": "hilfe in bes.lebenslagen pro monat",
     "categories": {
@@ -5362,16 +4640,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5010",
-    "name_cs": "zh5010",
-    "variable": "zh5010",
     "dataset": "h2009",
     "label": "einmalige hilfe zum lebensunterhalt",
     "categories": {
@@ -5393,16 +4666,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5011",
-    "name_cs": "zh5011",
-    "variable": "zh5011",
     "dataset": "h2009",
     "label": "sozialhilfe k.a.",
     "categories": {
@@ -5412,16 +4680,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5101",
-    "name_cs": "zh5101",
-    "variable": "zh5101",
     "dataset": "h2009",
     "label": "kindergeldbezug heute",
     "categories": {
@@ -5450,16 +4713,11 @@
       "valid": "119",
       "invalid": "1200"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5102",
-    "name_cs": "zh5102",
-    "variable": "zh5102",
     "dataset": "h2009",
     "label": "kindergeldbezug heute betrag",
     "categories": {
@@ -5479,16 +4737,11 @@
       "valid": "116",
       "invalid": "1203"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5103",
-    "name_cs": "zh5103",
-    "variable": "zh5103",
     "dataset": "h2009",
     "label": "anz. kinder",
     "categories": {
@@ -5508,16 +4761,11 @@
       "valid": "117",
       "invalid": "1202"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5104",
-    "name_cs": "zh5104",
-    "variable": "zh5104",
     "dataset": "h2009",
     "label": "kinderzuschlagbezug heute",
     "categories": {
@@ -5546,16 +4794,11 @@
       "valid": "11",
       "invalid": "1308"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5105",
-    "name_cs": "zh5105",
-    "variable": "zh5105",
     "dataset": "h2009",
     "label": "kinderzuschlagbezug heute betrag",
     "categories": {
@@ -5575,16 +4818,11 @@
       "valid": "10",
       "invalid": "1309"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5106",
-    "name_cs": "zh5106",
-    "variable": "zh5106",
     "dataset": "h2009",
     "label": "alg ii, sozialgeld heute",
     "categories": {
@@ -5613,16 +4851,11 @@
       "valid": "61",
       "invalid": "1258"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5107",
-    "name_cs": "zh5107",
-    "variable": "zh5107",
     "dataset": "h2009",
     "label": "alg ii, sozialgeld heute betrag",
     "categories": {
@@ -5642,16 +4875,11 @@
       "valid": "61",
       "invalid": "1258"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5108",
-    "name_cs": "zh5108",
-    "variable": "zh5108",
     "dataset": "h2009",
     "label": "wohngeldbezug heute",
     "categories": {
@@ -5680,16 +4908,11 @@
       "valid": "29",
       "invalid": "1290"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5109",
-    "name_cs": "zh5109",
-    "variable": "zh5109",
     "dataset": "h2009",
     "label": "wohngeldbezug heute betrag",
     "categories": {
@@ -5709,16 +4932,11 @@
       "valid": "29",
       "invalid": "1290"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5110",
-    "name_cs": "zh5110",
-    "variable": "zh5110",
     "dataset": "h2009",
     "label": "pflegevers. leistungen",
     "categories": {
@@ -5747,16 +4965,11 @@
       "valid": "11",
       "invalid": "1308"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5111",
-    "name_cs": "zh5111",
-    "variable": "zh5111",
     "dataset": "h2009",
     "label": "pflegevers. betrag",
     "categories": {
@@ -5776,16 +4989,11 @@
       "valid": "11",
       "invalid": "1308"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5112",
-    "name_cs": "zh5112",
-    "variable": "zh5112",
     "dataset": "h2009",
     "label": "alter/erwerbsminderung heute",
     "categories": {
@@ -5814,16 +5022,11 @@
       "valid": "26",
       "invalid": "1293"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5113",
-    "name_cs": "zh5113",
-    "variable": "zh5113",
     "dataset": "h2009",
     "label": "alter/erwerbsminderung heute betrag",
     "categories": {
@@ -5843,16 +5046,11 @@
       "valid": "26",
       "invalid": "1293"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5114",
-    "name_cs": "zh5114",
-    "variable": "zh5114",
     "dataset": "h2009",
     "label": "sozialhilfebezug heute",
     "categories": {
@@ -5881,16 +5079,11 @@
       "valid": "6",
       "invalid": "1313"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5115",
-    "name_cs": "zh5115",
-    "variable": "zh5115",
     "dataset": "h2009",
     "label": "sozialhilfebezug heute betrag",
     "categories": {
@@ -5910,16 +5103,11 @@
       "valid": "5",
       "invalid": "1314"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5116",
-    "name_cs": "zh5116",
-    "variable": "zh5116",
     "dataset": "h2009",
     "label": "keine staatl leistungen",
     "categories": {
@@ -5948,16 +5136,11 @@
       "valid": "1082",
       "invalid": "237"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5201",
-    "name_cs": "zh5201",
-    "variable": "zh5201",
     "dataset": "h2009",
     "label": "hh-nettoeinkommen",
     "categories": {
@@ -5977,16 +5160,11 @@
       "valid": "1268",
       "invalid": "51"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh5202",
-    "name_cs": "zh5202",
-    "variable": "zh5202",
     "dataset": "h2009",
     "label": "hh-nettoeinkommensgruppen, nur capi",
     "categories": {
@@ -6067,16 +5245,11 @@
       "valid": "11",
       "invalid": "1308"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5301",
-    "name_cs": "zh5301",
-    "variable": "zh5301",
     "dataset": "h2009",
     "label": "sparbetrag monatlich",
     "categories": {
@@ -6105,16 +5278,11 @@
       "valid": "1311",
       "invalid": "8"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5302",
-    "name_cs": "zh5302",
-    "variable": "zh5302",
     "dataset": "h2009",
     "label": "sparbetrag monatlich hoehe",
     "categories": {
@@ -6134,16 +5302,11 @@
       "valid": "701",
       "invalid": "618"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh54",
-    "name_cs": "zh54",
-    "variable": "zh54",
     "dataset": "h2009",
     "label": "entfernung z. zentrum d.n. grossstadt",
     "categories": {
@@ -6188,16 +5351,11 @@
       "valid": "1304",
       "invalid": "15"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5501",
-    "name_cs": "zh5501",
-    "variable": "zh5501",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. geschaefte",
     "categories": {
@@ -6234,16 +5392,11 @@
       "valid": "1318",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5502",
-    "name_cs": "zh5502",
-    "variable": "zh5502",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. gaststaetten",
     "categories": {
@@ -6280,16 +5433,11 @@
       "valid": "1313",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5503",
-    "name_cs": "zh5503",
-    "variable": "zh5503",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. bank",
     "categories": {
@@ -6326,16 +5474,11 @@
       "valid": "1313",
       "invalid": "6"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5504",
-    "name_cs": "zh5504",
-    "variable": "zh5504",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. hausarzt",
     "categories": {
@@ -6372,16 +5515,11 @@
       "valid": "1310",
       "invalid": "9"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5505",
-    "name_cs": "zh5505",
-    "variable": "zh5505",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. kindergarten",
     "categories": {
@@ -6418,16 +5556,11 @@
       "valid": "1062",
       "invalid": "257"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5506",
-    "name_cs": "zh5506",
-    "variable": "zh5506",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. grundschule",
     "categories": {
@@ -6464,16 +5597,11 @@
       "valid": "1086",
       "invalid": "233"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5507",
-    "name_cs": "zh5507",
-    "variable": "zh5507",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. gymnasium",
     "categories": {
@@ -6510,16 +5638,11 @@
       "valid": "1074",
       "invalid": "245"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5508",
-    "name_cs": "zh5508",
-    "variable": "zh5508",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. treffp f. jugendl.",
     "categories": {
@@ -6556,16 +5679,11 @@
       "valid": "1036",
       "invalid": "283"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5509",
-    "name_cs": "zh5509",
-    "variable": "zh5509",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. einricht. f. alte",
     "categories": {
@@ -6602,16 +5720,11 @@
       "valid": "1191",
       "invalid": "128"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5510",
-    "name_cs": "zh5510",
-    "variable": "zh5510",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. gruenanlagen",
     "categories": {
@@ -6648,16 +5761,11 @@
       "valid": "1300",
       "invalid": "19"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5511",
-    "name_cs": "zh5511",
-    "variable": "zh5511",
     "dataset": "h2009",
     "label": "entfernung z. fuss z. sportstaetten",
     "categories": {
@@ -6694,16 +5802,11 @@
       "valid": "1250",
       "invalid": "69"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5512",
-    "name_cs": "zh5512",
-    "variable": "zh5512",
     "dataset": "h2009",
     "label": "entfernung z.fuss z. oefftl.verkehrsmittel",
     "categories": {
@@ -6740,16 +5843,11 @@
       "valid": "1314",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5601",
-    "name_cs": "zh5601",
-    "variable": "zh5601",
     "dataset": "h2009",
     "label": "beintraechtigung d. laermbelaestigung",
     "categories": {
@@ -6790,16 +5888,11 @@
       "valid": "1318",
       "invalid": "1"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5602",
-    "name_cs": "zh5602",
-    "variable": "zh5602",
     "dataset": "h2009",
     "label": "beintraechtigung d. luftverschmutzung",
     "categories": {
@@ -6840,16 +5933,11 @@
       "valid": "1302",
       "invalid": "17"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh5603",
-    "name_cs": "zh5603",
-    "variable": "zh5603",
     "dataset": "h2009",
     "label": "beintraechtigung d.mangel a.gruenflaeche",
     "categories": {
@@ -6890,16 +5978,11 @@
       "valid": "1285",
       "invalid": "34"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh57",
-    "name_cs": "zh57",
-    "variable": "zh57",
     "dataset": "h2009",
     "label": "kriminalitaet im wohngebiet",
     "categories": {
@@ -6936,16 +6019,11 @@
       "valid": "1317",
       "invalid": "2"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh58",
-    "name_cs": "zh58",
-    "variable": "zh58",
     "dataset": "h2009",
     "label": "verhaeltnis d. bewohner zueinander",
     "categories": {
@@ -6982,16 +6060,11 @@
       "valid": "1314",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh59",
-    "name_cs": "zh59",
-    "variable": "zh59",
     "dataset": "h2009",
     "label": "leben auslaend. familien im wohngebiet",
     "categories": {
@@ -7028,16 +6101,11 @@
       "valid": "1317",
       "invalid": "2"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh60",
-    "name_cs": "zh60",
-    "variable": "zh60",
     "dataset": "h2009",
     "label": "kontakt mit nachbarn",
     "categories": {
@@ -7078,16 +6146,11 @@
       "valid": "1314",
       "invalid": "5"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6101",
-    "name_cs": "zh6101",
-    "variable": "zh6101",
     "dataset": "h2009",
     "label": "besuche von,bei nachbarn",
     "categories": {
@@ -7116,16 +6179,11 @@
       "valid": "1317",
       "invalid": "2"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6102",
-    "name_cs": "zh6102",
-    "variable": "zh6102",
     "dataset": "h2009",
     "label": "hfgkt nachbarschaftsbesuche",
     "categories": {
@@ -7166,16 +6224,11 @@
       "valid": "653",
       "invalid": "666"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh62",
-    "name_cs": "zh62",
-    "variable": "zh62",
     "dataset": "h2009",
     "label": "hilfe-,pflegebeduerft. person im hh",
     "categories": {
@@ -7200,16 +6253,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6301",
-    "name_cs": "zh6301",
-    "variable": "zh6301",
     "dataset": "h2009",
     "label": "pnr hilfebeduerfige person",
     "categories": {
@@ -7229,16 +6277,11 @@
       "valid": "26",
       "invalid": "1293"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh6302",
-    "name_cs": "zh6302",
-    "variable": "zh6302",
     "dataset": "h2009",
     "label": "hilfe bei besorgungen ausser hh",
     "categories": {
@@ -7267,16 +6310,11 @@
       "valid": "25",
       "invalid": "1294"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6303",
-    "name_cs": "zh6303",
-    "variable": "zh6303",
     "dataset": "h2009",
     "label": "hilfe bei haushaltsfuehrung",
     "categories": {
@@ -7296,16 +6334,11 @@
       "valid": "20",
       "invalid": "1299"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh6304",
-    "name_cs": "zh6304",
-    "variable": "zh6304",
     "dataset": "h2009",
     "label": "hilfe bei einfacher pflegetaetigkeit",
     "categories": {
@@ -7334,16 +6367,11 @@
       "valid": "8",
       "invalid": "1311"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6305",
-    "name_cs": "zh6305",
-    "variable": "zh6305",
     "dataset": "h2009",
     "label": "hilfe bei schwieriger pflegetaetigkeit",
     "categories": {
@@ -7372,16 +6400,11 @@
       "valid": "2",
       "invalid": "1317"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6306",
-    "name_cs": "zh6306",
-    "variable": "zh6306",
     "dataset": "h2009",
     "label": "hilfe k.a.",
     "categories": {
@@ -7391,16 +6414,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh6401",
-    "name_cs": "zh6401",
-    "variable": "zh6401",
     "dataset": "h2009",
     "label": "leistungen der pflegeversicherung",
     "categories": {
@@ -7429,16 +6447,11 @@
       "valid": "26",
       "invalid": "1293"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6402",
-    "name_cs": "zh6402",
-    "variable": "zh6402",
     "dataset": "h2009",
     "label": "pflegestufe",
     "categories": {
@@ -7471,16 +6484,11 @@
       "valid": "12",
       "invalid": "1307"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6501",
-    "name_cs": "zh6501",
-    "variable": "zh6501",
     "dataset": "h2009",
     "label": "hilfe v.schwester,sozialhelfer",
     "categories": {
@@ -7509,16 +6517,11 @@
       "valid": "25",
       "invalid": "1294"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6502",
-    "name_cs": "zh6502",
-    "variable": "zh6502",
     "dataset": "h2009",
     "label": "pnr der hauptpflegeperson im hh",
     "categories": {
@@ -7538,16 +6541,11 @@
       "valid": "25",
       "invalid": "1294"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh6503",
-    "name_cs": "zh6503",
-    "variable": "zh6503",
     "dataset": "h2009",
     "label": "hilfe v. schwester,sozialhelfer",
     "categories": {
@@ -7569,16 +6567,11 @@
       ]
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh6504",
-    "name_cs": "zh6504",
-    "variable": "zh6504",
     "dataset": "h2009",
     "label": "hilfe v.priv.pflegedienst",
     "categories": {
@@ -7607,16 +6600,11 @@
       "valid": "1",
       "invalid": "1318"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6505",
-    "name_cs": "zh6505",
-    "variable": "zh6505",
     "dataset": "h2009",
     "label": "hilfe v.nachbarn",
     "categories": {
@@ -7645,16 +6633,11 @@
       "valid": "1",
       "invalid": "1318"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6506",
-    "name_cs": "zh6506",
-    "variable": "zh6506",
     "dataset": "h2009",
     "label": "hilfe v. nachbarn",
     "categories": {
@@ -7683,16 +6666,11 @@
       "valid": "1",
       "invalid": "1318"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6507",
-    "name_cs": "zh6507",
-    "variable": "zh6507",
     "dataset": "h2009",
     "label": "hilfe v. angehoerige ausser hh",
     "categories": {
@@ -7721,16 +6699,11 @@
       "valid": "3",
       "invalid": "1316"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6508",
-    "name_cs": "zh6508",
-    "variable": "zh6508",
     "dataset": "h2009",
     "label": "hilfe v.  k.a.",
     "categories": {
@@ -7740,16 +6713,11 @@
       "values": []
     },
     "statistics": {},
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh6509",
-    "name_cs": "zh6509",
-    "variable": "zh6509",
     "dataset": "h2009",
     "label": "person erhaelt bezahlung",
     "categories": {
@@ -7769,16 +6737,11 @@
       "valid": "5",
       "invalid": "1314"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh6601",
-    "name_cs": "zh6601",
-    "variable": "zh6601",
     "dataset": "h2009",
     "label": "weitere pflegebeduerftige personen im hh",
     "categories": {
@@ -7807,16 +6770,11 @@
       "valid": "26",
       "invalid": "1293"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zh6602",
-    "name_cs": "zh6602",
-    "variable": "zh6602",
     "dataset": "h2009",
     "label": "anzahl weiterer pflegebeduerftiger personen",
     "categories": {
@@ -7836,16 +6794,11 @@
       "valid": "1",
       "invalid": "1318"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zh67",
-    "name_cs": "zh67",
-    "variable": "zh67",
     "dataset": "h2009",
     "label": "putz-,haushaltshilfe beschaeftigt",
     "categories": {
@@ -7878,16 +6831,11 @@
       "valid": "1301",
       "invalid": "18"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zhivform",
-    "name_cs": "zhivform",
-    "variable": "zhivform",
     "dataset": "h2009",
     "label": "durchfuehrung der befragung",
     "categories": {
@@ -7932,16 +6880,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zhhdaer1",
-    "name_cs": "zhhdaer1",
-    "variable": "zhhdaer1",
     "dataset": "h2009",
     "label": "interviewdauer muendlich",
     "categories": {
@@ -7961,16 +6904,11 @@
       "valid": "157",
       "invalid": "1162"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zhhdaer2",
-    "name_cs": "zhhdaer2",
-    "variable": "zhhdaer2",
     "dataset": "h2009",
     "label": "interviewdauer schriftlich",
     "categories": {
@@ -7990,16 +6928,11 @@
       "valid": "1",
       "invalid": "1318"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zhhtagin",
-    "name_cs": "zhhtagin",
-    "variable": "zhhtagin",
     "dataset": "h2009",
     "label": "tag des interviews",
     "categories": {
@@ -8018,16 +6951,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zhhmonin",
-    "name_cs": "zhhmonin",
-    "variable": "zhhmonin",
     "dataset": "h2009",
     "label": "monat des interviews",
     "categories": {
@@ -8092,16 +7020,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "cat",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": "cat"
   },
   {
     "study": "soep-base",
     "name": "zhintnr",
-    "name_cs": "zhintnr",
-    "variable": "zhintnr",
     "dataset": "h2009",
     "label": "interviewnummer",
     "categories": {
@@ -8121,16 +7044,11 @@
       "valid": "212",
       "invalid": "1107"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zhpmax",
-    "name_cs": "zhpmax",
-    "variable": "zhpmax",
     "dataset": "h2009",
     "label": "hoechste vergebene pnr im haushalt",
     "categories": {
@@ -8149,16 +7067,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "hhnr",
-    "name_cs": "hhnr",
-    "variable": "hhnr",
     "dataset": "h2009",
     "label": "ursprungshaushaltsnummer",
     "categories": {
@@ -8177,16 +7090,11 @@
       "valid": "1319",
       "invalid": "0"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   },
   {
     "study": "soep-base",
     "name": "zhhdaer",
-    "name_cs": "zhhdaer",
-    "variable": "zhhdaer",
     "dataset": "h2009",
     "label": "interviewdauer",
     "categories": {
@@ -8199,9 +7107,6 @@
       "valid": "1310",
       "invalid": "9"
     },
-    "scale": "",
-    "analysis_unit": "h",
-    "sub_type": "org/net",
-    "period": "2009"
+    "scale": ""
   }
 ]
