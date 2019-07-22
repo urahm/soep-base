@@ -1,4 +1,4 @@
-study,dataset,analysis_unit,period,conceptual_dataset
+study,name,analysis_unit,period,conceptual_dataset
 soep-base,h2008,h,2008,org/net
 soep-base,h2009,h,2009,org/net
 soep-base,h2010,h,2010,org/net
